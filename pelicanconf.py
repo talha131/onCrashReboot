@@ -16,10 +16,10 @@ DEFAULT_LANG = u'en'
 # Plugins and extensions
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid',
                 'toc(permalink=true)']
-PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'liquid_tags.img',
-           'neighbors', 'latex', 'related_posts', 'assets', 'share_post',
-           'multi_part']
 PLUGIN_PATH = 'plugins'
+PLUGINS = ['sitemap', 'extract_toc', 'tipue_search',
+           'neighbors', 'related_posts', 'assets', 'share_post',
+           ]
 SITEMAP = {
     'format': 'xml',
     'priorities': {
