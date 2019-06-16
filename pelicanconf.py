@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Talha Mansoor'
 SITENAME = u"""<span style="color:black;">onCrash</span> <span style="color:darkblue;">=</span> <span style="color:#AA1032;">'reboot();'</span>"""
-SITEURL = 'http://localhost:8000'
+SITEURL = ''
+
+PATH = 'content'
 
 # Regional Settings
 TIMEZONE = 'Asia/Karachi'
@@ -14,10 +16,10 @@ DEFAULT_LANG = u'en'
 # Plugins and extensions
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid',
                 'toc(permalink=true)']
-PLUGIN_PATH = '../pelican-plugins/'
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'liquid_tags.img',
            'neighbors', 'latex', 'related_posts', 'assets', 'share_post',
            'multi_part']
+PLUGIN_PATH = 'plugins'
 SITEMAP = {
     'format': 'xml',
     'priorities': {
@@ -34,7 +36,7 @@ SITEMAP = {
 
 # Appearance
 TYPOGRIFY = True
-THEME = 'elegant'
+THEME = 'themes/elegant'
 DEFAULT_PAGINATION = False
 
 # Defaults
