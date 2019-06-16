@@ -1,9 +1,9 @@
 pelican.pid
 srv.pid
-plugins/**
-themes/**
-.peru/**
-output/**
+plugins/
+themes/
+.peru/
+output/
 
 # Created by https://www.gitignore.io/api/macos,python
 # Edit at https://www.gitignore.io/?templates=macos,python
