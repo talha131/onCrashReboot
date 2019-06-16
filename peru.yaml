@@ -1,0 +1,42 @@
+imports:
+    assets: plugins/
+    elegant: themes/elegant/
+    extract_toc: plugins/
+    neighbors: plugins/
+    related_posts: plugins/
+    share_post: plugins/
+    sitemap: plugins/
+    tipue_search: plugins/
+
+git module assets:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: assets
+
+git module elegant:
+    url: https://github.com/Pelican-Elegant/elegant.git
+    rev: master
+
+git module extract_toc:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: extract_toc
+
+git module neighbors:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: neighbors
+
+git module related_posts:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: related_posts
+
+git module share_post:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: share_post
+
+git module sitemap:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: sitemap
+
+git module tipue_search:
+    url: https://github.com/getpelican/pelican-plugins.git
+    pick: tipue_search
+
