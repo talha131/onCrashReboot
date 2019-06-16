@@ -71,5 +71,9 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
+peru-sync:
+	peru sync
 
-.PHONY: html help clean regenerate serve serve-global devserver stopserver publish 
+publish-netlify: peru-sync publish
+
+.PHONY: html help clean regenerate serve serve-global devserver stopserver publish peru-sync publish-netlify
