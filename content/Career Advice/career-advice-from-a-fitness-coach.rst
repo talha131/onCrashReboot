@@ -38,7 +38,7 @@ call!
 
 You cannot improve with this attitude.
 
-.. figure:: |filename|/images/career-advice-from-a-fitness-coach-butterfly-on-flower.jpg
+.. figure:: {static}/images/career-advice-from-a-fitness-coach-butterfly-on-flower.jpg
     :alt: A butterfly out of its cocoon
     :align: right
 
