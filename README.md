@@ -1,8 +1,10 @@
 # onCrash = "Reboot();"
 
-This is the configuration files and articles of my blog [onCrash="Reboot();"](http://oncrashreboot.com/).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8b6454d-b64f-45ff-a0c6-de28791568d4/deploy-status)](https://app.netlify.com/sites/oncrashreboot/deploys)
 
-It is build and published with [Pelican](http://docs.getpelican.com/), and hosted by [GitHub Pages](http://pages.github.com/). Generated output goes into a git repository- [talha131/talha131.github.io](https://github.com/talha131/talha131.github.io#talha131githubio), which is `output` submodule in this repository.
+This is the configuration files and articles of my blog [`onCrash="Reboot();"`](http://oncrashreboot.com/).
+
+It is build and published with [Pelican](http://docs.getpelican.com/), and hosted on [Netlify](https://www.netlify.com/). 
 
 # License
 
