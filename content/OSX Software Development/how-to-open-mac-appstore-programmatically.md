@@ -15,7 +15,7 @@ Replace `[APP_ID]` with your app's track id.
 
 ## How to find Track ID of any app
 
-You can easily get track ID from URL of the application at App Store. For example, URL of Mac App Store page for Jump Desktop is 
+You can easily get track ID from URL of the application at App Store. For example, URL of Mac App Store page for Jump Desktop is
 
     :::bash
     https://itunes.apple.com/ca/app/jump-desktop-remote-desktop/id524141863?mt=12
@@ -42,5 +42,5 @@ Now that we know the required URL scheme and track ID, opening iTunes page in Ma
     NSURL *app_url = [NSURL URLWithString:app_url_str];
     // Open URL
     [[NSWorkspace sharedWorkspace] openURL:app_url];
-    
+
 You just need to the pass `openURL:` message with correctly formed URL to `[NSWorkspace sharedWorkspace]` object.
