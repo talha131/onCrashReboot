@@ -2,6 +2,3 @@
   base = "./"
   publish = "./output"
   command = "make publish-netlify"
-[[redirects]]
-  from = "ttps://oncrashreboot.netlify.com/*"
-  to = "https://www.oncrashreboot.com/:splat"
