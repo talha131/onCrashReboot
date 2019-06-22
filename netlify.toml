@@ -2,4 +2,3 @@
   base = "./"
   publish = "./output"
   command = "make publish-netlify"
-
