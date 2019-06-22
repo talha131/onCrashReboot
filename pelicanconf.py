@@ -66,7 +66,9 @@ SOCIAL = (
 )
 
 # Elegant theme
-STATIC_PATHS = ["theme/images", "images"]
+STATIC_PATHS = ["theme/images", "images", "extra/_redirects"]
+EXTRA_PATH_METADATA = {"extra/_redirects": {"path": "_redirects"}}
+
 DIRECT_TEMPLATES = ("index", "tags", "categories", "archives", "search", "404")
 TAG_SAVE_AS = ""
 AUTHOR_SAVE_AS = ""
