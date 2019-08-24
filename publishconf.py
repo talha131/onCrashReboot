@@ -17,6 +17,7 @@ if os.environ["CONTEXT"] == "production":
     FEED_DOMAIN = SITEURL
     FEED_ALL_ATOM = "feeds/all.atom.xml"
     CLAIM_BING = os.environ.get("CLAIM_BING_PROD")
+    CLAIM_GOOGLE = os.environ.get("CLAIM_GOOGLE_PROD")
     STAT_COUNTER_PROJECT = os.environ.get("STAT_COUNTER_PROJECT_PROD")
     STAT_COUNTER_SECURITY = os.environ.get("STAT_COUNTER_SECURITY_PROD")
     GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS_PROD")
