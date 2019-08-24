@@ -115,10 +115,34 @@ PROJECTS = [
         " lot more unique features. Built with Jinja2 and Bootstrap",
     },
     {
-        "name": "Logpad + Duration",
-        "url": "https://github.com/talha131/logpad-plus-duration#logpad--duration",
-        "description": "Vim plugin to emulate Windows Notepad logging feature,"
-        " and log duration of each entry",
+        "name": "extract_toc",
+        "url": "https://github.com/getpelican/pelican-plugins/tree/master/extract_toc",
+        "description": "A Pelican plugin to extract table of contents",
+    },
+    {
+        "name": "tipue_search",
+        "url": "https://github.com/getpelican/pelican-plugins/tree/master/tipue_search",
+        "description": "A Pelican plugin to serialize generated HTML to a JavaScript variable that can be used by jQuery plugin - Tipue Search",
+    },
+    {
+        "name": "share_post",
+        "url": "https://github.com/getpelican/pelican-plugins/tree/master/share_post",
+        "description": "A Pelican plugin to create share URLs of article",
+    },
+    {
+        "name": "goodreads_activity",
+        "url": "https://github.com/getpelican/pelican-plugins/tree/master/goodreads_activity",
+        "description": "A Pelican plugin to lists books from your GoodReads shelves",
+    },
+    {
+        "name": "TiddlyWiki",
+        "url": "https://github.com/Jermolene/TiddlyWiki5/commits?author=talha131",
+        "description": "My contributions to TiddlyWiki, a self-contained JavaScript wiki",
+    },
+    {
+        "name": "Pelican Plugins",
+        "url": "https://github.com/getpelican/pelican-plugins/commits?author=talha131",
+        "description": "My contributions to plugins for Pelican blog engine",
     },
     {
         "name": "Pelican",
@@ -127,9 +151,10 @@ PROJECTS = [
         " reST syntax",
     },
     {
-        "name": "Pelican Plugins",
-        "url": "https://github.com/getpelican/pelican-plugins/commits?author=talha131",
-        "description": "Bunch of plugins for Pelican blog engine",
+        "name": "Logpad + Duration",
+        "url": "https://github.com/talha131/logpad-plus-duration#logpad--duration",
+        "description": "Vim plugin to emulate Windows Notepad logging feature,"
+        " and log duration of each entry",
     },
     {
         "name": "Asana to Github Issues",
