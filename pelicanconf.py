@@ -154,33 +154,5 @@ PROJECTS = [
         " Vi editor",
     },
 ]
-LANDING_PAGE_ABOUT = {
-    "title": "I design and build software products for iOS and OSX",
-    "details": """<div itemscope itemtype="http://schema.org/Person"><p>My name
-        is <span itemprop="name">Talha Mansoor</span>.
-       I am <a href="https://github.com/talha131/" title="My Github
-       profile" itemprop="url"><span itemprop="nickname">talha131</span></a> at Github and <a
-       href="https://twitter.com/talham_/" title="My Twitter
-       profile" itemprop="url">@talham_</a> at twitter. You can also reach me via <a
-       href="mailto:talha131@gmail.com" title="My email
-       address" itemprop="email">email</a>.</p><p>I work on <a href="http://jumpdesktop.com/"
-       title="Jump Desktop" itemprop="affiliation">Jump Desktop</a> which is a remote desktop
-       application for iOS, OSX and Android. I play a broad role there - which
-       includes research, product design, engineering and deployment. I also
-       lend a hand in user support.</p><p>I try to contribute to society by
-       striving to create great software products that make people's lives
-       easier. I believe software is the most effective way to touch others'
-       lives in our day and time.</p><p>I mostly work in C, C++ and Objective-C
-       on OSX and Linux, I also dabble in Python, Vim-L and JavaScript. I do not
-       pigeonhole myself to specific languages or frameworks. A good developer
-       is receptive and has the ability to learn new technologies. I also often
-       contribute to open source projects and beta test startup
-       products.</p><p>Besides programming, I <a
-       href="https://www.fitocracy.com/profile/Andrew-Dufresne/" title="My
-       Fitocracy profile" itemprop="url">exercise</a> and <a
-       href="http://www.goodreads.com/talha131" title="My GoodReads
-       profile" itemprop="url">read books</a> regularly. To be a stronger and better version of
-       myself!</p><p>English is my second language. I am also learning <a
-       href="http://www.duolingo.com/talha131" title="My Duolingo
-       profile" itemprop="url">German from Duolingo</a>.</p></div>""",
-}
+
+LANDING_PAGE_TITLE = "I am a Polyglot Seasoned Software Engineer"
