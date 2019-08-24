@@ -14,17 +14,22 @@ from pelicanconf import *
 
 if os.environ["CONTEXT"] == "production":
     SITEURL = "https://www.oncrashreboot.com"
+    FEED_DOMAIN = SITEURL
+    FEED_ALL_ATOM = "feeds/all.atom.xml"
+    CLAIM_BING = os.environ.get("CLAIM_BING_PROD")
+    STAT_COUNTER_PROJECT = os.environ.get("STAT_COUNTER_PROJECT_PROD")
+    STAT_COUNTER_SECURITY = os.environ.get("STAT_COUNTER_SECURITY_PROD")
+    GOOGLE_ANALYTICS = os.environ.get("GOOGLE_ANALYTICS_PROD")
 else:
     SITEURL = ""
 
+MAILCHIMP_FORM_ACTION = os.environ.get("MAILCHIMP_FORM_ACTION")
+UTTERANCES_REPO = "talha131/oncrashreboot"
+UTTERANCES_LABEL = "💬-comments"
+
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = "feeds/all.atom.xml"
-CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
+PLUGINS.append("filetime_from_git")
+PLUGINS.append("sitemap")
 
 DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-# DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""

@@ -5,13 +5,13 @@ from __future__ import unicode_literals
 AUTHOR = "Talha Mansoor"
 SITENAME = """<span style="color:black;">onCrash</span> <span style="color:darkblue;">=</span> <span style="color:#AA1032;">'reboot();'</span>"""
 SITEURL = ""
+SITESUBTITLE = "You can, you should, and if you're brave enough to start, you will."
 
 PATH = "content"
 
 # Regional Settings
 TIMEZONE = "Asia/Karachi"
 DATE_FORMATS = {"en": "%b %d, %Y"}
-DEFAULT_LANG = "en"
 
 # Plugins and extensions
 MARKDOWN = {
@@ -26,13 +26,13 @@ MARKDOWN = {
 }
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
-    "sitemap",
+    "assets",
     "extract_toc",
-    "tipue_search",
     "neighbors",
     "related_posts",
-    "assets",
+    "series",
     "share_post",
+    "tipue_search",
 ]
 SITEMAP = {
     "format": "xml",
@@ -51,18 +51,23 @@ USE_FOLDER_AS_CATEGORY = False
 ARTICLE_URL = "{slug}"
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
+TAGS_URL = "tags"
+CATEGORIES_URL = "categories"
+ARCHIVES_URL = "archives"
+SEARCH_URL = "search"
 
 # Feeds
-FEED_ALL_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
 CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+CATEGORY_FEED_RSS = None
 
 # Social
 SOCIAL = (
-    ("Twitter", "http://twitter.com/talham_"),
-    ("Github", "http://github.com/talha131"),
-    ("GitTip", "http://gittip.com/talha131"),
-    ("Email", "mailto:talha131@gmail.com"),
+    ("Email", "mailto:talha131@gmail.com", "My Emaill Address"),
+    ("Github", "https://github.com/talha131/", "My Github Profile"),
+    ("GoodReads", "https://www.goodreads.com/talha131"),
+    ("RSS", SITEURL + "/feeds/all.atom.xml"),
 )
 
 # Elegant theme
@@ -82,9 +87,9 @@ SHARE_POST_INTRO = "Like this post? Share on:"
 COMMENTS_INTRO = "So what do you think? Did I miss something? Is any part unclear? Leave your comments below."
 
 # Mailchimp
-EMAIL_SUBSCRIPTION_LABEL = "Get Monthly Updates"
+EMAIL_SUBSCRIPTION_LABEL = "Get New Posts In Your Inbox"
 EMAIL_FIELD_PLACEHOLDER = "Enter your email..."
-SUBSCRIBE_BUTTON_TITLE = "Send me Free updates"
+SUBSCRIBE_BUTTON_TITLE = "Subsribe me"
 MAILCHIMP_FORM_ACTION = "empty"
 
 # SMO
@@ -92,7 +97,10 @@ TWITTER_USERNAME = "talham_"
 FEATURED_IMAGE = SITEURL + "/theme/images/apple-touch-icon-152x152.png"
 
 # Legal
-SITE_LICENSE = '<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"> onCrash="Reboot();"</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://oncrashreboot.com" property="cc:attributionName" rel="cc:attributionURL">Talha Mansoor</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.'
+SITE_LICENSE = """Content licensed under <a rel="license"
+    href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
+    Creative Commons Attribution 4.0 International License</a>."""
+HOSTED_ON = {"name": "Netlify", "url": "https://www.netlify.com/"}
 
 # SEO
 SITE_DESCRIPTION = "My name is Talha Mansoor \u2015 a software engineer who gets things done. I am talha131 at Github and @talham_ at twitter. I design and build software products for iOS and OSX. I work on Jump Desktop which is a remote desktop application for iOS, OSX and Android. This is my personal blog."
