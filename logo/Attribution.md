@@ -1,4 +1,4 @@
-`./goal.svg` file is downloaded from
+[`goal.svg`](./goal.svg) file is downloaded from
 
 <https://www.flaticon.com/free-icon/goal_1534999>
 
