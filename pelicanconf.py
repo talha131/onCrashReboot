@@ -21,7 +21,7 @@ MARKDOWN = {
         "markdown.extensions.extra": {},
         "markdown.extensions.meta": {},
         "markdown.extensions.sane_lists": {},
-        "markdown.extensions.toc": {"permalink": "true"},
+        "markdown.extensions.toc": {"permalink": " "},
     }
 }
 PLUGIN_PATHS = ["plugins"]
