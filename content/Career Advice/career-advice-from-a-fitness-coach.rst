@@ -6,7 +6,7 @@ A Fitness Coach and the Software Developers
 :date: 2013-11-01 17:29
 :modified: 2013-11-19 01:15
 :slug: career-advice-software-developers-fitness-coach
-:disqus_identifier: jqda04o-career-advice-software-developers-fitness-coach
+:comment_id: 46wpmnh70zrk-career-advice-software-developers-fitness-coach
 :summary: Why challenging yourself is important and what a software
     developer can learn from fitness guru
 :keywords: career advice, beginner programmer, self improvement

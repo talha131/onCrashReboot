@@ -4,7 +4,7 @@ Category: OSX Software Development
 Tags: cocoa, mac-app-store, objective-c, iTunes, NSWorkspace
 Summary: How to programmatically open an App Page in Mac App Store (desktop application) using Cocoa
 Slug: how-to-open-mac-app-store-programmatically
-disqus_identifier: d50551b-how-to-open-mac-app-store-programmatically
+comment_id: pyekjv5s7l2b-how-to-use-disqus-comments-elegantly: d50551b-how-to-open-mac-app-store-programmatically
 
 Mac App Store is accessed using `macappstore` URL scheme. Your URL should follow this pattern:
 
