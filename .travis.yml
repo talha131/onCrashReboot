@@ -25,6 +25,7 @@ install:
 - pip install -U pre-commit
 - yarn global add yaspeller
 - yarn install
+- go get github.com/BurntSushi/toml/cmd/tomlv
 
 before_script:
 - invoke theme-sync
