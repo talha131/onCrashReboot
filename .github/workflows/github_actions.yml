@@ -1,5 +1,5 @@
 name: onCrashReboot
-description: Spell check and format test for the blog source code
+description: 'Spell check and format test for the blog source code'
 author: talha131
 
 on:
