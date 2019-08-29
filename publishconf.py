@@ -12,7 +12,7 @@ sys.path.append(os.curdir)
 # IMPORTANT. pelicanconf import should come after path.append
 from pelicanconf import *
 
-if os.environ["CONTEXT"] == "production":
+if os.environ.get("CONTEXT") == "production":
     SITEURL = "https://www.oncrashreboot.com"
     FEED_DOMAIN = SITEURL
     FEED_ALL_ATOM = "feeds/all.atom.xml"
