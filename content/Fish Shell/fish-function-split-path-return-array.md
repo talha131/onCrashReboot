@@ -39,7 +39,7 @@ Line 2
 
 !!! Important "Remember"
 
-Array index in Fish starts from 1, **not** 0.
+    Array index in Fish starts from 1, **not** 0.
 
 ## sed expression
 
