@@ -173,3 +173,9 @@ end
 `test -ne` returns true if the first number is not equal to the second number.
 
 `count` documentation is available [here](https://fishshell.com/docs/current/commands.html#count).
+
+## Example
+
+You can see the above discussion in action in a script that I wrote to periodically push out git commits to the upstream, every 10 seconds.
+
+[Source Code of `tm_git_push` script](https://github.com/talha131/dotfiles/blob/master/fish/functions/tm_git_push.fish)
