@@ -1,11 +1,11 @@
 Title: Use Exit Status of Command in Fish Function
-Tags: fish, scripting,
+Tags: fish, scripting, exit status
 Category: Fish Shell
 Date: 2019-09-15 21:17
-Slug: use-exit-status-of-command-in-fish-fun
+Slug: use-exit-status-of-command-in-fish-function
 comment_id: zd1vc5hwnijp-use-exit-status-of-command-in-fish-function
 Subtitle:
-Summary:
+Summary: In Fish shell, you can read the exit status of the last command executed and use it in number of ways
 Keywords:
 
 In the following examples, I am going to use `rg`, i.e. [ripgrep](https://github.com/BurntSushi/ripgrep). It's a modern and faster equivalent of the traditional `grep` and `ack` commands. `rg` also has a sane default configuration that does not require you to enable command switches to do mundane tasks like searching recursively or respecting `.gitignore` rules.
