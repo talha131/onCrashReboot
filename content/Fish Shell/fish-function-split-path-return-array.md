@@ -86,3 +86,9 @@ This way, I can refer to filename, extension and, directory using array indices,
 1. `$res[1]` for filename
 1. `$res[2]` for extension
 1. `$res[3]` for directory
+
+## Example
+
+You can view complete script [here](https://github.com/talha131/dotfiles/blob/master/fish/functions/tm_split_path.fish).
+
+This script also handles the case when the given argument does not have directory in it, like "filename.ext".
