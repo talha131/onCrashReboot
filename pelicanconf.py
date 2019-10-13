@@ -95,7 +95,7 @@ COMMENTS_INTRO = """So what do you think? Did I miss something? Is any part uncl
 # Mailchimp
 EMAIL_SUBSCRIPTION_LABEL = "Get New Posts In Your Inbox"
 EMAIL_FIELD_PLACEHOLDER = "Enter your email..."
-SUBSCRIBE_BUTTON_TITLE = "Subsribe me"
+SUBSCRIBE_BUTTON_TITLE = "Subscribe Me"
 MAILCHIMP_FORM_ACTION = "empty"
 
 # SMO
