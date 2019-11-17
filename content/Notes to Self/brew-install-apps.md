@@ -19,7 +19,8 @@ Keywords:
 brew install asciinema aspell autojump automake bash cmake coreutils curl \
 ephemeralpg fd ffmpeg fish fzf git git-lfs gnu-sed go handbrake httpie hub \
 imagemagick libgxps llvm lua neovim p7zip parallel prettyping protobuf pyenv \
-rclone ripgrep ruby rust trash tree vcprompt wget yarn youtube-dl
+rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
+trash tree vcprompt wget yarn youtube-dl
 ```
 
 ## Applications
@@ -148,6 +149,10 @@ rclone
 : Rsync for cloud storage<br />
 <https://rclone.org/>
 
+rhysd/git-brws/git-brws
+: Command line tool to open repository, file, commit, diff, pull request or issue in browser<br/>
+<https://github.com/rhysd/git-brws>
+
 ripgrep
 : Search tool like grep and The Silver Searcher<br />
 <https://github.com/BurntSushi/ripgrep>
@@ -159,6 +164,10 @@ ruby
 rust
 : Safe, concurrent, practical language<br />
 <https://www.rust-lang.org/>
+
+srkomodo/tap/shadowfox-updater
+: An automatic updater for ShadowFox<br/>
+<https://github.com/SrKomodo/shadowfox-updater>
 
 trash
 : CLI tool that moves files or folder to the trash<br />
