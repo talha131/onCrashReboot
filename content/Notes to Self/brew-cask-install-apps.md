@@ -21,8 +21,8 @@ appcleaner atext authy avibrazil-rdm bitwarden calibre dash datagrip dotnet-sdk 
 dropbox evernote firefoxdeveloperedition github gitup google-chrome gpg-suite \
 hammerspoon handbrake hockey imageoptim inkscape istat-menus iterm2 \
 karabiner-elements keka mac2imgur mark-text omnidisksweeper osxfuse pdfexpert \
-postgres qbittorrent rcdefaultapp rescuetime simple-comic slack syncthing-bar \
-table-tool the-clock the-unarchiver visual-studio-code vlc xquartz
+postgres qbittorrent qt-creator rcdefaultapp rescuetime simple-comic slack \
+syncthing-bar table-tool the-clock the-unarchiver visual-studio-code vlc xquartz
 ```
 
 1password
@@ -129,6 +129,9 @@ postgres
 
 qbittorrent
 : <https://www.qbittorrent.org/>
+
+qt-creator
+: <https://www.qt.io/developers/>
 
 rcdefaultapp
 : <http://www.rubicode.com/Software/RCDefaultApp/>
