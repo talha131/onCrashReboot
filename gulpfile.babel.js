@@ -1,13 +1,17 @@
 import fs from "fs";
 import path from "path";
-import { watch, parallel } from "gulp";
+import { watch, parallel, series } from "gulp";
 import { exec } from "child_process";
 import { create as browserSyncCreate } from "browser-sync";
 const browserSync = browserSyncCreate();
 
-const content_404 = fs.readFileSync(path.join(__dirname, "output/404.html"));
+const path404 = path.join(__dirname, "documentation/output/404.html");
+const content_404 = () =>
+  fs.existsSync(path404) ? fs.readFileSync(path404) : null;
 
-const buildAll = () => exec("invoke build");
+const cleanOutput = () => exec("rm -rf outout/");
+
+const buildContent = () => exec("invoke build");
 
 const reload = cb => {
   browserSync.init(
@@ -44,11 +48,11 @@ const watchFiles = () => {
       "publishconf.py"
     ],
     { ignoreInitial: false },
-    buildAll
+    buildContent
   );
 };
 
-const elegant = parallel(watchFiles, reload);
+const elegant = series(cleanOutput, buildContent, parallel(watchFiles, reload));
 
 exports.elegant = elegant;
 exports.default = elegant;
