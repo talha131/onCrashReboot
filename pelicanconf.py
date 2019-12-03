@@ -9,6 +9,15 @@ SITESUBTITLE = "You can, you should, and if you're brave enough to start, you wi
 
 PATH = "content"
 
+SLUG_REGEX_SUBSTITUTIONS = [
+    # remove all characters except alphanumeric, whitespace,
+    # '_', '-', '+', '#' characters
+    (r"[^\w\s\-#\+]", ""),
+    (r"(?u)\A\s*", ""),  # strip leading whitespace
+    (r"(?u)\s*\Z", ""),  # strip trailing whitespace
+    (r"[-\s]+", "-"),  # reduce multiple whitespace or '-' to single '-'
+]
+
 # Regional Settings
 TIMEZONE = "Asia/Karachi"
 DATE_FORMATS = {"en": "%b %d, %Y"}
