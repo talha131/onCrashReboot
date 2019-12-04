@@ -15,6 +15,8 @@ Keywords:
 
 ## Installation Command
 
+<!-- yaspeller ignore:start -->
+
 Make sure you have [taps for fonts]({filename}./brew-install-taps.md) installed.
 
 ```
@@ -28,3 +30,5 @@ font-input
 
 font-microsoft-office
 : <http://www.rmtweb.co.uk/calibri-and-cambria-fonts-for-mac>
+
+<!-- yaspeller ignore:end-->

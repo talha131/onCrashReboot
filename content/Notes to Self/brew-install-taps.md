@@ -15,6 +15,8 @@ Keywords:
 
 ## Installation Command
 
+<!-- yaspeller ignore:start -->
+
 ```
 brew tap homebrew/cask-fonts
 brew tap colindean/fonts-nonfree
@@ -35,3 +37,5 @@ homebrew-cask-versions
 
 homebrew-emacsmacport
 : <https://github.com/railwaycat/homebrew-emacsmacport>
+
+<!-- yaspeller ignore:end-->

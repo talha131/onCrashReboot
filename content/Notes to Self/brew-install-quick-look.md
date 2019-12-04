@@ -17,6 +17,8 @@ A list of available quick look plugins is maintained [here](https://github.com/s
 
 ## Installation Command
 
+<!-- yaspeller ignore:start -->
+
 ```bash
 brew cask install qladdict qlcolorcode qlimagesize qlmarkdown qlmobi qlstephen \
 qlvideo quicklook-json quicklook-pat quicklookase webpquicklook
@@ -54,3 +56,5 @@ quicklookase
 
 webpquicklook
 : <https://github.com/emin/WebPQuickLook>
+
+<!-- yaspeller ignore:end-->

@@ -15,6 +15,8 @@ Keywords:
 
 ## Installation Command
 
+<!-- yaspeller ignore:start -->
+
 ```bash
 brew cask install 1password android-file-transfer android-platform-tools \
 appcleaner atext authy avibrazil-rdm bitwarden calibre dash datagrip dotnet-sdk \
@@ -165,3 +167,5 @@ vlc
 
 xquartz
 : <https://www.xquartz.org/>
+
+<!-- yaspeller ignore:end -->

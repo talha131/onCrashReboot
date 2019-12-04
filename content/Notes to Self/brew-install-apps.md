@@ -15,6 +15,8 @@ Keywords:
 
 ## Installation Command
 
+<!-- yaspeller ignore:start -->
+
 ```bash
 brew install asciinema aspell autojump automake bash cmake coreutils curl \
 ephemeralpg fd ffmpeg fish fzf git git-lfs gnu-sed go handbrake httpie hub \
@@ -192,3 +194,5 @@ yarn
 youtube-dl
 : Download YouTube videos from the command-line<br />
 <https://ytdl-org.github.io/youtube-dl/>
+
+<!-- yaspeller ignore:end-->
