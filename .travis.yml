@@ -23,7 +23,6 @@ install:
 - pip install -r requirements.txt
 - pip install -U html5validator
 - pip install -U pre-commit
-- yarn global add yaspeller
 - yarn install
 - go get github.com/BurntSushi/toml/cmd/tomlv
 
@@ -35,4 +34,3 @@ script:
 - pre-commit run --all-files
 - invoke publish
 - html5validator --root output/
-- yaspeller --only-errors content/ *.md
