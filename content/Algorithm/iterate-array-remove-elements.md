@@ -1,5 +1,5 @@
 Title: Iterate Over An Array And Remove Elements
-Tags: functional programming, array, iteration, C#, C++, Python, JavaScript, Golang, std
+Tags: functional programming, array, iteration, C Sharp, Cpp, Python, JavaScript, Golang, std
 Category: Algorithm
 Date: 2019-10-12 17:16
 Slug: iterate-over-an-array-and-remove-elements
