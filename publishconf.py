@@ -25,8 +25,7 @@ else:
     SITEURL = ""
 
 MAILCHIMP_FORM_ACTION = os.environ.get("MAILCHIMP_FORM_ACTION")
-UTTERANCES_REPO = "talha131/oncrashreboot"
-UTTERANCES_LABEL = "💬-comments"
+COMMENTBOX_PROJECT = os.environ.get("COMMENTBOX_PROJECT")
 
 RELATIVE_URLS = False
 
