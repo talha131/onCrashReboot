@@ -7,7 +7,7 @@ title: About Me
 
 ![talha131 Avatar]({static}/images/my-social-profile-avatar.png){: #id1 style="float:left;width:84px;height:84px;border:none;" }
 
-Call me Talha; Talha Mansoor. I go by "talha131" at [Github](https://github.com/talha131/) and [GoodReads](https://goodreads.com/talha131). [Email](mailto:talha131@gmail.com) is the best way to reach me.
+Call me Talha; Talha Mansoor. I go by "talha131" at [Github](https://github.com/talha131/), [GoodReads](https://goodreads.com/talha131), and [Keybase](https://keybase.io/talha131). [Email](mailto:talha131@gmail.com) is the best way to reach me.
 
 I work on [Jump Desktop](http://jumpdesktop.com/). It is a remote desktop application for iOS, Android, macOS, and Windows. I play a broad role there; which includes research, product design, engineering, and deployment. I also lend a hand in user support.
 

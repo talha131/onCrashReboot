@@ -67,6 +67,7 @@ SOCIAL = (
     ("Email", "mailto:talha131@gmail.com", "My Emaill Address"),
     ("Github", "https://github.com/talha131/", "My Github Profile"),
     ("GoodReads", "https://www.goodreads.com/talha131"),
+    ("Keybase", "https://keybase.io/talha131"),
     ("RSS", SITEURL + "/feeds/all.atom.xml"),
 )
 
