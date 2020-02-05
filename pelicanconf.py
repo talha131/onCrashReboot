@@ -70,10 +70,17 @@ SOCIAL = (
     ("RSS", SITEURL + "/feeds/all.atom.xml"),
 )
 
-STATIC_PATHS = ["theme/images", "images", "extra/_redirects", "extra/robots.txt"]
+STATIC_PATHS = [
+    "theme/images",
+    "images",
+    "extra/_redirects",
+    "extra/robots.txt",
+    "extra/keybase.txt",
+]
 EXTRA_PATH_METADATA = {
     "extra/_redirects": {"path": "_redirects"},
     "extra/robots.txt": {"path": "robots.txt"},
+    "extra/keybase.txt": {"path": "keybase.txt"},
 }
 
 DIRECT_TEMPLATES = ("index", "tags", "categories", "archives", "search", "404")

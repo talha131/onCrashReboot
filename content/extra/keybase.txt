@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/talha131
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://oncrashreboot.com
+  * I am talha131 (https://keybase.io/talha131) on keybase.
+  * I have a public key ASDOCGitJH5AgkCZunB_jILKO8WDifZ_kiVsNTcZC86xqwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ce0868ad247e40824099ba707f8c82ca3bc58389f67f92256c3537190bceb1ab0a",
+      "host": "keybase.io",
+      "kid": "0120ce0868ad247e40824099ba707f8c82ca3bc58389f67f92256c3537190bceb1ab0a",
+      "uid": "17cc83d9a9d4c851a1bcb8d21f5ecd19",
+      "username": "talha131"
+    },
+    "merkle_root": {
+      "ctime": 1580932934,
+      "hash": "55632422418934be69e6d0c73c2b0b0a9ea79827519d9fcc30d7da446c75854d8dea1f0df9e9b0e1da9519c6887432390e991ebb7a6ed96d881846c5a06f955c",
+      "hash_meta": "d4d0678fb1c03452f87b2973249aa5032e08937ca624c84a2391ea5f92a547ac",
+      "seqno": 14501147
+    },
+    "service": {
+      "entropy": "lPzCgLD7vq5vdTS14NfLBtbc",
+      "hostname": "oncrashreboot.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1580932950,
+  "expire_in": 504576000,
+  "prev": "f62aea559cf473c3eab0bd37fb9609ad6ea4cec72d2ed8c8c7defc5699e1b34e",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzghorSR+QIJAmbpwf4yCyjvFg4n2f5IlbDU3GQvOsasKp3BheWxvYWTESpcCBcQg9irqVZz0c8PqsL03+5YJrW6kzsctLtjIx978Vpnhs07EIF6vxcLeSKxhgVXyPdSvZkx17GLc8+k465kjm1SG06E8AgHCo3NpZ8RAFtl3qLEaELZ8ErDPvQaJQMXFae75Gu2dmnfoCdItvdi3WygRbAnM3K47FppXADmszWIGywgWbjSswmItNdoTAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIITI2qtOXqj3IrOnSzlsUk05C1nxPq61vLHkJYVh05E9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/talha131
+
+==================================================================
