@@ -20,7 +20,7 @@ Keywords:
 ```bash
 brew cask install 1password android-file-transfer android-platform-tools \
 appcleaner atext authy avibrazil-rdm bitwarden calibre dash datagrip dotnet-sdk \
-dropbox evernote firefoxdeveloperedition github gitup google-chrome gpg-suite \
+dropbox evernote firefox-developer-edition github gitup google-chrome gpg-suite \
 hammerspoon handbrake hockey imageoptim inkscape istat-menus iterm2 \
 karabiner-elements keka mac2imgur mark-text omnidisksweeper osxfuse pdfexpert \
 postgres qbittorrent qt-creator rcdefaultapp rescuetime simple-comic slack \
@@ -69,7 +69,7 @@ dropbox
 evernote
 : <https://evernote.com/>
 
-firefoxdeveloperedition
+firefox-developer-edition
 : <https://www.mozilla.org/firefox/developer/>
 
 github
