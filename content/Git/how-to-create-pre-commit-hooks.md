@@ -76,7 +76,7 @@ $ touch .pre-commit-hooks.yaml
 
 Now edit the content of this file,
 
-{% include_code pre-commit/.pre-commit-hooks.yaml lang:yaml pre-commit hook configuration %}
+{% include_code pre-commit/pre-commit-hooks.yaml lang:yaml :hidefilename: .pre-commit-hooks.yaml %}
 
 1. `id` is the id of the hook. Users of your hook refer to your hook using this ID.
 
