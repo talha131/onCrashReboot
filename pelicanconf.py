@@ -28,6 +28,7 @@ PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
     "assets",
     "extract_toc",
+    "liquid_tags.include_code",
     "neighbors",
     "related_posts",
     "series",
@@ -77,6 +78,7 @@ STATIC_PATHS = [
     "extra/_redirects",
     "extra/robots.txt",
     "extra/keybase.txt",
+    "code",
 ]
 EXTRA_PATH_METADATA = {
     "extra/_redirects": {"path": "_redirects"},
