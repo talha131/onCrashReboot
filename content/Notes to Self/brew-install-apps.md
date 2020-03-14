@@ -19,10 +19,13 @@ Keywords:
 
 ```bash
 brew install asciinema aspell autojump automake bash cmake coreutils curl \
-ephemeralpg fd ffmpeg fish fzf git git-lfs gnu-sed go handbrake httpie hub \
+ephemeralpg fd fish fzf \
+git git-lfs gnu-sed go golangci/tap/golangci-lint \
+handbrake httpie hub \
 imagemagick libgxps llvm lua neovim p7zip parallel prettyping protobuf pyenv \
 rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
-trash tree vcprompt wget yarn youtube-dl
+trash tree vcprompt wget yarn youtube-dl \
+homebrew-ffmpeg/ffmpeg/ffmpeg --with-fdk-aac --with-xvid
 ```
 
 ## Applications
@@ -69,7 +72,9 @@ fd
 
 ffmpeg
 : Play, record, convert, and stream audio and video<br />
-<https://ffmpeg.org/>
+<https://ffmpeg.org/><br />
+homebrew-ffmpeg tap <br />
+<https://github.com/homebrew-ffmpeg/homebrew-ffmpeg>
 
 fish
 : User-friendly command-line shell for UNIX-like operating systems<br />
@@ -94,6 +99,10 @@ gnu-sed
 go
 : Open source programming language to build simple/reliable/efficient software<br />
 <https://golang.org>
+
+golangci/tap/golangci-lint
+: Fast linters runner for Go<br />
+<https://golangci.com>
 
 handbrake
 : Open-source video transcoder available for Linux, Mac, and Windows<br />
