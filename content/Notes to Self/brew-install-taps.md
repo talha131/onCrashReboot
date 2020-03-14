@@ -18,9 +18,9 @@ Keywords:
 <!-- yaspeller ignore:start -->
 
 ```
-brew tap homebrew/cask-fonts
-brew tap colindean/fonts-nonfree
-brew tap homebrew/cask-versions
+brew tap homebrew/cask-fonts ; \
+brew tap colindean/fonts-nonfree  ; \
+brew tap homebrew/cask-versions  ; \
 brew tap railwaycat/emacsmacport
 ```
 
