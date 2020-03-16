@@ -98,8 +98,6 @@ RELATED_POSTS_LABEL = "Keep Reading"
 SHARE_POST_INTRO = "Like this post? Share on:"
 COMMENTS_INTRO = """So what do you think? Did I miss something? Is any part unclear?
             Leave your comments below.
-            <br/>
-            You need a free <a href="https://github.com/join" rel="nofollow" target="_blank">Github account</a> to comment.
         """
 
 # Mailchimp
