@@ -1,6 +1,6 @@
 Title: Fish Function To Split Pathname And Return Array
-Tags: scripting, sed, regex, array, fish
-Category: Fish Shell
+Tags: scripting, sed, regex, array, fish, fish-shell
+Category: Command-line & Shell
 Date: 2019-08-29 00:41
 Slug: fish-function-to-split-pathname-and-return-an-array
 comment_id: mqutgv3djwor-fish-function-to-split-pathname-and-return-an-array

@@ -1,6 +1,6 @@
 Title: Use sed To Split Path Into Filename, Extension, and Directory
-Tags: shell, array, sed, regex
-Category: Command Line
+Tags: scripting, array, sed, regex
+Category: Command-line & Shell
 Date: 2019-08-28 13:08
 Slug: use-sed-to-split-path-into-filename-extension-and-directory
 comment_id: 1zovl356murf-use-sed-to-split-path-into-filename-extension-and-directory

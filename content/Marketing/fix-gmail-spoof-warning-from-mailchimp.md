@@ -1,6 +1,6 @@
 Title: Fix Gmail Spoof Warning From Mailchimp
 Tags: newsletter, email, domain, email-forwarding
-Category: Miscellaneous
+Category: Marketing
 Date: 2020-03-15 14:31
 Slug: fix-gmail-spoof-warning-from-mailchimp
 comment_id: umelpz3xqscd-fix-gmail-spoof-warning-from-mailchimp

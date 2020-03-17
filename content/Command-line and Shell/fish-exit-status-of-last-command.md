@@ -1,6 +1,6 @@
 Title: Use Exit Status of A Command in A Fish Shell Function
-Tags: fish, scripting, exit status
-Category: Fish Shell
+Tags: fish, scripting, exit status, fish-shell
+Category: Command-line & Shell
 Date: 2019-09-15 21:17
 Slug: use-exit-status-of-command-in-fish-function
 comment_id: zd1vc5hwnijp-use-exit-status-of-command-in-fish-function
