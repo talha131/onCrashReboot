@@ -43,7 +43,7 @@ Line 2
 
 ## sed expression
 
-I have written in detail about sed expression [here]({filename}../Command Line/split-path-into-filename-extension.md).
+I have written in detail about sed expression [here]({filename}../Command-line and Shell/split-path-into-filename-extension.md).
 
 Here is an example output,
 

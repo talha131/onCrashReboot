@@ -137,4 +137,4 @@ Then replace `sed` with `gsed` in the command.
 ## Further Readings
 
 1. [sed manual](https://www.gnu.org/software/sed/manual/sed.html)
-1. [Create shell script to reuse sed expression]({filename}../Fish Shell/fish-function-split-path-return-array.md)
+1. [Create shell script to reuse sed expression]({filename}../Command-line and Shell/fish-function-split-path-return-array.md)
