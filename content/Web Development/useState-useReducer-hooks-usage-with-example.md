@@ -314,14 +314,7 @@ I have created a repository of this code.
 
 <https://github.com/talha131/onCrashReboot-react-state-hook-example>
 
-Let's run the code using [CodeSandbox](https://codesandbox.io/s/github/talha131/onCrashReboot-react-state-hook-example). Try entering some number or a string and see the result.
-
-<iframe src="https://codesandbox.io/embed/github/talha131/onCrashReboot-react-state-hook-example/tree/master/?autoresize=1&fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="my-app"
-     allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
-     sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
-   ></iframe>
+Let's run the code on [CodeSandbox](https://codesandbox.io/s/github/talha131/onCrashReboot-react-state-hook-example). Try entering some number or a string and see the result.
 
 ### Let's review the code
 
@@ -542,14 +535,7 @@ I have create a repository of this code.
 
 <https://github.com/talha131/onCrashReboot-react-reducer-hook-example>
 
-Let's run the code using [CodeSandbox](https://codesandbox.io/s/github/talha131/onCrashReboot-react-reducer-hook-example). Try entering some number or a string and see the result.
-
-<iframe src="https://codesandbox.io/embed/github/talha131/onCrashReboot-react-reducer-hook-example/tree/master/?fontsize=14&hidenavigation=1&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="my-app"
-     allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
-     sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
-   ></iframe>
+Let's run the code on [CodeSandbox](https://codesandbox.io/s/github/talha131/onCrashReboot-react-reducer-hook-example). Try entering some number or a string and see the result.
 
 ## Moment of truth
 
