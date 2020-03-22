@@ -95,7 +95,7 @@ for f in *
 end
 ```
 
-This script tests if the file is present in the folder or not. If the file does not exist, then it prints the message "not found in <folder name>".
+This script tests if the file is present in the folder or not. If the file does not exist, then it prints the message "not found in &lt;folder name&gt;".
 
 On running, I got
 
