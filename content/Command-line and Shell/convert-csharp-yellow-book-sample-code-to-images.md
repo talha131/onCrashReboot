@@ -128,7 +128,7 @@ end
 
 1. `set code $f/YellowBookSamples/Program.cs` create the path of the file, like "Code Sample 46 Storing accounts in an array/YellowBookSamples/Program.cs", and assign it to the variable `code`
 1. `test -f $code` tests if the file exists
-1. `and begin` is a block of that will only run if `test` in the previous line returns true
+1. `and begin` is a block of that will only run if `test` in the previous line returns true. You can read more about [`and begin` in this article](https://www.oncrashreboot.com/use-exit-status-of-command-in-fish-function#use-and-or-combiners-with-begin)
 1. `mkdir ../dest/$f` creates a sub-folder in the destination directory
 1. Call `carbon-now` command to convert the file to an image
 
