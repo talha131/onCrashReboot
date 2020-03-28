@@ -20,7 +20,7 @@ Keywords:
 ```bash
 brew install asciinema aspell autojump automake bash cmake coreutils curl \
 ephemeralpg fd fish fzf \
-git git-lfs gnu-sed go golangci/tap/golangci-lint \
+git git-lfs gnu-sed ghostscript go golangci/tap/golangci-lint \
 handbrake httpie hub \
 imagemagick libgxps llvm lua neovim p7zip parallel prettyping protobuf pyenv \
 rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
@@ -95,6 +95,10 @@ git-lfs
 gnu-sed
 : GNU implementation of the famous stream editor<br />
 <https://www.gnu.org/software/sed/>
+
+ghostscript
+: Interpreter for PostScript and PDF. imagemagick needs it to manipulate PDF files<br />
+<https://www.ghostscript.com/>
 
 go
 : Open source programming language to build simple/reliable/efficient software<br />
