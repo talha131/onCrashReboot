@@ -12,14 +12,6 @@ Hooks are a transformative feature introduced in [Release 16.8.0](https://github
 
 In this article, I am going to show you how you can build your own hooks and then, how can you use your custom hooks to fetch data. I am going to use [Create React App](https://create-react-app.dev/) and [TypeScript](https://www.typescriptlang.org/) in the following examples.
 
-Create a React project.
-
-```bash
-yarn create react-app my-app --template typescript
-```
-
-Edit `src/App.tsx`.
-
 ## What is a hook
 
 A hook is nothing but a function. There is no mystery to it. It does not have any specific signature or declaration. It can take any number of arguments and can return any amount or type of values. You decide. React does not impose any requirement on you.
@@ -31,6 +23,14 @@ Simply, a hook is a function whose name starts with `use`.
 ## Create your own hook
 
 Let's put this to test.
+
+Create a React project.
+
+```bash
+yarn create react-app my-app --template typescript
+```
+
+Edit `src/App.tsx`.
 
 ```typescript
 const useGetMessage = (): string => {
