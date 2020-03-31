@@ -1,5 +1,5 @@
 Title: Conditional Spread Syntax In JavaScript
-Tags: javascript, tip,
+Tags: javascript, tip, es6
 Category: Web Development
 Date: 2020-03-31 10:00
 Slug: conditional-spread-syntax-in-javascript
