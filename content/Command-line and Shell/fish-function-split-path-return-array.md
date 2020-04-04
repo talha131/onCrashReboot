@@ -32,7 +32,7 @@ possible functions.
     What follows `-d` is the description of the function. It appears in the list of suggestions.
     Notice the description in highlighted line in the following list.
 
-    ![fish shell suggestion list demo]({static}/images/fish-shell-function-description.png)
+    ![fish shell suggestion list demo]({static}/images/fish-shell-function-description.png){: loading="lazy" }
 
 Line 2
 : `$argv` is the variable which contains the arguments passed to the function. It's an array.

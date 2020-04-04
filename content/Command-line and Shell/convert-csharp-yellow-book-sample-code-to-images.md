@@ -137,7 +137,7 @@ the headless option. `-l ../dest/$f` is the location to save the image and `-t $
 
 The result is that each code sample is converted to an image and placed in its folder.
 
-![Fish script result](/images/convert-c-sharp-yellow-book-sample-code-to-images.png)
+![Fish script result](/images/convert-c-sharp-yellow-book-sample-code-to-images.png){: loading="lazy" }
 
 Unfortunately, `carbon-now` command did not work for eight projects. I had to convert them manually.
 

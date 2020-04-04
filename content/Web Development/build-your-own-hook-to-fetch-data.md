@@ -149,7 +149,7 @@ const App = () => {
 
 This code fixes the `rules-of-hooks` warning. But it too does not work correctly. The `count` on screen does not increase on clicking the button.
 
-![Clicking on button does not increase the count](/images/build-your-own-hook-to-use-restful-api-button-zero.png)
+![Clicking on button does not increase the count](/images/build-your-own-hook-to-use-restful-api-button-zero.png){: loading="lazy" }
 
 If you add a `console.log` statement inside `incrementCount` to view the value of count, you will observe the `incrementCount` increases the value of `count` correctly. It is a JavaScript closure, and it has access to the `count` variable.
 
@@ -177,7 +177,7 @@ const useButtonClicked = (): [number, () => void] => {
 
 This fixes the issue, and the hook works correctly.
 
-![Result of clicking the button six times](/images/build-your-own-hook-to-use-restful-api-button-six.png)
+![Result of clicking the button six times](/images/build-your-own-hook-to-use-restful-api-button-six.png){: loading="lazy" }
 
 Currently, the hook increments the count by one. Let's modify the hook so that component can decide the increment value. It requires very little change.
 
@@ -197,7 +197,7 @@ const App = () => {
 
 The count starts from 0, then 2, then 4, and so on.
 
-![Result of clicking the button four times](/images/build-your-own-hook-to-use-restful-api-button-eight.png)
+![Result of clicking the button four times](/images/build-your-own-hook-to-use-restful-api-button-eight.png){: loading="lazy" }
 
 Modify the hook so that count can start from any number the component provides, instead of just 0.
 
@@ -209,7 +209,7 @@ const App = () => {
   const [count, incrementCount] = useButtonClicked(2, 10);
 ```
 
-![Initial value 10 is displayed without clicking any button](/images/build-your-own-hook-to-use-restful-api-button-ten.png)
+![Initial value 10 is displayed without clicking any button](/images/build-your-own-hook-to-use-restful-api-button-ten.png){: loading="lazy" }
 
 ## Use a custom hook to make `GET` requests
 
@@ -391,7 +391,7 @@ It shows the name of the user from the result, an error message in case of error
 
 The button is disabled when the request is in process. When the button is clicked, it passes user ID `1` to the hook.
 
-![Please wait message while user info is fetched](/images/build-your-own-hook-to-use-restful-api-single-button-please-wait.png)![Display first name of user](/images/build-your-own-hook-to-use-restful-api-single-button-user-info.png)
+![Please wait message while user info is fetched](/images/build-your-own-hook-to-use-restful-api-single-button-please-wait.png){: loading="lazy" }![Display first name of user](/images/build-your-own-hook-to-use-restful-api-single-button-user-info.png){: loading="lazy" }
 
 Let's add two more buttons.
 
@@ -422,7 +422,7 @@ Let's add two more buttons.
 
 This is the result of clicking on the "Get Invalid User Info" button.
 
-![Error message when an invalid user ID is passed](/images/build-your-own-hook-to-use-restful-api-three-button-error-message.png)
+![Error message when an invalid user ID is passed](/images/build-your-own-hook-to-use-restful-api-three-button-error-message.png){: loading="lazy" }
 
 You can play with this code in the sandbox at [this link](https://codesandbox.io/s/relaxed-ganguly-m9prg){.ampl}.
 

@@ -142,7 +142,7 @@ Apple sign-in button required a little extra work because they do not have any H
 
 No big deal. Remember the HTML code I [mentioned earlier](#apple-sign-in-button-example)? I modified it a little so that the button has a white background. You can see and run the code yourself [here](https://repl.it/@talha131/Displaying-Sign-in-with-Apple-Buttons).
 
-![Sign in with Apple Default Button](/images/create-apple-google-signin-buttons-quick-dirty-way-default-apple.png)
+![Sign in with Apple Default Button](/images/create-apple-google-signin-buttons-quick-dirty-way-default-apple.png){: loading="lazy" }
 
 This button has rounded corners. On examining the rendered HTML in the browser inspector, I noticed it uses SVG for the border.
 
@@ -154,7 +154,7 @@ Removing `ry` attribute from the SVG removed the rounded corners.
 
 I adjusted the height of the root `div` from 40px to 50px. Width was already 210px. Then I right clicked on the root `div` and selected the "Screenshot Node" option.
 
-![Sign in with Apple button has white border](/images/create-apple-google-signin-buttons-quick-dirty-way-apple-white-border.png)
+![Sign in with Apple button has white border](/images/create-apple-google-signin-buttons-quick-dirty-way-apple-white-border.png){: loading="lazy" }
 
 The resulting image had white borders outside the black outline of the button. I am not sure what the reason is.
 
@@ -162,7 +162,7 @@ It's a quick and dirty hack. So I didn't investigate it further. Instead, I set 
 
 Now when I took the screenshot of the node, the result did not have the white border.
 
-![Sign in with Apple button with black border](/images/create-apple-google-signin-buttons-quick-dirty-way-apple-black-border.png)
+![Sign in with Apple button with black border](/images/create-apple-google-signin-buttons-quick-dirty-way-apple-black-border.png){: loading="lazy" }
 
 ### Adjust the image size
 
@@ -202,9 +202,9 @@ So now I have a Google sign-in button image, and an Apple sign-in button image, 
 
 I ran both the images through [ImageOptim](https://imageoptim.com/mac) to reduce their sizes, which decreased their sizes to 4kb each.
 
-![Sign in with Google](/images/create-apple-google-signin-buttons-quick-dirty-way-google.png)
+![Sign in with Google](/images/create-apple-google-signin-buttons-quick-dirty-way-google.png){: loading="lazy" }
 
-![Sign in with Apple](/images/create-apple-google-signin-buttons-quick-dirty-way-apple.png)
+![Sign in with Apple](/images/create-apple-google-signin-buttons-quick-dirty-way-apple.png){: loading="lazy" }
 
 ## Conclusion
 
