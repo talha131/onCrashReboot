@@ -5,7 +5,7 @@ status: hidden
 title: About Me
 ---
 
-![talha131 Avatar]({static}/images/my-social-profile-avatar.png){: #id1 style="float:left;width:84px;height:84px;border:none;" }
+![talha131 Avatar]({static}/images/my-social-profile-avatar.jpg){: loading="lazy" style="float:left;border:none;" }
 
 Call me Talha. I go by "talha131" at [Github](https://github.com/talha131/), [DEV](https://dev.to/talha131), and [GoodReads](https://goodreads.com/talha131). [Email](mailto:talha131@gmail.com) is the best way to reach me.
 
