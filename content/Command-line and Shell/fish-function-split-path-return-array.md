@@ -8,8 +8,6 @@ Subtitle:
 Summary: Create a fish function that splits pathname and return the result in an array
 Keywords:
 
-[TOC]
-
 My preferred terminal for daily use is [fish](https://fishshell.com/). Quite
 often I have to split a path and extract the filename from it. Unlike Bash, fish
 does not have `basename` utility. I use sed to extract the filename from the path.
