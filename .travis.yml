@@ -33,4 +33,4 @@ before_script:
 script:
 - pre-commit run --all-files
 - invoke publish
-- html5validator --root output/
+- html5validator --root output/ --ignore loading
