@@ -26,6 +26,7 @@ MARKDOWN = {
 }
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
+    "assets",
     "extract_toc",
     "liquid_tags.include_code",
     "neighbors",
