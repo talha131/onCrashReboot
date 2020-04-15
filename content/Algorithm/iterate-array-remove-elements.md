@@ -321,7 +321,7 @@ result = [x for x in eg if x < 99]
 print(result)
 ```
 
-### C\
+### C\# <!-- prettier-ignore -->
 
 Either of the following way will work in C#.
 
