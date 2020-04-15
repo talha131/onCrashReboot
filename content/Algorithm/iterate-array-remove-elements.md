@@ -91,7 +91,7 @@ Then the index `i` reaches 15, but it fails the condition `i < eg.length`, which
 
 !!! Error
 
-    If you think forcing loop to run 16 times will fix the issue, then you are wrong again.
+    If you think forcing the loop to run 16 times will fix the issue, then you are wrong again.
 
 Have a look at following incorrect code.
 
@@ -110,9 +110,9 @@ for (let i = 0; i < len; i++) {
 }
 ```
 
-If you try to [run this code](https://repl.it/@talha131/Incorrect-forward-Iterate-Over-An-Array-And-Remove-Elements), you will get index out of bound runtime errors.
+If you try to [run this code](https://repl.it/@talha131/Incorrect-forward-Iterate-Over-An-Array-And-Remove-Elements), you will get "index out of bound" runtime errors.
 
-Now, how do we solve this issue? **We have three ways to do it right way.**
+Now, how do we solve this issue? **We have three ways to do it the right way.**
 
 ## Solution 1 -- Decrement index
 
@@ -165,7 +165,7 @@ You can view and run this code [here](https://repl.it/@talha131/Decrement-i-Iter
 
 ## Solution 2 -- Iterate in Reverse
 
-In this solution, you start from the last element of the array and continue backward. This way, even if array length is modified, the loop iterates over all the remaining elements.
+In this solution, you start from the last element of the array and continue backwards. This way, even if array length is modified, the loop iterates over all the remaining elements.
 
 ```javascript
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
@@ -249,7 +249,7 @@ for i, el := range eg {
 }
 ```
 
-Output of the above program:
+The output of the above program:
 
 ```
 ./main
