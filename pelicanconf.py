@@ -165,6 +165,11 @@ PROJECTS = [
         " reST syntax",
     },
     {
+        "name": "coc-lists",
+        "url": "https://github.com/neoclide/coc-lists/commits?author=talha131",
+        "description": "Common lists extension for coc.nvim",
+    },
+    {
         "name": "Logpad + Duration",
         "url": "https://github.com/talha131/logpad-plus-duration#logpad--duration",
         "description": "Vim plugin to emulate Windows Notepad logging feature,"
