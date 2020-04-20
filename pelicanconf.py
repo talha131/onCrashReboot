@@ -122,6 +122,11 @@ SITE_DESCRIPTION = "My name is Talha Mansoor \u2015 a software engineer who gets
 # Landing Page
 PROJECTS = [
     {
+        "name": "Coding School",
+        "url": "https://www.codingschool.pk/",
+        "description": "An ongoing project to teach programming using C# in localized languages",
+    },
+    {
         "name": "Elegant",
         "url": "http://oncrashreboot.com/pelican-elegant",
         "description": "A clean and distraction free Pelican theme, with"
