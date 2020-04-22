@@ -124,7 +124,7 @@ PROJECTS = [
     {
         "name": "Coding School",
         "url": "https://www.codingschool.pk/",
-        "description": "An ongoing project to teach programming using C# in localized languages",
+        "description": "A project to teach programming using C#",
     },
     {
         "name": "Elegant",
