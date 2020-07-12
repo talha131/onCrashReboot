@@ -19,12 +19,14 @@ Keywords:
 
 ```bash
 brew install asciinema aspell autojump automake bash cmake coreutils curl \
-ephemeralpg fd fish fzf \
+entr ephemeralpg fd fdupes fish fzf \
 git git-lfs gnu-sed ghostscript go golangci/tap/golangci-lint \
-handbrake httpie hub \
-imagemagick libgxps llvm lua neovim p7zip parallel prettyping protobuf pyenv \
+handbrake heroku/brew/heroku httpie hub \
+imagemagick libgxps llvm lua neovim noborus/tap/ov \
+p7zip parallel protobuf pyenv \
 rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
-trash tree vcprompt wget yarn youtube-dl \
+tomanthony/brews/itermocil trash tree \
+vcprompt wget yarn youtube-dl \
 homebrew-ffmpeg/ffmpeg/ffmpeg --with-fdk-aac --with-xvid
 ```
 
@@ -62,6 +64,10 @@ curl
 : Get a file from an HTTP, HTTPS or FTP server<br />
 <https://curl.haxx.se/>
 
+entr
+: Run arbitrary commands when files change
+<http://entrproject.org>
+
 ephemeralpg
 : Run tests on an isolated, temporary Postgres database<br />
 <http://ephemeralpg.org>
@@ -69,6 +75,10 @@ ephemeralpg
 fd
 : Simple, fast and user-friendly alternative to find<br />
 <https://github.com/sharkdp/fd>
+
+fdupes
+Identify or delete duplicate files
+<https://github.com/adrianlopezroche/fdupes>
 
 ffmpeg
 : Play, record, convert, and stream audio and video<br />
@@ -112,6 +122,10 @@ handbrake
 : Open-source video transcoder available for Linux, Mac, and Windows<br />
 <https://handbrake.fr/>
 
+heroku/brew/heroku
+: Everything you need to get started with Heroku
+<https://cli.heroku.com>
+
 httpie
 : User-friendly cURL replacement (command-line HTTP client)<br />
 <https://httpie.org/>
@@ -140,6 +154,10 @@ neovim
 : Ambitious Vim-fork focused on extensibility and agility<br />
 <https://neovim.io/>
 
+noborus/tap/ov
+ov is a feature rich terminal pager
+<https://github.com/noborus/ov>
+
 p7zip
 : 7-Zip (high compression file archiver) implementation<br />
 <https://p7zip.sourceforge.io/>
@@ -147,10 +165,6 @@ p7zip
 parallel
 : Shell command parallelization utility<br />
 <https://savannah.gnu.org/projects/parallel/>
-
-prettyping
-: Wrapper to colorize and simplify ping's output<br />
-<https://denilsonsa.github.io/prettyping/>
 
 protobuf
 : Protocol buffers (Google's data interchange format)<br />
@@ -183,6 +197,10 @@ rust
 srkomodo/tap/shadowfox-updater
 : An automatic updater for ShadowFox<br/>
 <https://github.com/SrKomodo/shadowfox-updater>
+
+tomanthony/brews/itermocil
+: Setup pre-configured layouts of windows and panes in iTerm2
+<https://github.com/TomAnthony/itermocil>
 
 trash
 : CLI tool that moves files or folder to the trash<br />

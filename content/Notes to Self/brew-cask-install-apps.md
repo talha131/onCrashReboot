@@ -19,12 +19,12 @@ Keywords:
 
 ```bash
 brew cask install 1password android-file-transfer android-platform-tools \
-appcleaner atext authy avibrazil-rdm bitwarden calibre dash datagrip dotnet-sdk \
-dropbox evernote firefox-developer-edition github gitup google-chrome gpg-suite \
+appcleaner atext avibrazil-rdm calibre dash dotnet-sdk \
+dropbox evernote firefox-developer-edition google-chrome gpg-suite \
 hammerspoon handbrake hockey imageoptim inkscape istat-menus iterm2 \
-karabiner-elements keka mac2imgur mark-text omnidisksweeper osxfuse pdfexpert \
+karabiner-elements keka mac2imgur mark-text osxfuse pdfexpert \
 postgres qbittorrent qt-creator rcdefaultapp rescuetime simple-comic slack \
-syncthing-bar table-tool the-clock the-unarchiver visual-studio-code vlc xquartz
+the-clock the-unarchiver ticktick visual-studio-code vlc xquartz
 ```
 
 1password
@@ -42,23 +42,14 @@ appcleaner
 atext
 : <https://www.trankynam.com/atext/>
 
-authy
-: <https://authy.com/>
-
 avibrazil-rdm
 : <https://github.com/avibrazil/RDM>
-
-bitwarden
-: <https://bitwarden.com/>
 
 calibre
 : <https://calibre-ebook.com/>
 
 dash
 : <https://kapeli.com/dash>
-
-datagrip
-: <https://www.jetbrains.com/datagrip/>
 
 dotnet-sdk
 : <https://www.microsoft.com/net/core#macos>
@@ -71,12 +62,6 @@ evernote
 
 firefox-developer-edition
 : <https://www.mozilla.org/firefox/developer/>
-
-github
-: <https://desktop.github.com/>
-
-gitup
-: <https://gitup.co/>
 
 google-chrome
 : <https://www.google.com/chrome/>
@@ -117,9 +102,6 @@ mac2imgur
 mark-text
 : <https://marktext.github.io/website/>
 
-omnidisksweeper
-: <https://www.omnigroup.com/more/>
-
 osxfuse
 : <https://osxfuse.github.io/>
 
@@ -147,17 +129,14 @@ simple-comic
 slack
 : <https://slack.com/>
 
-syncthing-bar
-: <https://github.com/m0ppers/syncthing-bar>
-
-table-tool
-: <https://github.com/jakob/TableTool>
-
 the-clock
 : <https://seense.com/the_clock/>
 
 the-unarchiver
 : <https://theunarchiver.com/>
+
+ticktick
+: <https://www.ticktick.com/>
 
 visual-studio-code
 : <https://code.visualstudio.com/>
