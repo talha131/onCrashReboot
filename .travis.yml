@@ -1,8 +1,10 @@
 language: python
-dist: trusty
 
 python:
 - '3.6'
+
+node_js:
+  - '10.15.*'
 
 branches:
   only:
@@ -29,6 +31,7 @@ install:
 before_script:
 - invoke theme-sync
 - invoke plugins-sync
+- pre-commit autoupdate
 
 script:
 - pre-commit run --all-files
