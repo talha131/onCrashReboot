@@ -22,7 +22,7 @@ brew install asciinema aspell autojump automake bash cmake coreutils curl \
 entr ephemeralpg fd fdupes fish fzf \
 git git-lfs gnu-sed ghostscript go golangci/tap/golangci-lint \
 handbrake heroku/brew/heroku httpie hub \
-imagemagick libgxps llvm lua neovim noborus/tap/ov \
+imagemagick libgxps llvm lua neovim \
 p7zip parallel protobuf pyenv \
 rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
 tomanthony/brews/itermocil trash tree \
@@ -153,10 +153,6 @@ lua
 neovim
 : Ambitious Vim-fork focused on extensibility and agility<br />
 <https://neovim.io/>
-
-noborus/tap/ov
-ov is a feature rich terminal pager
-<https://github.com/noborus/ov>
 
 p7zip
 : 7-Zip (high compression file archiver) implementation<br />
