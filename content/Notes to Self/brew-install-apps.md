@@ -23,7 +23,7 @@ entr ephemeralpg fd fdupes fish fzf \
 git git-lfs gnu-sed ghostscript go golangci/tap/golangci-lint \
 handbrake heroku/brew/heroku httpie hub \
 imagemagick libgxps llvm lua neovim \
-p7zip parallel protobuf pyenv \
+p7zip parallel pgcli protobuf pyenv \
 rclone rhysd/git-brws/git-brws ripgrep ruby rust srkomodo/tap/shadowfox-updater \
 tomanthony/brews/itermocil trash tree \
 vcprompt wget yarn youtube-dl \
@@ -161,6 +161,10 @@ p7zip
 parallel
 : Shell command parallelization utility<br />
 <https://savannah.gnu.org/projects/parallel/>
+
+pgcli
+: CLI for Postgres with auto-completion and syntax highlighting<br />
+<https://pgcli.com/>
 
 protobuf
 : Protocol buffers (Google's data interchange format)<br />
