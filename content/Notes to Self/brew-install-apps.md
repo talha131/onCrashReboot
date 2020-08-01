@@ -18,7 +18,9 @@ Keywords:
 <!-- yaspeller ignore:start -->
 
 ```bash
-brew install asciinema aspell autojump automake bash cmake coreutils curl \
+brew install asciinema aspell autojump automake \
+bat bash \
+cmake coreutils curl \
 entr ephemeralpg fd fdupes fish fzf \
 git git-lfs gnu-sed ghostscript go golangci/tap/golangci-lint \
 handbrake heroku/brew/heroku httpie hub \
@@ -47,6 +49,10 @@ autojump
 automake
 : Tool for generating GNU Standards-compliant Makefiles<br />
 <https://www.gnu.org/software/automake/>
+
+bat
+: Clone of cat(1) with syntax highlighting and Git integration
+<https://github.com/sharkdp/bat>
 
 bash
 : Bourne-Again SHell, a UNIX command interpreter<br />
