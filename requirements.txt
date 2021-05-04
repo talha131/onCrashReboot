@@ -11,7 +11,7 @@ GitPython==3.1.1
 html5validator==0.3.3
 importlib-metadata==1.6.0
 invoke==1.4.1
-Jinja2==2.11.1
+Jinja2==2.11.3
 jinjaninja==0.1.2
 livereload==2.6.1
 Markdown==3.2.1
