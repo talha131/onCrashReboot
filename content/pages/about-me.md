@@ -9,8 +9,6 @@ title: About Me
 
 Call me Talha. I go by "talha131" at [Github](https://github.com/talha131/), [DEV](https://dev.to/talha131), and [GoodReads](https://goodreads.com/talha131). [Email](mailto:talha131@gmail.com) is the best way to reach me.
 
-I work on [Jump Desktop](http://jumpdesktop.com/). It is a remote desktop application for iOS, Android, macOS, and Windows. I play a broad role there; which includes research, product design, engineering, and deployment. I also lend a hand in user support.
-
 I have been working in the field for more than a decade. I do not pigeonhole myself to specific languages or frameworks.
 
 Through the years, I have learned and worked in several programming languages and frameworks. I have built apps for macOS, Windows, Linux, iOS, and Android. I am comfortable working in C, C++, Objective-C, C#, Python, and Java.
