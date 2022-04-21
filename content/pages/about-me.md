@@ -5,17 +5,11 @@ status: hidden
 title: About Me
 ---
 
-![talha131 Avatar]({static}/images/my-social-profile-avatar.jpg){: loading="lazy" style="float:left;border:none;" }
-
-Call me Talha. I go by "talha131" at [Github](https://github.com/talha131/), [DEV](https://dev.to/talha131), and [GoodReads](https://goodreads.com/talha131). [Email](mailto:talha131@gmail.com) is the best way to reach me.
-
-I have been working in the field for more than a decade. I do not pigeonhole myself to specific languages or frameworks.
-
-Through the years, I have learned and worked in several programming languages and frameworks. I have built apps for macOS, Windows, Linux, iOS, and Android. I am comfortable working in C, C++, Objective-C, C#, Python, and Java.
+I have been working in the field for more than a decade. I do not pigeonhole myself to specific languages or frameworks. Through the years, I have learned and worked in several programming languages and frameworks. I have built apps for macOS, Windows, Linux, iOS, and Android. I am comfortable working in C, C++, Objective-C, C#, Python, and Java.
 
 I took up web development since early 2016 and picked up Go and NodeJS. I have built and delivered apps using ReactJS, Mobx, Redux, and ElectronJS.
 
-Besides the day job, I contribute to open source projects, beta test startup products, and offer consultancy. I work on my physical fitness and read books regularly; to be a stronger and better version of myself!
+Besides the day job, I contribute to open source projects, beta test startup products, and offer consultancy. 
 
 ## What is the intent behind this website?
 
