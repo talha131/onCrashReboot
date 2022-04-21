@@ -32,7 +32,6 @@ PLUGINS = [
     "related_posts",
     "series",
     "share_post",
-    "tipue_search",
 ]
 SITEMAP = {
     "format": "xml",
