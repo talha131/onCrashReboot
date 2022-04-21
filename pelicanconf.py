@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-AUTHOR = "Talha Mansoor"
 SITENAME = """<span style="color:black;">onCrash</span> <span style="color:darkblue;">=</span> <span style="color:#AA1032;">'reboot();'</span>"""
 SITEURL = ""
 SITESUBTITLE = "You can, you should, and if you're brave enough to start, you will."
@@ -65,10 +64,6 @@ CATEGORY_FEED_RSS = None
 
 # Social
 SOCIAL = (
-    ("Email", "mailto:talha131@gmail.com", "My Emaill Address"),
-    ("Github", "https://github.com/talha131/", "My Github Profile"),
-    ("GoodReads", "https://www.goodreads.com/talha131"),
-    ("Keybase", "https://keybase.io/talha131"),
     ("RSS", SITEURL + "/feeds/all.atom.xml"),
 )
 
@@ -93,31 +88,17 @@ CATEGORY_SAVE_AS = ""
 USE_SHORTCUT_ICONS = True
 
 # Elegant Labels
-SOCIAL_PROFILE_LABEL = "Stay in Touch"
 RELATED_POSTS_LABEL = "Keep Reading"
 SHARE_POST_INTRO = "Like this post? Share on:"
 COMMENTS_INTRO = """So what do you think? Did I miss something? Is any part unclear?
             Leave your comments below.
         """
 
-# Mailchimp
-EMAIL_SUBSCRIPTION_LABEL = "Get New Posts In Your Inbox"
-EMAIL_FIELD_PLACEHOLDER = "Enter your email..."
-SUBSCRIBE_BUTTON_TITLE = "Subscribe Me"
-MAILCHIMP_FORM_ACTION = "empty"
-
-# SMO
-TWITTER_USERNAME = "talham_"
-FEATURED_IMAGE = SITEURL + "/theme/images/apple-touch-icon-152x152.png"
-
 # Legal
 SITE_LICENSE = """Content licensed under <a rel="license nofollow noopener noreferrer"
     href="http://creativecommons.org/licenses/by/4.0/" target="_blank">
     Creative Commons Attribution 4.0 International License</a>."""
 HOSTED_ON = {"name": "Netlify", "url": "https://www.netlify.com/"}
-
-# SEO
-SITE_DESCRIPTION = "My name is Talha Mansoor \u2015 a software engineer who gets things done. I am talha131 at Github and @talham_ at twitter. I design and build software products for iOS and OSX. I work on Jump Desktop which is a remote desktop application for iOS, OSX and Android. This is my personal blog."
 
 # Landing Page
 PROJECTS = [
