@@ -130,8 +130,8 @@ const config: Config = {
       copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
-      darkTheme: prismThemes.github,
-      theme: prismThemes.dracula,
+      darkTheme: prismThemes.oneDark,
+      theme: prismThemes.oneLight,
       additionalLanguages: ['csharp'],
     },
   } satisfies Preset.ThemeConfig,
