@@ -1,7 +1,6 @@
 pelican.pid
 srv.pid
 plugins/
-themes/
 .peru/
 output/
 
