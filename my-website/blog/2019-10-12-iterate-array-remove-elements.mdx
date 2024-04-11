@@ -298,8 +298,8 @@ Most modern programming languages are incorporating functional programming
 features. Thus, if a language supports new methods, you do not have to use the
 old fashioned loops to remove elements from an array.
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
 
 <Tabs
   defaultValue="javascript"
@@ -312,14 +312,13 @@ import TabItem from '@theme/TabItem';
 
   <TabItem value="javascript">
 
-
 In [ECMA-262 5th edition](https://en.wikipedia.org/wiki/ECMAScript?oldformat=true#5th_Edition), [`filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method was added to the JavaScript.
 
 We can rework the above example into [a simple oneliner](https://repl.it/@talha131/JS-Filter-Iterate-Over-An-Array-And-Remove-Elements).
 
 ```javascript
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
-result = eg.filter(x => x < 99);
+result = eg.filter((x) => x < 99);
 // Output
 console.log(result);
 ```
