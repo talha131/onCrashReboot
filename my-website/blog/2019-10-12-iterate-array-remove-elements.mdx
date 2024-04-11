@@ -1,22 +1,22 @@
 ---
-title: Iterate Over An Array And Remove Elements
-tags: [functional programming, Cpp, Csharp, Python, JavaScript, Golang]
-date: 2019-10-12 17:16
-slug: iterate-over-an-array-and-remove-elements
-description: When you iterate over an array and remove elements from it, you can get incorrect results. This article explains how you can avoid it.
+title: Removing Elements from Arrays the Right Way
+tags: [data structure, algorithm,functional programming, Cpp, Csharp, Python, JavaScript, Golang]
+slug: correct-way-to-remove-array-elements
+description: Learn the correct methods for removing elements from arrays in JavaScript, including best practices and common pitfalls to avoid.
+keywords: [JavaScript array removal, Removing elements from arrays, Array manipulation techniques, Correct way to remove array elements, Array element removal best practices, JavaScript coding tips, Efficient array processing, Debugging arrays in JavaScript, Functional programming array methods, Software development best practices, Array splice method, Reverse iteration arrays, Programming tutorials, Data structure optimization, Code debugging techniques]
 ---
 
-Say you have an array, a simple array with 16 integers.
+Imagine you're working with a simple array, one that contains 16 integers.
 
 ```javascript
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 ```
 
-Your task is to remove all numbers that are greater than `99`. Simple enough! You will iterate over the array and remove all the elements that are greater than 99.
+Now, let's say we need to weed out all numbers greater than 99 from our array. Sounds like a piece of cake, doesn't it?
 
 :::tip
 
-Although the following examples use JavaScript, the logic and the issue it posses are valid for any programming language.
+Heads up: We're using JavaScript for our examples, but the puzzle we're tackling? It's universal across all programming languages.
 Near the end, I have added examples in Golang, C#, C++, Python and JavaScript.
 
 :::
@@ -34,17 +34,17 @@ for (let i = 0; i < eg.length; i++) {
 }
 ```
 
-If you print the result `eg`, you will see that the result is not quite right.
+But wait, once you print the updated array, you'll notice something's off.
 
 ```javascript
 [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 233, 610];
 ```
 
-This result cannot be correct. 233 and 610 are greater than 99 and still left in the array.
+Why are 233 and 610 still lounging in our array? They're clearly above our cut-off of 99.
 
 ## What went wrong?
 
-Let's add some log statements to the code. You can view and run the code [at this link](https://repl.it/@talha131/Incorrect-Iterate-Over-An-Array-And-Remove-Elements).
+Let's sprinkle our code with log statements to see what's happening under the hood. You can view and run the code [at this link](https://repl.it/@talha131/Incorrect-Iterate-Over-An-Array-And-Remove-Elements).
 
 ```javascript
 for (let i = 0; i < eg.length; i++) {
@@ -79,7 +79,7 @@ Element at 13 removed. Length is  14
 [ 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 233, 610 ]
 ```
 
-Notice that when the index `i` is 12, it reaches element 144. 144 is removed, which reduces array length to 15 from 16.
+Here's where it gets interesting. When our loop hits index 12, it encounters the number 144. 144 is removed, which reduces array length to 15 from 16.
 
 Then the index `i` is 14, and it reaches element 377. 377 is removed, which reduces array length from 15 to 14.
 
