@@ -1,14 +1,10 @@
-Title: Iterate Over An Array And Remove Elements
-Tags: functional programming, array, iteration, C Sharp, Cpp, Python, JavaScript, Golang, std
-Category: Algorithm
-Date: 2019-10-12 17:16
-Slug: iterate-over-an-array-and-remove-elements
-comment_id: nsqj8go7d2fw-iterate-over-an-array-and-remove-elements
-Subtitle:
-Summary: When you iterate over an array and remove elements from it, you can get incorrect results. This article explains how you can avoid it.
-Keywords:
-
-[TOC]
+---
+title: Iterate Over An Array And Remove Elements
+tags: [functional programming, Cpp, Csharp, Python, JavaScript, Golang]
+date: 2019-10-12 17:16
+slug: iterate-over-an-array-and-remove-elements
+description: When you iterate over an array and remove elements from it, you can get incorrect results. This article explains how you can avoid it.
+---
 
 Say you have an array, a simple array with 16 integers.
 
@@ -18,10 +14,12 @@ const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 Your task is to remove all numbers that are greater than `99`. Simple enough! You will iterate over the array and remove all the elements that are greater than 99.
 
-!!! Important
+:::tip
 
-    Although the following examples use JavaScript, the logic and the issue it posses are valid for any programming language.
-    Near the end, I have added examples in Golang, C#, C++, Python and JavaScript.
+Although the following examples use JavaScript, the logic and the issue it posses are valid for any programming language.
+Near the end, I have added examples in Golang, C#, C++, Python and JavaScript.
+
+:::
 
 Your code will probably look like this,
 
@@ -89,9 +87,11 @@ Then the index `i` reaches 15, but it fails the condition `i < eg.length`, which
 
 **The loop ran only 14 times when it should have run 16 times.** It happens because we modified the array length during the iteration.
 
-!!! Error
+:::warning
 
     If you think forcing the loop to run 16 times will fix the issue, then you are wrong again.
+
+:::
 
 Have a look at following incorrect code.
 
@@ -114,7 +114,7 @@ If you try to [run this code](https://repl.it/@talha131/Incorrect-forward-Iterat
 
 Now, how do we solve this issue? **We have three ways to do it the right way.**
 
-## Solution 1 -- Decrement index
+## Solution 1 – Decrement index
 
 One way to solve this problem is to decrement `i` whenever an element from the array is removed. This way index does not skip over the remaining elements of the array.
 
@@ -127,7 +127,7 @@ for (let i = 0; i < eg.length; i++) {
     // Remove element
     eg.splice(i, 1);
     console.log(`Element at ${i} removed. Length is  ${eg.length}`);
-    // Important
+    // highlight-next-line
     i--;
   }
 }
@@ -163,7 +163,7 @@ Element at 12 removed. Length is  12
 
 You can view and run this code [here](https://repl.it/@talha131/Decrement-i-Iterate-Over-An-Array-And-Remove-Elements-1).
 
-## Solution 2 -- Iterate in Reverse
+## Solution 2 – Iterate in Reverse
 
 In this solution, you start from the last element of the array and continue backwards. This way, even if array length is modified, the loop iterates over all the remaining elements.
 
@@ -224,7 +224,7 @@ You can view code with a `for` loop [here](https://repl.it/@talha131/Iterate-Rev
 
 No! Whichever programming language you pick, if you iterate and remove array elements incorrectly, you will face this issue.
 
-[Here](https://repl.it/@talha131/Incorrect-Go-Iterate-Over-An-Array-And-Remove-Elements?language=go) is the same problem replicated in Golang. If you run it, the program fails during runtime.
+[Here](https://repl.it/@talha131/Incorrect-Go-Iterate-Over-An-Array-And-Remove-Elements?language=go) is the same problem replicated in **Golang**. If you run it, the program fails during runtime.
 
 ```go
 package main
@@ -240,10 +240,9 @@ func main() {
 for i, el := range eg {
         if el > 99 {
             eg = remove(eg, i)
-      fmt.Println(len(eg))
+            fmt.Println(len(eg))
         }
     }
-
 
     fmt.Println(eg)
 }
@@ -280,10 +279,11 @@ func main() {
     eg := []int{0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610}
     l := len(eg) - 1
     for l >= 0 {
-    if eg[l] > 99 {
-            eg = remove(eg, l)
-        }
-    l = l - 1
+        if eg[l] > 99 {
+                eg = remove(eg, l)
+            }
+        // highlight-next-line
+        l = l - 1
     }
 
     fmt.Println(eg)
