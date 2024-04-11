@@ -298,7 +298,20 @@ Most modern programming languages are incorporating functional programming
 features. Thus, if a language supports new methods, you do not have to use the
 old fashioned loops to remove elements from an array.
 
-### JavaScript
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  defaultValue="javascript"
+  values={[
+    {label: 'JavaScript', value: 'javascript'},
+    {label: 'Python', value: 'python'},
+    {label: 'C#', value: 'csharp'},
+    {label: 'C++', value: 'cpp'},
+  ]}>
+
+  <TabItem value="javascript">
+
 
 In [ECMA-262 5th edition](https://en.wikipedia.org/wiki/ECMAScript?oldformat=true#5th_Edition), [`filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method was added to the JavaScript.
 
@@ -311,7 +324,8 @@ result = eg.filter(x => x < 99);
 console.log(result);
 ```
 
-### Python
+  </TabItem>
+  <TabItem value="python">
 
 [Here is a working Python oneliner](https://repl.it/@talha131/Python-Iterate-Over-An-Array-And-Remove-Elements).
 
@@ -321,7 +335,8 @@ result = [x for x in eg if x < 99]
 print(result)
 ```
 
-### C\# <!-- prettier-ignore -->
+  </TabItem>
+  <TabItem value="csharp">
 
 Either of the following way will work in C#.
 
@@ -358,7 +373,8 @@ class MainClass {
 }
 ```
 
-### C++
+  </TabItem>
+  <TabItem value="cpp">
 
 C++ has [`std::remove_if`](https://en.cppreference.com/w/cpp/algorithm/remove) method.
 
@@ -388,3 +404,6 @@ int main() {
 ```
 
 You can run this code [here](https://repl.it/@talha131/C-Iterate-Over-An-Array-And-Remove-Elements).
+
+  </TabItem>
+</Tabs>
