@@ -12,8 +12,8 @@
   "menu": {
     "main": [
       {
-        "name": "Documentation",
-        "pageRef": "/docs",
+        "name": "ICT",
+        "pageRef": "/ict",
         "weight": 1
       },
       {
