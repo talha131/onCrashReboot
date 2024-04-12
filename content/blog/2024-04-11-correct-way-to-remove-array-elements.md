@@ -18,13 +18,12 @@ Now, let's say we need to weed out all numbers greater than 99 from our array. S
 
 Your code will probably look like this,
 
-```javascript
+```javascript {linenos=table,hl_lines=[6],filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 for (let i = 0; i < eg.length; i++) {
   if (eg[i] > 99) {
     // Remove element
-    // highlight-next-line
     eg.splice(i, 1);
   }
 }
@@ -38,20 +37,18 @@ But wait, once you print the updated array, you'll notice something's off.
 
 Why are 233 and 610 still lounging in our array? They're clearly above our cut-off of 99.
 
-<!--truncate-->
-
 ## What went wrong?
 
-:::tip
+{{< callout type="info" >}}
 
 Heads up: We're using JavaScript for our examples, but the puzzle we're tackling? It's universal across all programming languages.
 Near the end, I have added examples in Golang, C#, C++, Python and JavaScript.
 
-:::
+{{< /callout >}}
 
 Let's sprinkle our code with log statements to see what's happening under the hood. You can view and run the code [at this link](https://repl.it/@talha131/Incorrect-Iterate-Over-An-Array-And-Remove-Elements).
 
-```javascript
+```javascript {linenos=table,hl_lines=[6, 11],filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 console.log(`index\tvalue\tarray length`);
@@ -71,7 +68,7 @@ console.log(eg)
 
 The output is,
 
-```text
+```bash {hl_lines=[15,16,17],filename="Output"}
 index   value   array length
 0       0           16
 1       1           16
@@ -100,15 +97,16 @@ Then the index `i` reaches 15, but it fails the condition `i < eg.length`, which
 
 **The loop ran only 14 times when it should have run 16 times.** It happens because we modified the array length during the iteration.
 
-:::warning
+{{< callout type="warning" >}}
 
-    If you think forcing the loop to run 16 times will fix the issue, then you are wrong again.
 
-:::
+If you think forcing the loop to run 16 times will fix the issue, then you are wrong.
+
+{{< /callout >}}
 
 Have a look at following incorrect code.
 
-```javascript
+```javascript {linenos=table,hl_lines=[3],filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 const len = eg.length;
@@ -134,7 +132,7 @@ Now, how do we solve this issue? **We have three ways to do it the right way.**
 
 One way to solve this problem is to decrement `i` whenever an element from the array is removed. This way index does not skip over the remaining elements of the array.
 
-```javascript
+```javascript {linenos=table,hl_lines=[12],filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 console.log(`index\tvalue\tarray length`);
@@ -146,7 +144,6 @@ for (let i = 0; i < eg.length; i++) {
     // Remove element
     eg.splice(i, 1);
     console.log(`Element at ${i} removed. Length is  ${eg.length}`);
-    // highlight-next-line
     i--;
   }
 }
@@ -156,7 +153,7 @@ console.log(eg);
 
 Its output is
 
-```
+```bash {hl_lines=[15,17,19,21],filename="Output"}
 index   value   array length
 0       0           16
 1       1           16
@@ -187,7 +184,7 @@ You can view and run this code [here](https://repl.it/@talha131/Decrement-i-Iter
 
 In this solution, you start from the last element of the array and continue backwards. This way, even if array length is modified, the loop iterates over all the remaining elements.
 
-```javascript
+```javascript {linenos=table,hl_lines=[3,7],filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 
 let i = eg.length;
@@ -209,7 +206,7 @@ console.log(eg);
 
 Its output is
 
-```
+```bash {hl_lines=[3,5,7,9],filename="Output"}
 index   value   array length
 15      610         16
 Element at 15 removed. Length is 15
@@ -250,7 +247,7 @@ No! Whichever programming language you pick, if you iterate and remove array ele
 
 [Here](https://repl.it/@talha131/Incorrect-Go-Iterate-Over-An-Array-And-Remove-Elements?language=go) is the same problem replicated in **Golang**. If you run it, the program fails during runtime.
 
-```go
+```go {linenos=table,filename="Go"}
 package main
 
 import "fmt"
@@ -274,7 +271,7 @@ for i, el := range eg {
 
 The output of the above program:
 
-```
+```bash {filename="Output"}
 ./main
 15
 14
@@ -290,7 +287,7 @@ exit status 2
 
 But if we turn around the code and start iteration is reverse, then [the code works fine](https://repl.it/@talha131/Correct-Go-Iterate-Over-An-Array-And-Remove-Elements).
 
-```go
+```go {linenos=table,hl_lines=[11,17],filename="Go"}
 package main
 
 import "fmt"
@@ -306,7 +303,7 @@ func main() {
         if eg[l] > 99 {
                 eg = remove(eg, l)
             }
-        // highlight-next-line
+
         l = l - 1
     }
 
@@ -322,50 +319,40 @@ Most modern programming languages are incorporating functional programming
 features. Thus, if a language supports new methods, you do not have to use the
 old fashioned loops to remove elements from an array.
 
-import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
+{{< tabs items="JavaScript,Python,C#,C++" defaultIndex="0" >}}
 
-<Tabs
-  defaultValue="javascript"
-  values={[
-    {label: 'JavaScript', value: 'javascript'},
-    {label: 'Python', value: 'python'},
-    {label: 'C#', value: 'csharp'},
-    {label: 'C++', value: 'cpp'},
-  ]}>
-
-  <TabItem value="javascript">
+{{< tab >}}
 
 In [ECMA-262 5th edition](https://en.wikipedia.org/wiki/ECMAScript?oldformat=true#5th_Edition), [`filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) method was added to the JavaScript.
 
 We can rework the above example into [a simple oneliner](https://repl.it/@talha131/JS-Filter-Iterate-Over-An-Array-And-Remove-Elements).
 
-```javascript
+```javascript {linenos=table,filename="JavaScript"}
 const eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610];
 result = eg.filter((x) => x < 99);
 // Output
 console.log(result);
 ```
 
-  </TabItem>
-  <TabItem value="python">
+{{< /tab >}}
+{{< tab >}}
 
 [Here is a working Python oneliner](https://repl.it/@talha131/Python-Iterate-Over-An-Array-And-Remove-Elements).
 
-```python
+```python {linenos=table,filename="Python"}
 eg = [0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610]
 result = [x for x in eg if x < 99]
 print(result)
 ```
 
-  </TabItem>
-  <TabItem value="csharp">
+{{< /tab >}}
+{{< tab >}}
 
 Either of the following way will work in C#.
 
-### [Using Linq](https://repl.it/@talha131/C-Linq-Iterate-Over-An-Array-And-Remove-Elements).
+[Using Linq](https://repl.it/@talha131/C-Linq-Iterate-Over-An-Array-And-Remove-Elements).
 
-```csharp
+```csharp {linenos=table,filename="C#"}
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -380,9 +367,9 @@ class MainClass {
 }
 ```
 
-### [Using predicate](https://repl.it/@talha131/C-Predicate-Iterate-Over-An-Array-And-Remove-Elements).
+[Using predicate](https://repl.it/@talha131/C-Predicate-Iterate-Over-An-Array-And-Remove-Elements).
 
-```csharp
+```csharp {linenos=table,filename="C#"}
 using System;
 using System.Collections.Generic;
 
@@ -396,12 +383,12 @@ class MainClass {
 }
 ```
 
-  </TabItem>
-  <TabItem value="cpp">
+{{< /tab >}}
+{{< tab >}}
 
 C++ has [`std::remove_if`](https://en.cppreference.com/w/cpp/algorithm/remove) method.
 
-```cpp
+```cpp {linenos=table,filename="C++"}
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -428,5 +415,7 @@ int main() {
 
 You can run this code [here](https://repl.it/@talha131/C-Iterate-Over-An-Array-And-Remove-Elements).
 
-  </TabItem>
-</Tabs>
+{{< /tab >}}
+  {{< /tabs >}}
+
+
