@@ -1,3 +1,9 @@
+# Hugo output
+public/
+resources/
+.hugo_build.lock
+
+# pelican
 pelican.pid
 srv.pid
 plugins/
