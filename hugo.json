@@ -62,6 +62,10 @@
         "width": 40,
         "height": 20
       }
+    },
+    "footer": {
+      "enable": true,
+      "displayCopyright": true
     }
   }
 }
