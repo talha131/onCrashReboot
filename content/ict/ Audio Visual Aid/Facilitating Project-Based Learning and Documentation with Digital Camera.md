@@ -1,5 +1,5 @@
 ---
-title:Facilitating Project-Based Learning and Documentation with Digital Camera
+title: Facilitating Project-Based Learning and Documentation with Digital Camera
 ---
 
 ### Documenting Projects

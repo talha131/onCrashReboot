@@ -1,5 +1,5 @@
 ---
-title:The Role of E-portfolios in Job Search and Career Development
+title: The Role of E-portfolios in Job Search and Career Development
 ---
 
 E-portfolios are more than just a collection of work; they're a dynamic tool for job search and career development. They help job seekers stand out, prove their skills, keep learning, and connect with others. Plus, they offer a professional way to present themselves online, making a strong case for why they're the best person for the job.

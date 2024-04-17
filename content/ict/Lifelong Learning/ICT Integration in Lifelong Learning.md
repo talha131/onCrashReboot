@@ -1,5 +1,5 @@
 ---
-title:ICT Integration in Lifelong Learning
+title: ICT Integration in Lifelong Learning
 ---
 
 ### Access to Information and Resources

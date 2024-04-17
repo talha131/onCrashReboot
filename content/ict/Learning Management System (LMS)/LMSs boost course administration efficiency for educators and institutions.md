@@ -1,5 +1,5 @@
 ---
-title:LMSs boost course administration efficiency for educators and institutions
+title: LMSs boost course administration efficiency for educators and institutions
 ---
 
 Learning Management Systems significantly contribute to the efficiency of course administration. They streamline management tasks, centralize information, automate processes, and enhance communication. This allows educators and institutions to focus more on delivering quality education and less on administrative tasks.

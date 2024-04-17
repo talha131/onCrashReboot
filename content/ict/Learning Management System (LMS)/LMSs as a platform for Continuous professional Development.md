@@ -1,5 +1,5 @@
 ---
-title:LMSs as a platform for Continuous professional Development
+title: LMSs as a platform for Continuous professional Development
 ---
 
 Learning Management Systems provide a flexible, accessible, and effective way for professionals to keep learning and growing in their careers. They offer a range of courses, the ability to learn at your own pace, and the chance to earn certifications that can help advance your career.

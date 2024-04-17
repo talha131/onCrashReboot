@@ -1,5 +1,5 @@
 ---
-title:Enhancing Visual Learning and Creativity in Students with Digital Cameras
+title: Enhancing Visual Learning and Creativity in Students with Digital Cameras
 ---
 
 Digital cameras can significantly enhance visual learning and creativity among students by making abstract concepts concrete, encouraging creative expression, and facilitating project-based learning. They also support documentation, promote collaborative learning, and create a more engaging and interactive classroom environment. Using digital cameras, students can explore, document, and present their learning in innovative ways, making education a more dynamic and immersive experience.

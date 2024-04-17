@@ -1,5 +1,5 @@
 ---
-title:Barriers faced by teacher while integrating ICT in school
+title: Barriers faced by teacher while integrating ICT in school
 ---
 
 ### Barriers to ICT Integration in Schools

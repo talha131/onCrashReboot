@@ -1,5 +1,5 @@
 ---
-title:Interactive Radio Instruction vs Traditional Radio Broadcasts
+title: Interactive Radio Instruction vs Traditional Radio Broadcasts
 ---
 
 Interactive Radio Instruction differs from traditional radio broadcasts in its focus on active participation, educational design, use of activities for learning, and direct feedback, all aimed specifically at achieving learning objectives for its target audience.

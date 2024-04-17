@@ -1,5 +1,5 @@
 ---
-title:Importance of Lifelong learning in education
+title: Importance of Lifelong learning in education
 ---
 
 Lifelong learning is essential in education for adapting to change, enhancing employability, and fostering personal growth. The integration of ICT supports and sustains a lifelong learning culture by providing flexible, accessible, and engaging learning opportunities. It prepares individuals to thrive in a continuously evolving world.

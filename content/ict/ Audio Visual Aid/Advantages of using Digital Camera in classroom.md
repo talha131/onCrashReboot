@@ -1,5 +1,5 @@
 ---
-title:Advantages of using Digital Camera in classroom
+title: Advantages of using Digital Camera in classroom
 ---
 
 Digital cameras in the classroom offer many advantages. They enhance learning through visuals, encourage creativity, support diverse subjects, promote engagement, develop technical skills, and facilitate real-world connections. These tools are versatile and can be used in various educational activities, making learning more dynamic and interactive.

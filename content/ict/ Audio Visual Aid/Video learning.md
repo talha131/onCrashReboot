@@ -1,5 +1,5 @@
 ---
-title:Video learning
+title: Video learning
 ---
 
 Video learning is an educational method where videos are used as the main tool to teach students about various subjects. This approach can be applied across all levels of education, from elementary school to university and beyond, including professional development and informal learning environments.

@@ -1,5 +1,5 @@
 ---
-title:Importance of communication and collaboration through ICT tools
+title: Importance of communication and collaboration through ICT tools
 ---
 
 In educational settings, communication and collaboration are key to creating a dynamic learning environment. Information and Communication Technology (ICT) tools have transformed how educators and students interact, share knowledge, and work together.

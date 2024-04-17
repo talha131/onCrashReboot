@@ -1,5 +1,5 @@
 ---
-title:Collaborative Project in Education
+title: Collaborative Project in Education
 ---
 
 Collaborative projects are a valuable part of education because they mirror real-world situations where working with others is essential. These projects not only enhance academic learning but also develop important life skills in teamwork, communication, and problem-solving.

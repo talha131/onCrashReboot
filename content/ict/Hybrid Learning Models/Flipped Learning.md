@@ -1,5 +1,5 @@
 ---
-title:Flipped Learning
+title: Flipped Learning
 ---
 
 ### Overview

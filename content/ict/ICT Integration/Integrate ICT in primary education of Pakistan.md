@@ -1,5 +1,5 @@
 ---
-title:Integrate ICT in primary education of Pakistan
+title: Integrate ICT in primary education of Pakistan
 ---
 
 Integrating Information and Communication Technology (ICT) in primary education in Pakistan involves a strategic approach that leverages various tools and resources to enhance learning and teaching processes. This integration is aimed at making education more engaging, accessible, and effective for young learners. Here's how ICT can be integrated into primary education in Pakistan, along with the appropriate tools:

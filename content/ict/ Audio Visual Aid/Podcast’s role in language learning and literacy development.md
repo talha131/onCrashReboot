@@ -1,5 +1,5 @@
 ---
-title:Podcast’s role in language learning and literacy development
+title: Podcast’s role in language learning and literacy development
 ---
 
 Podcasts can significantly enrich language learning and literacy development by providing exposure to diverse languages and accents, enhancing listening skills, expanding vocabulary, promoting cultural understanding, supporting self-paced learning, encouraging active engagement, and offering authentic listening experiences. Through these benefits, podcasts serve as a valuable resource for learners aiming to improve their language proficiency and literacy skills.

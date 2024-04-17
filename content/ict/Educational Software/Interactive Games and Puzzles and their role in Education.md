@@ -1,5 +1,5 @@
 ---
-title:Interactive Games and Puzzles and their role in Education
+title: Interactive Games and Puzzles and their role in Education
 ---
 
 ### Definition of Interactive Games and Puzzles

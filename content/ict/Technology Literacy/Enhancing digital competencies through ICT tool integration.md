@@ -1,5 +1,5 @@
 ---
-title:Enhancing digital competencies through ICT tool integration
+title: Enhancing digital competencies through ICT tool integration
 ---
 
 ### Interactive Whiteboards in Math Lessons

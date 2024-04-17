@@ -1,5 +1,5 @@
 ---
-title:Digital Camera
+title: Digital Camera
 ---
 
 A digital camera is a device that captures photographs and videos in a digital format. Unlike traditional film cameras, digital cameras use electronic sensors to record images, which can then be stored on a memory card, viewed on a screen, and easily transferred to computers or other devices.

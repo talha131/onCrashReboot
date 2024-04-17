@@ -1,5 +1,5 @@
 ---
-title:Benefits of integrating blogging into the curriculum
+title: Benefits of integrating blogging into the curriculum
 ---
 
 While integrating blogging into the curriculum offers numerous benefits, including enhanced writing skills, digital literacy, and creative expression, it also presents challenges like the digital divide, online safety concerns, and time constraints. By addressing these challenges with strategic planning, support, and resources, educators can effectively incorporate blogging into their teaching, maximizing its benefits for student learning.

@@ -1,5 +1,5 @@
 ---
-title:Infographics vs Visual Aids
+title: Infographics vs Visual Aids
 ---
 
 ### 1\. Combination of Elements

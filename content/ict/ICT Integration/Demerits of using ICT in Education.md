@@ -1,5 +1,5 @@
 ---
-title:Demerits of using ICT in Education
+title: Demerits of using ICT in Education
 ---
 
 ### Cost

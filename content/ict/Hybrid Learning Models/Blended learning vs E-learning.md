@@ -1,5 +1,5 @@
 ---
-title:Blended learning vs E-learning
+title: Blended learning vs E-learning
 ---
 
 ### Blended Learning

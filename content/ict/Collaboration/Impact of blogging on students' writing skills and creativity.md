@@ -1,5 +1,5 @@
 ---
-title:Impact of blogging on students' writing skills and creativity
+title: Impact of blogging on students' writing skills and creativity
 ---
 
 Blogging is a powerful tool in education. It improves writing skills and boosts creativity by offering choices, a wider audience, diverse feedback, and the freedom to be creative. Unlike traditional writing assignments, blogging provides a more interactive, engaging, and regular writing practice. This helps students become better writers and thinkers.

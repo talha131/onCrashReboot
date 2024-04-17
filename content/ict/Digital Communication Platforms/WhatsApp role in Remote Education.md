@@ -1,5 +1,5 @@
 ---
-title:WhatsApp role in Remote Education
+title: WhatsApp role in Remote Education
 ---
 
 WhatsApp is a powerful tool for teaching in remote areas. It helps teachers send materials, talk to students, and keep everyone learning together. This can make a big difference in places where getting to school is hard or the internet isn't very good.

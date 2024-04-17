@@ -1,5 +1,5 @@
 ---
-title:Blogging as an Educational Tool
+title: Blogging as an Educational Tool
 ---
 
 Blogging is a flexible tool in education. It helps in sharing knowledge, improving writing, starting discussions, teaching digital skills, and encouraging creativity. By using blogs, classrooms can extend learning beyond the traditional classroom walls.

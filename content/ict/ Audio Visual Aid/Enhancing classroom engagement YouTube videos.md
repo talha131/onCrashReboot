@@ -1,5 +1,5 @@
 ---
-title:Enhancing classroom engagement YouTube videos
+title: Enhancing classroom engagement YouTube videos
 ---
 
 YouTube videos can significantly enhance classroom engagement by providing visual learning aids, access to expert knowledge, and demonstrations that might not be feasible in a classroom setting. When used as part of a flipped classroom model, YouTube videos facilitate pre-class learning, allow for customized educational experiences, and free up class time for interactive and hands-on learning, thereby supporting diverse learning needs and encouraging active participation.

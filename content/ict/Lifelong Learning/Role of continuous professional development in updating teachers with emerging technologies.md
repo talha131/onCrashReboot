@@ -1,5 +1,5 @@
 ---
-title:Role of continuous professional development in updating teachers with emerging technologies
+title: Role of continuous professional development in updating teachers with emerging technologies
 ---
 
 Continuous professional development is essential for teachers to stay updated with emerging technologies. It enhances teaching methods, boosts confidence, meets students' needs, encourages collaboration, adapts to changes, and prepares for the future. This ensures that education remains relevant and effective in a rapidly changing world.

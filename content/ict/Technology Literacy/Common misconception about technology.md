@@ -1,5 +1,5 @@
 ---
-title:Common misconception about technology
+title: Common misconception about technology
 ---
 
 ### Technology Is Always the Solution

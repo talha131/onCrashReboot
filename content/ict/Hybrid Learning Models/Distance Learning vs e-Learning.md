@@ -1,5 +1,5 @@
 ---
-title:Distance Learning vs e-Learning
+title: Distance Learning vs e-Learning
 ---
 
 While distance learning and e-learning both address the need for education outside traditional classrooms, e-learning is distinguished by its use of electronic technologies to facilitate learning in a more interactive, flexible, and accessible manner.

@@ -1,5 +1,5 @@
 ---
-title:Enhancing teaching quality in secondary classrooms with multimedia
+title: Enhancing teaching quality in secondary classrooms with multimedia
 ---
 
 The integration of multimedia into secondary classrooms transforms the learning environment by making lessons more engaging, accommodating different learning styles, encouraging active participation, facilitating collaboration, providing access to global resources, and enhancing conceptual understanding. This not only improves the quality of teaching but also fosters a more interactive and inclusive educational experience for students.

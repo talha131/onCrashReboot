@@ -1,5 +1,5 @@
 ---
-title:Merits of using ICT in Education
+title: Merits of using ICT in Education
 ---
 
 ### Makes Learning Interesting

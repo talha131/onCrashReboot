@@ -1,5 +1,5 @@
 ---
-title:Videos and Animated movies as a tool in learning
+title: Videos and Animated movies as a tool in learning
 ---
 
 Videos and animated movies are powerful learning tools because they engage students visually and audibly, simplify complex concepts, encourage discussion, cater to different learning styles, provide real-world context, enhance retention, and support language learning. These tools make learning more dynamic and memorable, enriching the educational experience.

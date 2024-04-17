@@ -1,5 +1,5 @@
 ---
-title:Potential of Audio Learning in Education
+title: Potential of Audio Learning in Education
 ---
 
 The potential of audio learning in education is vast, offering accessible, flexible, and engaging ways to learn. It supports diverse learning styles, enhances language and listening skills, and can make education more affordable and widely available. As technology continues to evolve, the role of audio in education is likely to grow, providing valuable opportunities for learners worldwide.

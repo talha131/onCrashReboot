@@ -1,5 +1,5 @@
 ---
-title:Usage of Video prompt in the classroom
+title: Usage of Video prompt in the classroom
 ---
 
 Video prompts in the classroom serve a variety of educational purposes, from sparking discussions and enhancing understanding of complex topics to supporting diverse learning styles and providing real-world applications. They are an effective tool for making lessons more engaging, interactive, and accessible to all students.

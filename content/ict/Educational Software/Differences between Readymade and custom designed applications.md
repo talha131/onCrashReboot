@@ -1,5 +1,5 @@
 ---
-title:Differences between Readymade and custom designed applications
+title: Differences between Readymade and custom designed applications
 ---
 
 When talking about software for computers or smartphones, there are two main kinds: readymade and custom designed.

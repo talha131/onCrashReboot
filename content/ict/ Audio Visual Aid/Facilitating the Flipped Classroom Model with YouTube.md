@@ -1,5 +1,5 @@
 ---
-title:Facilitating the Flipped Classroom Model with YouTube
+title: Facilitating the Flipped Classroom Model with YouTube
 ---
 
 ### Pre-Class Learning

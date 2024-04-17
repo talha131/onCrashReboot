@@ -1,5 +1,5 @@
 ---
-title:What is ICT
+title: What is ICT
 ---
 
 ### **Definition of ICT**

@@ -1,5 +1,5 @@
 ---
-title:LMS can improve accessibility to education for remote learners
+title: LMS can improve accessibility to education for remote learners
 ---
 
 Learning Management Systems open up education to more people, especially those who live in remote areas. They make learning flexible, accessible, and tailored to each student's needs.

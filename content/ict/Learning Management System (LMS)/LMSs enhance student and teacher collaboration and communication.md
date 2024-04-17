@@ -1,5 +1,5 @@
 ---
-title:LMSs enhance student and teacher collaboration and communication
+title: LMSs enhance student and teacher collaboration and communication
 ---
 
 Learning Management Systems make it easier for students and teachers to talk, work together, and help each other. This makes learning more interactive and supportive.

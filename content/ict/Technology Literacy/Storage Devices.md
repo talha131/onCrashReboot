@@ -1,5 +1,5 @@
 ---
-title:Storage Devices
+title: Storage Devices
 ---
 
 In the digital age, storage devices play a vital role in handling the vast amounts of data we produce and consume daily. From portable flash drives to expansive cloud storage solutions, these devices ensure that our data is safe, accessible, and transferable as needed.

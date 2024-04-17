@@ -1,5 +1,5 @@
 ---
-title:Uses of Digital Cameras in the Classroom
+title: Uses of Digital Cameras in the Classroom
 ---
 
 ### Documenting Experiments and Projects

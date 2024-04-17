@@ -1,5 +1,5 @@
 ---
-title:ICT enhances collaborative learning in Pakistan
+title: ICT enhances collaborative learning in Pakistan
 ---
 
 Internationally, Information and Communication Technology (ICT) is playing a crucial role in enhancing collaborative learning, even with challenges like varying levels of technology access across different regions.

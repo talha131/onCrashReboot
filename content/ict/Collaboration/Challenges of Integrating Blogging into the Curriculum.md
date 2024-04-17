@@ -1,5 +1,5 @@
 ---
-title:Challenges of Integrating Blogging into the Curriculum
+title: Challenges of Integrating Blogging into the Curriculum
 ---
 
 

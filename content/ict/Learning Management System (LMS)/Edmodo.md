@@ -1,5 +1,5 @@
 ---
-title:Edmodo
+title: Edmodo
 ---
 ### Introduction to Edmodo
 

@@ -1,5 +1,5 @@
 ---
-title:What is interactive application?
+title: What is interactive application?
 ---
 
 ### Definition

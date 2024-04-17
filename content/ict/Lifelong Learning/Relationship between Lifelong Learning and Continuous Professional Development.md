@@ -1,5 +1,5 @@
 ---
-title:Relationship between Lifelong Learning and Continuous Professional Development
+title: Relationship between Lifelong Learning and Continuous Professional Development
 ---
 
 Lifelong learning and continuous professional development are intertwined, with CPD serving as a structured pathway within the broader journey of lifelong learning. Both are crucial for personal fulfillment and professional success in a rapidly changing world.

@@ -1,5 +1,5 @@
 ---
-title:Examples of readymade and custom made LMS
+title: Examples of readymade and custom made LMS
 ---
 
 Custom made LMS platforms offer flexibility and can be tailored to specific learning objectives, but they require more time and investment to develop. In contrast, readymade LMS platforms are ready to use and come with a wide range of features suitable for most educational needs.

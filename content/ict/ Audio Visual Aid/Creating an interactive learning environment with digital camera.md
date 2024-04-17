@@ -1,5 +1,5 @@
 ---
-title:Creating an interactive learning environment with digital camera
+title: Creating an interactive learning environment with digital camera
 ---
 
 ### Making Learning More Dynamic

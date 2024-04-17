@@ -1,5 +1,5 @@
 ---
-title:What is an LMS?
+title: What is an LMS?
 ---
 
 ### Definition of an LMS

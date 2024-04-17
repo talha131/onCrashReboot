@@ -1,5 +1,5 @@
 ---
-title:Main components of an effective E-portfolio
+title: Main components of an effective E-portfolio
 ---
 
 An effective E-portfolio combines detailed personal information, a comprehensive showcase of work and achievements, reflections on learning and growth, clear demonstration of skills and competencies, future aspirations, and a user-friendly structure. This holistic approach not only presents a full picture of the individual's capabilities but also their journey of continuous learning and development.

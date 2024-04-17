@@ -1,5 +1,5 @@
 ---
-title:Benefits of Online Learning
+title: Benefits of Online Learning
 ---
 
 Online learning offers flexibility, accessibility, and a variety of learning opportunities that traditional classrooms can't always provide. It opens doors to new subjects and expertise and supports learning at every student's own pace, making education more personalized and accessible to everyone.

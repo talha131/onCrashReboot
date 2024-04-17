@@ -1,5 +1,5 @@
 ---
-title:Tools of ICT in Education
+title: Tools of ICT in Education
 ---
 
 ICT tools play a vital role in modern education, enhancing teaching and learning experiences by making them more interactive, accessible, and efficient.

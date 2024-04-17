@@ -1,5 +1,5 @@
 ---
-title:ICT Integration in Sustaining Lifelong Learning
+title: ICT Integration in Sustaining Lifelong Learning
 ---
 
 ### Access to Resources

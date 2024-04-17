@@ -1,5 +1,5 @@
 ---
-title:Importance of LMS
+title: Importance of LMS
 ---
 
 Learning Management Systems are very important for modern education. They make learning and teaching better, more efficient, and more fun.

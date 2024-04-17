@@ -1,5 +1,5 @@
 ---
-title:Benefits of fostering a Lifelong Learning Culture
+title: Benefits of fostering a Lifelong Learning Culture
 ---
 
 Fostering a culture of lifelong learning has many benefits. It keeps people up to date with changes, enhances job skills, supports personal growth, and contributes to a knowledgeable society. This culture encourages curiosity, innovation, and adaptability, which are essential qualities in today's world.

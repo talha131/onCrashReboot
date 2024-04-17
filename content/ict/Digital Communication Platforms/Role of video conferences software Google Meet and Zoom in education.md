@@ -1,5 +1,5 @@
 ---
-title:Role of video conferences software Google Meet and Zoom in education
+title: Role of video conferences software Google Meet and Zoom in education
 ---
 
 Google Meet and Zoom play a pivotal role in modern education, breaking down traditional classroom walls and offering flexible, interactive, and accessible learning opportunities. These platforms support a broad range of educational activities, from daily instruction and collaboration to professional development, making them essential tools in the digital learning landscape.

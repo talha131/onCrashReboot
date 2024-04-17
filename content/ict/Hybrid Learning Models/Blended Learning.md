@@ -1,5 +1,5 @@
 ---
-title:Blended Learning
+title: Blended Learning
 ---
 
 ### Definition

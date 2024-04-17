@@ -1,5 +1,5 @@
 ---
-title:E-portfolios vs Traditional Portfolios
+title: E-portfolios vs Traditional Portfolios
 ---
 
 E-portfolios and traditional portfolios are both collections of work, but they have some big differences, mainly because of how they're made and shared.

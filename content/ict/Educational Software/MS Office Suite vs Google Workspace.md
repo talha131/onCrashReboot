@@ -1,5 +1,5 @@
 ---
-title:MS Office Suite vs Google Workspace
+title: MS Office Suite vs Google Workspace
 ---
 
 **Google Workspace**

@@ -1,5 +1,5 @@
 ---
-title:Using Blogging to teach Digital Citizenship
+title: Using Blogging to teach Digital Citizenship
 ---
 
 Maintaining a class blog is a practical way to teach students about digital citizenship. It helps them learn important skills like safe internet use, responsibility, respect, copyright understanding, and collaboration. These skills are essential for behaving well and staying safe in the digital world.
