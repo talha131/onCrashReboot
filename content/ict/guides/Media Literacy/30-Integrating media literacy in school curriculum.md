@@ -1,8 +1,33 @@
 ---
 title: Integrating media literacy in school curriculum
+slug: Integrating media literacy in school curriculum
+weight: 30
 ---
 
 Integrating media literacy across subjects helps students become smarter about the media they use every day. It teaches them to think critically, be creative, and understand the world better.
+
+## Ways to Include Media Literacy
+
+{{< callout emoji="🎥" >}}
+
+**Use Media in Lessons:** Teachers can use videos, articles, and social media in their lessons. This shows students how media is part of every subject.
+
+{{< /callout >}}
+
+
+{{< callout emoji="🎨" >}}
+
+**Projects:** Students can do projects that involve creating media. This helps them learn by doing.
+
+{{< /callout >}}
+
+{{< callout emoji="💬" >}}
+
+**Discussions:** Talking about media in class helps students think and ask questions about what they see and hear.
+
+{{< /callout >}}
+
+## Examples
 
 ### Language Arts
 
@@ -40,10 +65,3 @@ Integrating media literacy across subjects helps students become smarter about t
 
 **Creating Health Campaigns:** They could create their own media campaigns about staying active or eating healthy. This teaches them to use media to spread positive messages.
 
-### Ways to Include Media Literacy
-
-**Use Media in Lessons:** Teachers can use videos, articles, and social media in their lessons. This shows students how media is part of every subject.
-
-**Projects:** Students can do projects that involve creating media. This helps them learn by doing.
-
-**Discussions:** Talking about media in class helps students think and ask questions about what they see and hear.
