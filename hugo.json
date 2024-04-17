@@ -17,8 +17,8 @@
         "weight": 1
       },
       {
-        "name": "Blog",
-        "pageRef": "/blog",
+        "name": "Articles",
+        "pageRef": "/articles",
         "weight": 2
       },
       {
