@@ -2,7 +2,6 @@
 title: Foundational ICT skills for teachers to utilize technology
 weight: 10
 slug: foundational-ICT-skills-for-teachers-to-utilize-technology
-type: docs
 ---
 
 These foundational skills enable teachers to integrate technology into their teaching effectively. By mastering these skills, teachers can create a dynamic learning environment that engages students and enhances their learning experiences.

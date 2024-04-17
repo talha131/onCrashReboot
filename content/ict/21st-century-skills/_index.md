@@ -3,7 +3,6 @@ title: Introduction to 21st Century Skills
 linktitle: 21st Century Skills
 weight: 2
 slug: 21st-century-skills
-type: docs
 next: foundational-ICT-skills-for-teachers-to-utilize-technology
 sidebar:
   open: true
