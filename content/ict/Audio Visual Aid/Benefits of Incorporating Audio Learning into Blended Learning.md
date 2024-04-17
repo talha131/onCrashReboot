@@ -1,5 +1,5 @@
 ---
-tittle:Benefits of Incorporating Audio Learning into Blended Learning
+title: Benefits of Incorporating Audio Learning into Blended Learning
 ---
 
 Incorporating audio learning into blended learning environments enriches the educational experience by making learning more flexible, accessible, and engaging.
