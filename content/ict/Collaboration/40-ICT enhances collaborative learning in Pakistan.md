@@ -1,5 +1,8 @@
 ---
 title: ICT enhances collaborative learning in Pakistan
+slug: ICT enhances collaborative learning in Pakistan
+weight: 40
+linktitle: Modes of Collaborative Projects
 ---
 
 Internationally, Information and Communication Technology (ICT) is playing a crucial role in enhancing collaborative learning, even with challenges like varying levels of technology access across different regions.

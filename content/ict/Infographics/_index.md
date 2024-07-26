@@ -1,5 +1,6 @@
 ---
-title: Definition
+title: Infographics
+weight: 110
 ---
 
 Infographics are visual tools that combine pictures, icons, graphs, and text to share information quickly and clearly. They are designed to make complex information easier to understand at a glance.

@@ -1,5 +1,8 @@
 ---
 title: Modes of collaborative projects for interactive learning experience
+slug: Modes of collaborative projects for interactive learning experience
+weight: 30
+linktitle: Collaborative Learning in Pakistan
 ---
 
 Collaborative projects facilitated by Information and Communication Technology (ICT) tools can significantly enhance interactive learning experiences. These projects encourage students to work together, share knowledge, and develop skills essential for the digital age. These projects using ICT tools offer diverse and dynamic ways to engage students in interactive learning.

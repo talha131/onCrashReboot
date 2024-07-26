@@ -1,5 +1,6 @@
 ---
 title: ICT Integration in Education
+weight: 50
 ---
 
 ICT integration in education means using technology tools to enhance teaching and learning. It's about mixing traditional teaching methods with modern technology to make lessons more engaging, interactive, and accessible. This approach helps prepare students for the digital world by developing their technical skills alongside their academic knowledge.

@@ -1,5 +1,6 @@
 ---
 title: What is an LMS?
+weight: 70
 ---
 
 ### Definition of an LMS
