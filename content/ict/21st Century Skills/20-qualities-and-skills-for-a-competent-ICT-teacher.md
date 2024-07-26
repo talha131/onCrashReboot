@@ -2,6 +2,7 @@
 title: Qualities and skills for a competent ICT teacher
 weight: 20
 slug: qualities and skills for a competent ICT teacher
+linktitle: Top Qualities of an ICT-Savvy Teacher
 ---
 
 Becoming a competent ICT teacher requires a blend of solid ICT knowledge, effective teaching and communication skills, a commitment to continuous learning, and an understanding of digital citizenship. These qualities and skills enable teachers to effectively integrate technology into education, enhancing learning experiences and preparing students for the digital world.

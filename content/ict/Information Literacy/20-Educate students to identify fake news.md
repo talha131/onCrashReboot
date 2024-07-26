@@ -2,6 +2,7 @@
 title: Educate students to identify fake news
 slug: Educate students to identify fake news
 weight: 20
+linktitle: Identifying Fake News
 ---
 
 Educating students to identify fake news is crucial in developing critical thinking and information literacy skills.

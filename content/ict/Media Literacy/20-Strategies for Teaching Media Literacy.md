@@ -2,6 +2,7 @@
 title: Strategies for Teaching Media Literacy
 slug: Strategies for Teaching Media Literacy
 weight: 20
+linktitle: Teaching Media Literacy Strategies
 ---
 
 Teaching media literacy is about helping students understand and create media messages. By using following strategies, teachers can make media literacy a fun and engaging part of learning.

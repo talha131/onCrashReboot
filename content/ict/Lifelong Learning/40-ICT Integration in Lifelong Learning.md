@@ -1,5 +1,8 @@
 ---
 title: ICT Integration in Lifelong Learning
+weight: 40
+slug: ICT Integration in Lifelong Learning
+linktitle: ICT Integration in Lifelong Learning
 ---
 
 ### Access to Information and Resources

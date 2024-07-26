@@ -2,6 +2,7 @@
 title: Competencies required for teachers in ICT
 weight: 30
 slug: competencies required for teachers in ICT
+linktitle: Core ICT Competencies for Teachers
 ---
 
 These competencies help teachers use technology effectively in education. They support learning, make lessons more engaging, and prepare students for a digital world.

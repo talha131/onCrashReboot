@@ -1,6 +1,6 @@
 ---
 title: Foundational ICT skills for teachers to utilize technology
-linktitle: Foundational ICT skills for teachers
+linktitle: Essential ICT Skills for Educators
 weight: 10
 slug: foundational-ICT-skills-for-teachers-to-utilize-technology
 ---

@@ -2,6 +2,7 @@
 title: Integrating media literacy in school curriculum
 slug: Integrating media literacy in school curriculum
 weight: 30
+linktitle: Media Literacy in School Curriculum
 ---
 
 Integrating media literacy across subjects helps students become smarter about the media they use every day. It teaches them to think critically, be creative, and understand the world better.

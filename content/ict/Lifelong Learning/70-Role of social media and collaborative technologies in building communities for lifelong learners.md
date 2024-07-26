@@ -1,5 +1,8 @@
 ---
 title: Role of social media and collaborative technologies in building communities for lifelong learners
+slug: Role of social media and collaborative technologies in building communities for lifelong learners
+weight: 70
+linktitle: Social Media for Lifelong Learning Communities
 ---
 
 Social media and collaborative technologies play a crucial role in building communities of practice for lifelong learners. They connect learners, facilitate the sharing of knowledge and resources, support collaboration, encourage continuous engagement, and help create a supportive learning environment.

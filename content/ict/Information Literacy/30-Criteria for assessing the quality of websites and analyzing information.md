@@ -1,6 +1,6 @@
 ---
 title: Criteria for assessing the quality of websites and analyzing information
-linktitle: Criteria for assessing the quality of websites
+linktitle: Assessing Website Quality
 slug: Criteria for assessing the quality of websites and analyzing information
 weight: 30
 ---
