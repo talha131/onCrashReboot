@@ -52,6 +52,10 @@
     ]
   },
   "params": {
+    "theme": {
+      "default": "system",
+      "displayToggle": true
+    },
     "navbar": {
       "displayTitle": true,
       "displayLogo": true,
@@ -66,6 +70,12 @@
     "footer": {
       "enable": true,
       "displayCopyright": true
+    },
+    "highlight": {
+      "copy": {
+        "enable": true,
+        "display": "always"
+      }
     }
   }
 }
