@@ -2,6 +2,7 @@
 title: Globalization
 slug: Globalization
 weight: 40
+next: /ict/Information Literacy
 ---
 
 {{< callout type="info" >}}

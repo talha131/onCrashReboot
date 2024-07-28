@@ -2,6 +2,7 @@
 title: Introduction to 21st Century Skills
 linktitle: 21st Century Skills
 weight: 1
+next: /ict/21st Century Skills/10-foundational-ICT-skills-for-teachers-to-utilize-technology
 ---
 
 In today's world, certain skills are important for success in education, work, and everyday life.
