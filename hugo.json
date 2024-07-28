@@ -12,8 +12,8 @@
   "menu": {
     "main": [
       {
-        "name": "ICT",
-        "pageRef": "/ict",
+        "name": "ICT Study Guide",
+        "pageRef": "/ict-study-guide",
         "weight": 1
       },
       {

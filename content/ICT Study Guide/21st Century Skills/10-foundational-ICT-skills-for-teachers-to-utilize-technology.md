@@ -3,7 +3,7 @@ title: Foundational ICT skills for teachers to utilize technology
 linktitle: Essential ICT Skills for Educators
 weight: 10
 slug: foundational-ICT-skills-for-teachers-to-utilize-technology
-prev: /ict/21st Century Skills
+prev: /ict-study-guide/21st Century Skills
 ---
 
 These foundational skills enable teachers to integrate technology into their teaching effectively. By mastering these skills, teachers can create a dynamic learning environment that engages students and enhances their learning experiences.

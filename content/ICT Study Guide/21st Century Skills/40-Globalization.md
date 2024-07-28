@@ -2,7 +2,7 @@
 title: Globalization
 slug: Globalization
 weight: 40
-next: /ict/Information Literacy
+next: /ict-study-guide/Information Literacy
 ---
 
 {{< callout type="info" >}}
