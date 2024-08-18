@@ -1,5 +1,6 @@
 ---
 title: SWOT Analysis
+weight: 80
 ---
 
 A SWOT analysis is a helpful way to understand where you stand and what you could face in the future. It's like a map that shows you the best path to take, helping you use your strengths, improve weaknesses, grab opportunities, and be ready for threats.

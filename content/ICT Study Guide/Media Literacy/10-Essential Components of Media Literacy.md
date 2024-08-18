@@ -2,6 +2,8 @@
 title: Essential Components of Media Literacy
 slug: Essential Components of Media Literacy
 weight: 10
+prev: /ICT Study Guide/Media Literacy
+next: /
 ---
 
 ## Access

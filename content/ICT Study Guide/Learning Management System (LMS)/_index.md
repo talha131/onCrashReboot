@@ -1,6 +1,8 @@
 ---
 title: What is an LMS?
 weight: 70
+prev: /ICT Study Guide/Digital Communication Platforms/20-Role of video conferences software Google Meet and Zoom in education
+next: /ICT Study Guide/Learning Management System (LMS)/10-Importance of LMS
 ---
 
 ### Definition of an LMS

@@ -1,5 +1,6 @@
 ---
 title: Steps for Planning ICTs Integration in Education
+weight: 70
 ---
 
 Integrating a SWOT analysis into the planning process for ICT integration in education provides a comprehensive view of the current situation, identifying strengths, weaknesses, opportunities, and threats related to technology use. This step is crucial for making informed decisions and strategic planning.

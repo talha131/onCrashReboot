@@ -1,5 +1,7 @@
 ---
 title: Edmodo
+weight: 70
+next: /ICT Study Guide/Collaboration
 ---
 ### Introduction to Edmodo
 

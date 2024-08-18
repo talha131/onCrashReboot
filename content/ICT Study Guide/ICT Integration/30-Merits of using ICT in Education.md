@@ -1,5 +1,6 @@
 ---
 title: Merits of using ICT in Education
+weight: 30
 ---
 
 ### Makes Learning Interesting

@@ -1,5 +1,6 @@
 ---
 title: Pakistan Government's Initiatives for ICT Implementation in Education
+weight: 50
 ---
 
 The Pakistani government has recognized the importance of Information and Communication Technology (ICT) in education and has taken several steps to implement ICT tools and methodologies across the education sector. These initiatives aim to improve educational outcomes, enhance access to education, and prepare students for the digital world. Here's an overview of the key steps taken by the Pakistani government towards ICT implementation in education:

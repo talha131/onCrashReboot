@@ -1,5 +1,7 @@
 ---
 title: Barriers faced by teacher while integrating ICT in school
+weight: 100
+next: /ICT Study Guide/Digital Communication Platforms
 ---
 
 ### Barriers to ICT Integration in Schools

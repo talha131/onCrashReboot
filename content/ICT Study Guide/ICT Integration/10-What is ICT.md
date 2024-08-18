@@ -1,5 +1,7 @@
 ---
 title: What is ICT
+weight: 10
+prev: /ICT Study Guide/ICT Integration
 ---
 
 ### **Definition of ICT**

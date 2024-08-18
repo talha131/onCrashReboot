@@ -1,5 +1,7 @@
 ---
 title: Interactive Games and Puzzles and their role in Education
+weigt: 50
+next: /ICT Study Guide/ICT Integration
 ---
 
 ### Definition of Interactive Games and Puzzles

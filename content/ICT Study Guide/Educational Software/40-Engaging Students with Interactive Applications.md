@@ -1,5 +1,6 @@
 ---
 title: Engaging Students with Interactive Applications
+weigt: 40
 ---
 
 Interactive applications bring subjects to life, making learning more effective and enjoyable. By engaging students in this way, they're more likely to be interested in what they're learning and remember it longer.

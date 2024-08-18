@@ -1,5 +1,6 @@
 ---
 title: SWOT technology plan for the school
+weight: 90
 ---
 
 Creating a SWOT (Strengths, Weaknesses, Opportunities, Threats) technology plan for the classroom and school involves analyzing the current use of technology and planning for its future development. This strategic plan helps in maximizing the benefits of technology in education while identifying and addressing potential challenges.

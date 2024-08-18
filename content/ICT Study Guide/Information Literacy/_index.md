@@ -1,6 +1,8 @@
 ---
 title: Information Literacy
 weight: 2
+next: /ict-study-guide/Information Literacy/10-Information vs Misinformation vs Disinformation
+prev: /ict-study-guide/21st Century Skills/40-Globalization
 ---
 
 {{< callout type="info" >}}

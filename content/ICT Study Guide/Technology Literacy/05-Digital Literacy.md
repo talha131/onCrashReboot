@@ -2,6 +2,7 @@
 title: Digital Literacy
 slug: Digital Literacy
 weight: 5
+prev: /ICT Study Guide/Technology Literacy
 ---
 
 Digital literacy is an essential 21st-century skill that encompasses a wide range of competencies, from using digital devices to understanding digital content and engaging in online communities respectfully and safely. It is fundamental to education in the digital age, preparing students not just for future employment but for lifelong learning and active citizenship in a technology-driven world.

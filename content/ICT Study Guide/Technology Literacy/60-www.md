@@ -2,6 +2,7 @@
 title: www
 slug: www
 weight: 60
+next: /ICT Study Guide/Educational Software
 ---
 
 The World Wide Web is a crucial part of modern life, facilitating the easy flow of information and interconnectivity on a global scale. Its development has led to significant changes in how we communicate, learn, do business, and entertain ourselves.

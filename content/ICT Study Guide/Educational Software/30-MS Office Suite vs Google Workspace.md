@@ -1,5 +1,6 @@
 ---
 title: MS Office Suite vs Google Workspace
+weight: 30
 ---
 
 **Google Workspace**

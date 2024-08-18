@@ -1,5 +1,7 @@
 ---
 title: What is interactive application?
+weight: 10
+prev: /ICT Study Guide/Educational Software
 ---
 
 ### Definition

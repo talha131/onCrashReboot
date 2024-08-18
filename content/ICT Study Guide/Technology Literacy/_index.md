@@ -1,6 +1,8 @@
 ---
 title: Technology Literacy
 weight: 4
+prev: /ICT Study Guide/Media Literacy/30-Integrating media literacy in school curriculum
+next: /ICT Study Guide/Technology Literacy/05-Digital Literacy
 ---
 
 

@@ -3,6 +3,7 @@ title: Criteria for assessing the quality of websites and analyzing information
 linktitle: Assessing Website Quality
 slug: Criteria for assessing the quality of websites and analyzing information
 weight: 30
+next: /ict-study-guide/Media Literacy
 ---
 
 Evaluating the quality of websites and the information they provide is crucial in an era where content is abundant but varying widely in reliability.

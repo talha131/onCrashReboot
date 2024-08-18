@@ -1,5 +1,7 @@
 ---
 title: Importance of LMS
+weight: 10
+prev: /ICT Study Guide/Learning Management System (LMS)
 ---
 
 Learning Management Systems are very important for modern education. They make learning and teaching better, more efficient, and more fun.

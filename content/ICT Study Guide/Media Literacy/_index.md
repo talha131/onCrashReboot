@@ -1,6 +1,8 @@
 ---
 title: Media Literacy
 weight: 3
+prev: /ICT Study Guide/Information Literacy/30-Criteria for assessing the quality of websites and analyzing information
+next: /ICT Study Guide/Media Literacy/10-Essential Components of Media Literacy
 ---
 
 {{< callout type="info" >}}

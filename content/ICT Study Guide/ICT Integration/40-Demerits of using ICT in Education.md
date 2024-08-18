@@ -1,5 +1,6 @@
 ---
 title: Demerits of using ICT in Education
+weight: 40
 ---
 
 ### Cost

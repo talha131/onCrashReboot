@@ -3,6 +3,7 @@ title: Information vs Misinformation vs Disinformation
 weight: 10
 slug: Information vs Misinformation vs Disinformation
 linktitle: Information, Misinformation, and Disinformation
+prev: /ict-study-guide/Information Literacy
 ---
 
 | Aspect | Disinformation | Information | Misinformation |
