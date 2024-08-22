@@ -29,6 +29,10 @@ enableInlineShortcodes: true
 
 menu:
   main:
+    - identifer: computerliteracystudyguide
+      name: Computer Literacy Study Guide
+      pageRef: /computer-literacy-study-guide
+      weight: 1
     - identifier: ictstudyguide
       name: ICT Study Guide
       pageRef: /ict-study-guide
