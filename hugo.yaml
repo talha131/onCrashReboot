@@ -33,10 +33,6 @@ menu:
       name: Computer Literacy Study Guide
       pageRef: /computer-literacy-study-guide
       weight: 1
-    - identifier: ictstudyguide
-      name: ICT Study Guide
-      pageRef: /ict-study-guide
-      weight: 1
     - identifer: articles
       name: Articles
       pageRef: /articles
