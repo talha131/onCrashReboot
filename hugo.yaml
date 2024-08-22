@@ -6,6 +6,11 @@ enableGitInfo: true
 enableEmoji: true
 hasCJKLanguage: true
 
+
+services:
+  googleAnalytics:
+    ID: G-S5VG2RLTSE
+
 outputs:
   home: [HTML]
   page: [HTML]
