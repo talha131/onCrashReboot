@@ -1,9 +1,23 @@
 [build]
-publish = "public"
-command = "hugo --gc --minify"
+  command = "hugo --gc --minify"
+  publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.132.2"
+  HUGO_VERSION = "0.111.3"
+  GO_VERSION = "1.20"
 
 [context.production.environment]
-HUGO_ENV = "production"
+  HUGO_ENV = "production"
+
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
