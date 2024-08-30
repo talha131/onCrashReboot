@@ -30,6 +30,10 @@ Here is an overview of major milestones from the inception of the web.
 ## **1995:** Internet Explorer Enters the Market
   - Microsoft launched Internet Explorer, bundled with the Windows 95 operating system.
   - This marked the start of the browser wars, significantly increasing Internet Explorer's market share.
+  
+## **1995:** HTML 2.0 Standard
+  - HTML 2.0 was published as the first HTML specification intended to be treated as a standard.
+  - It formalized many of the features that were already in use by browsers.
 
 ## **1995:** Emergence of PHP
   - PHP (Hypertext Preprocessor) was released, offering server-side scripting capabilities.
@@ -38,16 +42,28 @@ Here is an overview of major milestones from the inception of the web.
 ## **1996:** Introduction of CSS
   - Cascading Style Sheets (CSS) were introduced, separating content from presentation.
   - CSS provided flexibility in web design, allowing for responsive and sophisticated layouts.
+  
+## **1996:** Introduction of ASP Classic
+  - Microsoft introduced Active Server Pages (ASP), later known as ASP Classic.
+  - ASP allowed for server-side scripting to create dynamic web pages.
 
 ## **1997:** HTML 4.0 Standardization
   - HTML 4.0 was released, standardizing web content presentation.
   - It introduced enhancements for forms, multimedia, and scripting, essential for modern web development.
+  
+## **1998:** Mozilla Project Launched
+  - The Mozilla project was launched by Netscape.
+  - This open-source initiative would later lead to the development of Firefox.
 
 ## **2000:** Introduction of ASP.NET
   - Microsoft released ASP.NET as part of the .NET framework.
   - ASP.NET provided a robust platform for building dynamic web applications, widely adopted for enterprise solutions.
 
-## **2002:** Mozilla Firefox Breaks Through
+## **2002:** Initial Release of Mozilla Firefox
+  - Mozilla Firefox (initially called Phoenix) was first released.
+  - It gained widespread popularity with its 1.0 release in 2004.
+
+## **2004:** Mozilla Firefox Breaks Through
   - Mozilla Firefox emerged as a popular open-source browser.
   - Known for its speed, security, and customization options, it challenged Internet Explorer's dominance.
 
@@ -58,5 +74,9 @@ Here is an overview of major milestones from the inception of the web.
 ## **2008:** Google Chrome Revolutionizes Browsing
   - Google Chrome introduced a minimalist design focused on speed and security.
   - It quickly became one of the most popular browsers, driving further innovation in web technology.
+
+## **2008-2014:** Development of HTML5
+  - The first public working draft of HTML5 was published in 2008.
+  - HTML5 became a W3C Recommendation in 2014, introducing new features for multimedia, APIs, and improved semantics.
 
 Each advancement has contributed to making the web more dynamic, secure, and accessible.
