@@ -2,7 +2,7 @@
 title: Privacy Concerns with Web Cookies
 linktitle: Web Cookie Privacy Issues
 slug: web-cookie-privacy-concerns
-weight: 50
+weight: 90
 ---
 
 Web cookies are useful tools that enhance user experiences online by remembering login information and personalizing content. However, they also pose significant privacy concerns that users should be aware of.

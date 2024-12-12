@@ -1,68 +1,69 @@
 ---
-title: What is Web 2.0? Features, Examples, and How It Differs from Web 1.0  
-linktitle: What is Web 2.0?  
-slug: what-is-web2-0  
-description: Discover the concept of Web 2.0, its interactive features, examples like social media platforms, and how it differs from Web 1.0.  
+title: What is Web 2.0? Features, Examples, and How It Differs from Web 1.0
+linktitle: What is Web 2.0?
+slug: what-is-web2-0
+description: Discover the concept of Web 2.0, its interactive features, examples like social media platforms, and how it differs from Web 1.0.
 ---
 
-## What is Web 2.0?  
+## What is Web 2.0?
 
-Web 2.0 represents the second generation of the World Wide Web, marked by significant advancements in interactivity, collaboration, and user-generated content. Unlike the static pages of the earlier Web 1.0 era, Web 2.0 focuses on creating a dynamic and participatory web experience where users can contribute, share, and engage in real-time.  
+Web 2.0 represents the second generation of the World Wide Web, marked by significant advancements in interactivity, collaboration, and user-generated content. Unlike the static pages of the earlier Web 1.0 era, Web 2.0 focuses on creating a dynamic and participatory web experience where users can contribute, share, and engage in real-time.
 
-The term was popularized in the early 2000s and reflects a shift toward websites and platforms that emphasize usability and active engagement rather than passively consuming content.  
+The term was popularized in the early 2000s and reflects a shift toward websites and platforms that emphasize usability and active engagement rather than passively consuming content.
 
+## Features of Web 2.0
 
-## Features of Web 2.0  
+### 1. **User-Generated Content**
 
-### 1. **User-Generated Content**  
-Users actively create and share content through blogs, social media posts, videos, and wikis. This democratizes content creation.  
+Users actively create and share content through blogs, social media posts, videos, and wikis. This democratizes content creation.
 
-### 2. **Interactivity**  
-Webpages are designed for interaction, allowing users to comment, post, like, and share data across platforms, enhancing collaboration.  
+### 2. **Interactivity**
 
-### 3. **Social Media and Networking**  
-Social platforms like Facebook and Twitter exemplify the essence of Web 2.0 by focusing on connection, communication, and participation.  
+Webpages are designed for interaction, allowing users to comment, post, like, and share data across platforms, enhancing collaboration.
 
-### 4. **Rich Web Applications**  
-Web 2.0 includes improved software tools and web applications, such as Google Docs and online spreadsheets, that allow real-time collaboration.  
+### 3. **Social Media and Networking**
 
-### 5. **Scalability and Accessibility**  
-Web 2.0 features rely on cloud computing, making services scalable and accessible from any device with an internet connection.  
+Social platforms like Facebook and Twitter exemplify the essence of Web 2.0 by focusing on connection, communication, and participation.
 
+### 4. **Rich Web Applications**
 
-## Examples of Web 2.0  
+Web 2.0 includes improved software tools and web applications, such as Google Docs and online spreadsheets, that allow real-time collaboration.
 
-Here are some common Web 2.0 examples that have transformed how people interact with the internet:  
+### 5. **Scalability and Accessibility**
 
-- **Social Media platforms**: Facebook, Twitter, Instagram  
-- **Collaborative tools**: Google Docs, Dropbox, Slack  
-- **Video-sharing websites**: YouTube, Vimeo  
-- **Wikis**: Wikipedia and other collaborative encyclopedias or knowledge-sharing platforms  
-- **E-commerce platforms**: Amazon and Etsy, which emphasize user reviews and ratings  
+Web 2.0 features rely on cloud computing, making services scalable and accessible from any device with an internet connection.
+
+## Examples of Web 2.0
+
+Here are some common Web 2.0 examples that have transformed how people interact with the internet:
+
+- **Social Media platforms**: Facebook, Twitter, Instagram
+- **Collaborative tools**: Google Docs, Dropbox, Slack
+- **Video-sharing websites**: YouTube, Vimeo
+- **Wikis**: Wikipedia and other collaborative encyclopedias or knowledge-sharing platforms
+- **E-commerce platforms**: Amazon and Etsy, which emphasize user reviews and ratings
 
 {{< callout type="info" >}}  
 Fun Fact: Wikipedia is one of the most well-known examples of Web 2.0, where anyone can collaborate and contribute information to build a shared knowledge base!  
-{{< /callout >}}  
+{{< /callout >}}
 
+## What Makes Web 2.0 Different from Web 1.0?
 
-## What Makes Web 2.0 Different from Web 1.0?  
+Web 2.0 differs from its predecessor, Web 1.0, in several key ways:
 
-Web 2.0 differs from its predecessor, Web 1.0, in several key ways:  
+| **Aspect**           | **Web 1.0**                                           | **Web 2.0**                                            |
+| -------------------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| **User Interaction** | Limited interaction; users primarily consume content. | Users actively create, share, and collaborate.         |
+| **Content Creation** | Content is created only by webmasters or developers.  | Content is user-generated (e.g., blogs, social media). |
+| **Web Design**       | Static HTML pages with limited multimedia.            | Dynamic pages with rich multimedia elements.           |
+| **Examples**         | Static sites like Britannica.com or early Yahoo!      | Social platforms like YouTube, Twitter, and Facebook.  |
 
-| **Aspect**            | **Web 1.0**                                              | **Web 2.0**                                              |  
-|------------------------|---------------------------------------------------------|---------------------------------------------------------|  
-| **User Interaction**   | Limited interaction; users primarily consume content.   | Users actively create, share, and collaborate.          |  
-| **Content Creation**   | Content is created only by webmasters or developers.    | Content is user-generated (e.g., blogs, social media).  |  
-| **Web Design**         | Static HTML pages with limited multimedia.              | Dynamic pages with rich multimedia elements.            |  
-| **Examples**           | Static sites like Britannica.com or early Yahoo!        | Social platforms like YouTube, Twitter, and Facebook.   |  
+Web 1.0 represents a one-way flow of information, while Web 2.0 emphasizes a two-way, collaborative flow of engagement and interaction.
 
-Web 1.0 represents a one-way flow of information, while Web 2.0 emphasizes a two-way, collaborative flow of engagement and interaction.  
+### Key Impacts of Web 2.0
 
+1. **Collaboration and Community**: Platforms enable real-time collaboration, such as editing shared documents or creating group projects.
+2. **Shift to On-Demand Services**: Users can instantly stream videos, access files from anywhere, or use web-based applications without downloads.
+3. **Enhanced Educational Opportunities**: Web 2.0 tools like blogs, video tutorials, and online courses make education and learning widely accessible.
 
-### Key Impacts of Web 2.0  
-
-1. **Collaboration and Community**: Platforms enable real-time collaboration, such as editing shared documents or creating group projects.  
-2. **Shift to On-Demand Services**: Users can instantly stream videos, access files from anywhere, or use web-based applications without downloads.  
-3. **Enhanced Educational Opportunities**: Web 2.0 tools like blogs, video tutorials, and online courses make education and learning widely accessible.  
-
-Web 2.0 transformed the World Wide Web into a participatory, community-driven space, making it integral to personal, educational, and professional activities in the modern world.  
+Web 2.0 transformed the World Wide Web into a participatory, community-driven space, making it integral to personal, educational, and professional activities in the modern world.

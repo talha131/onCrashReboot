@@ -2,7 +2,7 @@
 title: The Evolution of Web Browsers and Key Web Technologies
 linktitle: Browser History and Key Web Technologies
 slug: browser-history-key-web-technologies
-weight: 80
+weight: 60
 ---
 
 The evolution of web browsers and key technologies has shaped how we interact with the internet today.

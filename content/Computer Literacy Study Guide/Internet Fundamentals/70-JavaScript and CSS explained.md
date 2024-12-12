@@ -2,7 +2,7 @@
 title: Understanding the Roles of CSS and JavaScript
 linktitle: CSS and JavaScript Roles
 slug: css-javascript-explained
-weight: 90
+weight: 70
 ---
 
 CSS and JavaScript are two essential tools in web development, each serving a unique purpose. By understanding their roles, you’ll appreciate how they enhance your web browsing experience.

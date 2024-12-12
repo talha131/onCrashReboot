@@ -2,12 +2,12 @@
 title: Understanding Web Browsers
 linktitle: Web Browsers
 slug: understanding-web-browsers
-weight: 60
+weight: 80
 ---
 
 {{< callout type="info" >}}  
 A web browser is a software application used to access and view websites on the internet. It interprets the code on web pages (like HTML, JavaScript, and CSS) and displays it as text, images, videos, and interactive content. Browsers also offer various functionalities to improve user experience, such as bookmarking pages, storing passwords, and keeping a history of visited sites.  
-{{< /callout >}}  
+{{< /callout >}}
 
 Web browsers are essential programs that allow users to access and interact with web pages. They interpret and display web content, enabling users to view text, images, and videos, and use links to navigate the internet.
 

@@ -2,7 +2,7 @@
 title: Difference Between Web Browsers and the Google App on Mobile Phones
 linktitle: Chrome vs Google App
 slug: web-browsers-vs-google-app
-weight: 70
+weight: 50
 ---
 
 Web browsers and the Google app on mobile phones may appear similar at first glance, but they serve different purposes and offer distinct functionalities. Understanding these differences can help you choose the right tool for your needs.
