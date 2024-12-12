@@ -52,7 +52,7 @@ menu:
         icon: github
 
 params:
-  description: ComputerLitGuide offers comprehensive computer literacy and ICT study resources for BEd students. Access beginner-friendly guides, tutorials, and educational technology tips designed specifically for future educators.
+  description: onCrash Reboot offers comprehensive computer literacy and ICT study resources for BEd students. Access beginner-friendly guides, tutorials, and educational technology tips designed specifically for future educators.
 
   page:
     # full (100%), wide (90rem), normal (1280px)
