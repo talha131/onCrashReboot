@@ -2,7 +2,7 @@
 title: Computer Literacy Study Guide for Education Students
 linktitle: Computer Literacy Guide
 slug: computer-literacy-guide
-description: Comprehensive computer literacy resources designed specifically for Bachelor of Education students, covering essential digital skills for modern educators.
+description: Comprehensive computer literacy resources designed specifically for Bachelor of Education BEd students, covering essential digital skills for modern educators.
 cascade:
   type: docs
 ---
