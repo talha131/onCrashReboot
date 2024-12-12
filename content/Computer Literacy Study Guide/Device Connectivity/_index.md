@@ -3,6 +3,7 @@ title: Device Connectivity and File Transfer Basics
 linktitle: Device Connectivity Basics
 slug: device-connectivity-basics
 description: Learn about connecting devices to computers, file transfer methods, and key cable types such as USB, HDMI, VGA, and more.
+weight: 9
 ---
 
 Efficiently connecting devices to a computer is essential for activities like transferring files, sharing media, and using peripheral devices. This section explores key concepts in device connectivity and file transfer.

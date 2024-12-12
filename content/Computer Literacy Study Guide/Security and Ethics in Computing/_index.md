@@ -3,6 +3,7 @@ title: Security and Ethics in Computing
 linktitle: Security and Ethics
 slug: security-and-ethics-in-computing
 description: Explore key topics in computer security, including firewalls, antivirus software, spam, plagiarism, and the ethical use of technology.
+weight: 12
 ---
 
 As technology becomes increasingly integrated into daily life, understanding computer security and ethical practices is essential. This section delves into critical topics that highlight the importance of protecting digital assets and promoting responsible technology use.

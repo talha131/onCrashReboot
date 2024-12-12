@@ -3,6 +3,7 @@ title: Technology and Multimedia in Education
 linktitle: Multimedia
 slug: technology-multimedia-education
 description: Explore how technology and multimedia tools, including digital devices, CAI, DSLRs, and MOOCs, are transforming education in dynamic and interactive ways.
+weight: 14
 ---
 
 The integration of technology and multimedia has revolutionized education, making teaching and learning more interactive, engaging, and effective. From foundational concepts like multimedia and audio-visual aids to advanced tools like DSLRs, computer-assisted instruction (CAI), and digital technologies, this section explores their applications in modern classrooms.

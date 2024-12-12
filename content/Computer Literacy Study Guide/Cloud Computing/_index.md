@@ -3,6 +3,7 @@ title: Cloud Computing – Storage and Collaboration Essentials
 linktitle: Cloud Computing
 slug: cloud-computing-basics
 description: Learn the essentials of cloud computing, including cloud storage, online collaboration tools, and how they enhance productivity and connectivity.
+weight: 11
 ---
 
 ## Cloud Computing – Storage and Collaboration Essentials
