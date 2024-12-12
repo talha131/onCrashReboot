@@ -3,6 +3,7 @@ title: Common Fields Used in Emails Explained
 linktitle: Email Fields
 slug: common-fields-in-emails
 description: Learn about the common fields used in emails, including To, Cc, Bcc, Subject, Body, Attachments, and Signature, and their purposes.
+weight: 180
 ---
 
 ## Common Fields Used in Emails

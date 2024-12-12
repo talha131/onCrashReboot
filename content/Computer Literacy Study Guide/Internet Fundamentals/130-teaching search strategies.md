@@ -3,6 +3,7 @@ title: Teaching Students Effective Search Techniques
 linktitle: Teaching Search Techniques
 slug: teaching-search-techniques
 description: Learn how to teach students effective online search techniques, including strategies for finding reliable and relevant information.
+weight: 130
 ---
 
 In a digital age where vast amounts of information are accessible online, teaching students how to conduct effective searches is a crucial skill. Effective search techniques enable students to find accurate, reliable, and relevant information while enhancing their critical thinking and digital literacy.

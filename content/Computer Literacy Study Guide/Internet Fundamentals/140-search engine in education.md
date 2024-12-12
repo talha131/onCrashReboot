@@ -3,6 +3,7 @@ title: Importance of Search Engines in Education
 linktitle: Search Engines in Education
 slug: importance-of-search-engines-in-education
 description: Explore the role and importance of search engines in education, helping both students and educators access information, enhance learning, and promote digital literacy.
+weight: 140
 ---
 
 Search engines play a pivotal role in today's education system by making vast amounts of information accessible, organized, and easily searchable. They empower educators and students to find resources quickly, explore new ideas, and enhance the teaching-learning process.

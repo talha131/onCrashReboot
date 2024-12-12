@@ -2,7 +2,9 @@
 title: What is WWW? Understanding the World Wide Web
 linktitle: What is WWW?
 slug: what-is-www
-description: Learn about the World Wide Web (WWW), its history, how it works, and its importance in accessing information online.
+description: Learn about the World Wide Web (WWW), its history, how it works, and its importance in 
+accessing information online.
+weight: 10
 ---
 
 The **World Wide Web (WWW)**, commonly referred to as the web, is a system of interlinked documents and multimedia resources that can be accessed over the internet. It is one of the most widely used services of the internet, enabling users to browse websites, access information, and interact with online tools and platforms.

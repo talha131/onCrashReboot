@@ -3,6 +3,7 @@ title: Rules for Writing a Professional Email
 linktitle: Professional Email Rules
 slug: rules-for-writing-a-professional-email
 description: Discover essential rules for crafting clear, concise, and professional emails that enhance effective communication.
+weight: 190
 ---
 
 ## Rules for Writing a Professional Email
