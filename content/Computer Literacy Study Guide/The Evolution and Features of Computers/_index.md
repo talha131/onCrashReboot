@@ -3,6 +3,7 @@ title: The Evolution and Features of Computers
 linktitle: Evolution of Computers
 slug: evolution-and-features-of-computers
 description: Learn about the evolution of computers from their origins to the modern era, including their definition, historical development, and current characteristics.
+weight: 1
 ---
 
 Computers have transformed from massive, room-sized machines to compact, versatile systems that power nearly every aspect of modern life. This section provides a comprehensive overview of their journey, from the origins of computing to the advanced features of today’s modern computers.

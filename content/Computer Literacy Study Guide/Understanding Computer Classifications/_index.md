@@ -3,6 +3,7 @@ title: Understanding Computer Classifications
 linktitle: Computer Classifications
 slug: understanding-computer-classifications
 description: Explore how computers are classified by purpose, size, and data handling to better understand their applications and roles in daily life and industries.
+weight: 3
 ---
 
 Computers are an essential part of modern life, but not all computers are the same. This section explores the different methods of classifying computers to better understand their capabilities, applications, and key features.

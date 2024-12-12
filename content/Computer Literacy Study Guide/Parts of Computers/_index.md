@@ -3,7 +3,7 @@ title: Welcome to "Parts of Computers"
 linktitle: Parts of Computers
 slug: parts-of-computers
 description: Explore the essential components, memory types, and storage devices that make up a computer and their roles in education.
-weight: 1
+weight: 2
 ---
 
 Welcome to "Parts of Computers"
