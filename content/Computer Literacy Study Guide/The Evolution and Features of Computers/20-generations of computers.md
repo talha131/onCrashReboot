@@ -8,7 +8,11 @@ weight: 20
 
 The history of computers is divided into five distinct generations, each representing significant technological advancements. These breakthroughs, such as the introduction of operating systems, graphical user interfaces (GUIs), the mouse, and microprocessors, shaped the way computers function and their applications in modern society.
 
-## First Generation (1940s–1950s): Vacuum Tube Technology
+{{< callout type="warning" >}}
+These dates represent major technological transitions. Some overlap occurred as technologies evolved and coexisted.
+{{< /callout >}}
+
+## First Generation (1946–1956): Vacuum Tube Technology
 
 - **Key Technology**: Used vacuum tubes for circuitry, and magnetic drums for memory storage.
 - **Characteristics**:
@@ -19,14 +23,15 @@ The history of computers is divided into five distinct generations, each represe
 - **Advancements**:
   - First-time use of electronic components for computation.
 - **Examples**:
-  - **ENIAC (Electronic Numerical Integrator and Computer)**: The first general-purpose computer.
-  - **UNIVAC I**: Used for commercial applications, like census analysis.
+  - **ENIAC (Electronic Numerical Integrator and Computer)** (1946): The first general-purpose computer.
+  - **UNIVAC I** (1951): Used for commercial applications, like census analysis.
+  - IBM 701 (1953)
 
 {{< callout type="info" >}}  
 First-generation computers were primarily used for military applications and scientific calculations.  
 {{< /callout >}}
 
-## Second Generation (1950s–1960s): Transistor Technology
+## Second Generation (1956–1963): Transistor Technology
 
 - **Key Technology**: Transistors replaced vacuum tubes, allowing computers to become smaller and more efficient.
 - **Characteristics**:
@@ -36,10 +41,11 @@ First-generation computers were primarily used for military applications and sci
 - **Advancements**:
   - Introduction of **magnetic tape storage**, replacing magnetic drums.
 - **Examples**:
-  - **IBM 1401**: Widely adopted for business and data processing applications.
-  - **UNIVAC II**: Enhanced the capabilities of its predecessor for commercial use.
+  - **IBM 1401** (1959): Widely adopted for business and data processing applications.
+  - IBM 7090 (1959)
+  - **UNIVAC II** 1107 (1962): Enhanced the capabilities of its predecessor for commercial use.
 
-## Third Generation (1960s–1970s): Integrated Circuit (IC) Technology
+## Third Generation (1964–1971): Integrated Circuit (IC) Technology
 
 - **Key Technology**: Integrated circuits (ICs) combined numerous transistors onto a small silicon chip, drastically reducing size and improving speed.
 - **Characteristics**:
@@ -50,10 +56,11 @@ First-generation computers were primarily used for military applications and sci
   - **Time-sharing systems** allowed resources to be shared among multiple users simultaneously.
   - Batch processing programs streamlined task execution.
 - **Examples**:
-  - **IBM System/360**: Introduced compatibility across various applications, standardizing business computing.
-  - **PDP Series**: Minicomputers widely adopted in academic and industrial settings.
+  - **IBM System/360** (1964): Introduced compatibility across various applications, standardizing business computing.
+  - UNIVAC 1108 (1964)
+  - **PDP Series** (1965): Minicomputers widely adopted in academic and industrial settings.
 
-## Fourth Generation (1970s–Present): Microprocessor Technology
+## Fourth Generation (1971–Present): Microprocessor Technology
 
 - **Key Technology**: The invention of the **microprocessor**, a single chip integrating all major CPU functionalities, revolutionized computing.
 - **Characteristics**:
@@ -66,8 +73,9 @@ First-generation computers were primarily used for military applications and sci
   - Popularization of **operating systems with GUIs**, like Windows and macOS.
   - Development of object-oriented programming languages, such as **C++** and Java.
 - **Examples**:
-  - **Apple I**: One of the first personal computers.
-  - **IBM PC**: Made PCs widely accessible for households and businesses.
+  - Intel 4004 (1971) - First commercial microprocessor
+  - **Apple I** (1976): One of the first personal computers.
+  - **IBM PC** (1981): Made PCs widely accessible for households and businesses.
   - Modern laptops, smartphones, and tablets.
 
 {{< callout emoji="🖱️" >}}  
@@ -75,6 +83,10 @@ The fourth-generation saw revolutionary advancements with the introduction of GU
 {{< /callout >}}
 
 ## Fifth Generation (Present and Beyond): Artificial Intelligence (AI) and Quantum Computing
+
+{{< callout type="info" >}}
+The Fifth Generation (AI and Quantum Computing) is currently emerging, though there's no universal agreement on its exact starting point.
+{{< /callout >}}
 
 - **Key Technology**: Advanced microelectronics, **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, and **Quantum Computing**.
 - **Characteristics**:
