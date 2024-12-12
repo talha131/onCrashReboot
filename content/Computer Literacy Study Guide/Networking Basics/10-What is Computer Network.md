@@ -3,6 +3,7 @@ title: What Defines a Computer Network and Its Primary Functions
 linktitle: Computer Network and Functions  
 slug: computer-network-functions  
 description: Understand what a computer network is, its defining features, and its primary functions, including resource sharing, communication, data management, and scalability.  
+weight: 10
 ---
 
 ## What is a Computer Network?  

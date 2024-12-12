@@ -3,6 +3,7 @@ title: Network Topology – Definition and Types in Computer Networks
 linktitle: Network Topology and Types  
 slug: network-topology-types  
 description: Learn about network topology, its importance in computer networks, and explore the different types, including bus, star, ring, mesh, tree, and hybrid topologies.  
+weight: 30
 ---
 
 ## What is Network Topology?  
