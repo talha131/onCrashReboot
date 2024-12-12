@@ -35,7 +35,7 @@ Here are key milestones in the history of the WWW:
 - **Present Day**: The WWW has grown to host billions of websites, making it an integral part of daily life.
 
 {{< callout emoji="🌐" >}}  
-Fun Fact: The first website (info.cern.ch) still exists and provides information about the birth of the web!  
+The first website (info.cern.ch) still exists and provides information about the birth of the web!  
 {{< /callout >}}
 
 ## How Does the WWW Work?

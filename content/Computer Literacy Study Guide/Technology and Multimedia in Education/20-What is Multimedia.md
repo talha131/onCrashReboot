@@ -54,7 +54,7 @@ Multimedia is a cohesive mix of core elements, each contributing to a specific a
 - **Role**: Interactive elements increase user involvement and adaptability. They are used effectively in e-learning, surveys, or product demonstrations.
 
 {{< callout type="info" >}}  
-Fun Fact: Interactive multimedia is at the heart of many modern applications, including video games, virtual reality (VR), and e-learning platforms.  
+Interactive multimedia is at the heart of many modern applications, including video games, virtual reality (VR), and e-learning platforms.  
 {{< /callout >}}
 
 ## Why Multimedia Matters

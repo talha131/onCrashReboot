@@ -41,5 +41,5 @@ As technology plays a critical role in modern life, understanding and applying e
 4. **Supports a Better Society**: Responsible use of computers fosters positive societal changes by promoting education, collaboration, and innovation.
 
 {{< callout type="info" >}}  
-Fun Fact: The concept of computer ethics emerged in the 1950s with the advent of computers, but it became widely recognized during the 1970s and 1980s as computers became integral to everyday life.  
+The concept of computer ethics emerged in the 1950s with the advent of computers, but it became widely recognized during the 1970s and 1980s as computers became integral to everyday life.  
 {{< /callout >}}

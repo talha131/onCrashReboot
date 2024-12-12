@@ -45,7 +45,7 @@ Avoid displaying email addresses publicly on forums, websites, or social media p
 - Use the "report spam" feature provided by the email service to improve spam detection.
 
 {{< callout type="info" >}}  
-Fun Fact: Reporting spam not only improves your security but also helps the email provider enhance spam detection algorithms for all users.  
+Reporting spam not only improves your security but also helps the email provider enhance spam detection algorithms for all users.  
 {{< /callout >}}
 
 #### 5. Use a Secondary Email Address

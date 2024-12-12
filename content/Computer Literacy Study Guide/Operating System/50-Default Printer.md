@@ -15,7 +15,7 @@ A default printer is the primary printer selected by the operating system for pr
 Setting a default printer simplifies the process of printing documents, images, or files. It eliminates the need to select a printer each time a document is printed. This feature is particularly useful in environments with multiple printers, as it helps streamline operations. For individual tasks, users have the option to manually choose a different printer when needed.
 
 {{< callout type="info" >}}  
-Fun Fact: Setting a default printer is especially helpful in office environments with networked printers, where selecting the correct one each time could cause unnecessary delays.  
+Setting a default printer is especially helpful in office environments with networked printers, where selecting the correct one each time could cause unnecessary delays.  
 {{< /callout >}}
 
 ### How to Set a Printer as the Default

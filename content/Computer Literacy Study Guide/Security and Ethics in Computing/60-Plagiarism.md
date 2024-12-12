@@ -33,7 +33,7 @@ Interactive tutorials or quizzes can also reinforce key concepts and ensure stud
 Computer literacy enables teachers to guide students in developing effective research skills. Teachers can introduce reliable academic search engines, such as Google Scholar or online libraries, and demonstrate methods for identifying credible sources. Additionally, teaching proper citation techniques using tools like Zotero or EasyBib helps students format references correctly, ensuring they give credit to original authors.
 
 {{< callout type="info" >}}  
-Fun Fact: Online citation generators simplify the process of creating bibliographies by automatically formatting references in styles such as APA, MLA, or Chicago.  
+Online citation generators simplify the process of creating bibliographies by automatically formatting references in styles such as APA, MLA, or Chicago.  
 {{< /callout >}}
 
 ### 4. Promoting Original Work

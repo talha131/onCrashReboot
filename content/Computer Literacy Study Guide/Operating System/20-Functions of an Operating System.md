@@ -32,7 +32,7 @@ An operating system (OS) is essential software that acts as an intermediary betw
    Operating systems play a central role in executing application programs, ensuring they run smoothly, manage system requests, and avoid interference with other processes.
 
 {{< callout type="info" >}}  
-Fun Fact: The kernel, a core part of the operating system, is responsible for directly managing communication between hardware and software.  
+The kernel, a core part of the operating system, is responsible for directly managing communication between hardware and software.  
 {{< /callout >}}
 
 ### Why the Operating System is Crucial

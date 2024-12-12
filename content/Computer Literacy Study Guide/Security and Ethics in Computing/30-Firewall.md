@@ -13,7 +13,7 @@ A firewall is a vital security tool in computer networking that acts as a barrie
 The term "firewall" originates from physical firewalls used in building construction to prevent fire from spreading across sections. Similarly, a firewall in networking prevents harmful or unauthorized traffic from spreading into a secure network.
 
 {{< callout type="info" >}}  
-Fun Fact: Early firewalls were simple packet filters, but modern firewalls have evolved into sophisticated security devices capable of deep inspection and advanced threat detection.  
+Early firewalls were simple packet filters, but modern firewalls have evolved into sophisticated security devices capable of deep inspection and advanced threat detection.  
 {{< /callout >}}
 
 ## How Firewalls Work

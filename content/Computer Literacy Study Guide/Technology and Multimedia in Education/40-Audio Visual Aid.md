@@ -61,7 +61,7 @@ Audio-visual tools make information more accessible by catering to a variety of 
 Dynamic and interactive elements such as videos or interactive slides help in capturing and maintaining the audience's attention. Engaging content also improves memory retention, as learners are more likely to remember information presented through stimulating formats.
 
 {{< callout type="info" >}}  
-Fun Fact: Studies suggest that retention rates improve by up to 50% when learning incorporates audio-visual aids as compared to text-only methods.  
+Studies suggest that retention rates improve by up to 50% when learning incorporates audio-visual aids as compared to text-only methods.  
 {{< /callout >}}
 
 ### 3. Simplify Complex Information

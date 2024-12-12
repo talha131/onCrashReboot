@@ -81,5 +81,5 @@ This section ensures the system runs efficiently by offering tools to:
 - Perform system recovery options to resolve critical issues.
 
 {{< callout type="info" >}}  
-Fun Fact: The Control Panel has been a core feature in Windows operating systems since the release of Windows 2.0 in 1987, evolving over time to include more versatile tools.  
+The Control Panel has been a core feature in Windows operating systems since the release of Windows 2.0 in 1987, evolving over time to include more versatile tools.  
 {{< /callout >}}

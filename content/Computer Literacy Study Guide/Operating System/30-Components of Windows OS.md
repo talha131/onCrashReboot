@@ -53,5 +53,5 @@ Located at the bottom-right corner of the taskbar, the notification area display
 As part of the notification area, the system tray shows icons for system applications running in the background, such as antivirus software or cloud storage synchronization tools.
 
 {{< callout type="info" >}}  
-Fun Fact: Modern versions of Windows, like Windows 10 and 11, allow users to customize the taskbar and notification area for a more personalized experience.  
+Modern versions of Windows, like Windows 10 and 11, allow users to customize the taskbar and notification area for a more personalized experience.  
 {{< /callout >}}

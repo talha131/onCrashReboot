@@ -37,7 +37,7 @@ Difficult subjects become easier to grasp with multimedia. For example:
 Combining text, visuals, and audio stimulates multiple senses, improving information retention. When students engage with multimedia, they are more likely to recall and apply what they have learned compared to traditional text-only materials.
 
 {{< callout type="info" >}}  
-Fun Fact: Studies show that learning retention increases when multimedia combines both visual and auditory forms of information.  
+Studies show that learning retention increases when multimedia combines both visual and auditory forms of information.  
 {{< /callout >}}
 
 #### 5. Encourages Active Participation and Collaboration

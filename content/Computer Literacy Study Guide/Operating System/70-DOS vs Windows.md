@@ -29,7 +29,7 @@ Windows replaced DOS as a more advanced operating system, designed to accommodat
 5. **Ease of Use**: The GUI is designed to be accessible for users of varying technical expertise.
 
 {{< callout type="info" >}}  
-Fun Fact: Early versions of Windows, such as Windows 3.x, were initially built on top of DOS but gradually developed into a separate, standalone operating system.  
+Early versions of Windows, such as Windows 3.x, were initially built on top of DOS but gradually developed into a separate, standalone operating system.  
 {{< /callout >}}
 
 ## Comparison Table

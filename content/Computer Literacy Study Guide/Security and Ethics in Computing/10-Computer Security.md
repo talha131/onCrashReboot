@@ -25,7 +25,7 @@ Reputable antivirus software acts as the first line of defense against viruses, 
 Regularly update the operating system, software, and applications. Security updates and patches address known vulnerabilities, reducing the risk of exploits or attacks.
 
 {{< callout type="info" >}}  
-Fun Fact: Many malware attacks exploit unpatched software vulnerabilities, making regular updates a critical part of computer security.  
+Many malware attacks exploit unpatched software vulnerabilities, making regular updates a critical part of computer security.  
 {{< /callout >}}
 
 ### 4. Use Firewalls

@@ -31,7 +31,7 @@ Teachers with computer literacy can explore online teaching materials, e-books, 
 Online courses, webinars, and workshops are widely available for career growth. Teachers can use these platforms to stay updated on emerging trends, new teaching strategies, and advanced technologies.
 
 {{< callout type="info" >}}
-Fun Fact: Many professional training platforms like Coursera and LinkedIn Learning offer customized courses to meet the specific needs of teachers.  
+Many professional training platforms like Coursera and LinkedIn Learning offer customized courses to meet the specific needs of teachers.  
 {{< /callout >}}
 
 ### Preparing for the Future
