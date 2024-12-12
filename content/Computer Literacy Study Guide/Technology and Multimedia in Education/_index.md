@@ -1,6 +1,6 @@
 ---
 title: Technology and Multimedia in Education
-linktitle: Multimedia
+linktitle: Technology & Multimedia
 slug: technology-multimedia-education
 description: Explore how technology and multimedia tools, including digital devices, CAI, DSLRs, and MOOCs, are transforming education in dynamic and interactive ways.
 weight: 14

@@ -1,7 +1,7 @@
 ---
 title: Device Connectivity and File Transfer Basics
-linktitle: Device Connectivity Basics
-slug: device-connectivity-basics
+linktitle: Device Connectivity
+slug: device-connectivity-file-transfer-basics
 description: Learn about connecting devices to computers, file transfer methods, and key cable types such as USB, HDMI, VGA, and more.
 weight: 9
 ---

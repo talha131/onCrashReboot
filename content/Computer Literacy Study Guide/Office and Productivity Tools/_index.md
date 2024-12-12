@@ -1,6 +1,6 @@
 ---
 title: Office and Productivity Tools Overview
-linktitle: Office and Productivity Tools
+linktitle: Office & Productivity Tools
 slug: office-and-productivity-tools
 description: Learn how to use essential office tools like MS Word, Excel, and PowerPoint efficiently to enhance productivity and educational outcomes.
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: Welcome to File Management and Compression Essentials
-linktitle: File Management Essentials
+linktitle: File Management
 slug: file-management-and-compression
 description: Explore the essentials of file management and compression in this comprehensive guide. Learn about file compression techniques, the importance of recognizing file extensions, and the differences between image formats.
 weight: 6
