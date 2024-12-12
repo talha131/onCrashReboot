@@ -3,6 +3,7 @@ title: Understanding CAI – Computer-Assisted Instruction in Education
 linktitle: What is CAI?
 slug: computer-assisted-instruction
 description: Explore the advantages and disadvantages of Computer-Assisted Instruction (CAI) in education and how it fosters personalized, interactive learning.
+weight: 80
 ---
 
 CAI, or Computer-Assisted Instruction, is the use of computers and digital tools to provide educational instruction. This method enhances learning by offering personalized, engaging, and interactive experiences in a classroom or independent learning setting.

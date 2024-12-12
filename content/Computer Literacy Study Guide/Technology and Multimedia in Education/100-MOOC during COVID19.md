@@ -3,6 +3,7 @@ title: The Role of MOOCs During COVID-19 and How They Support Teachers in the Fu
 linktitle: MOOCs and Their Educational Impact
 slug: role-of-moocs-in-education
 description: Learn how Massive Open Online Courses (MOOCs) played a crucial role during COVID-19 and how they empower teachers for future education.
+weight: 100
 ---
 
 ## What is a MOOC?

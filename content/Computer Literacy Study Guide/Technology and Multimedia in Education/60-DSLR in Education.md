@@ -3,6 +3,7 @@ title: How DSLR Cameras Can Enhance Education
 linktitle: DSLR Cameras in Education
 slug: dslr-cameras-education
 description: Discover the role DSLR cameras play in education, from visual learning to teaching photography, documenting events, and supporting arts and media studies.
+weight: 60
 ---
 
 DSLR cameras, with their advanced features and high-quality digital technology, offer significant benefits in educational environments. Their ability to produce professional-grade images and videos makes them ideal for enhancing learning experiences and fostering creativity.

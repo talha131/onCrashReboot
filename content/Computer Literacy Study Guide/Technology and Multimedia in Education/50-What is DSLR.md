@@ -3,6 +3,7 @@ title: What is a DSLR Camera? Definition, Features, and Popularity
 linktitle: What is a DSLR?
 slug: what-is-dslr-camera
 description: Discover what a DSLR camera is, how it differs from older camera technologies, and why it remains a popular choice for photographers.
+weight: 50
 ---
 
 ## What is a DSLR Camera?
