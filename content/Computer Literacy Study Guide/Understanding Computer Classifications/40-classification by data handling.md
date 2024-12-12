@@ -1,6 +1,6 @@
 ---
 title: Analog, Digital, and Hybrid Computers – Understanding the Differences
-linktitle: Analog vs Digital vs Hybrid Computers
+linktitle: Classification by Data Handling
 slug: analog-digital-hybrid-computers
 description: Explore the differences between analog, digital, and hybrid computers, including how they process data, their applications, and examples in everyday life.
 weight: 40

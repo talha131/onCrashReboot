@@ -36,13 +36,13 @@ These classifications ensure that users can clearly identify the right type of c
 Explore detailed breakdowns of each classification in the following posts:
 
 1. **Classification by Purpose**  
-   Understand how general-purpose and special-purpose computers differ in their design and application in [Classification of Computers by Purpose]({{<relref "10-classification of computers.md" >}}).
+   Understand how general-purpose and special-purpose computers differ in their design and application in [Classification of Computers by Purpose]({{<relref "20-classification by purpose.md" >}}).
 
 2. **Classification by Size**  
-   Discover how size and power define computers, from supercomputers to embedded systems in [Classification of Computers by Size](slug:types-of-computers-by-size).
+   Discover how size and power define computers, from supercomputers to embedded systems in [Classification of Computers by Size]({{<relref "30-classification by size.md" >}}).
 
 3. **Classification by Data Handling**  
-   Learn about the different approaches to data processing—analog, digital, and hybrid—in [Classification of Computers by Data Handling](slug:classification-of-computers-data-handling).
+   Learn about the different approaches to data processing—analog, digital, and hybrid—in [Classification of Computers by Data Handling]({{<relref "40-classification by data handling.md" >}}).
 
 ## Why the Three Classifications are Necessary
 

@@ -1,6 +1,6 @@
 ---
 title: Classification of Computers by Purpose
-linktitle: Computers by Purpose
+linktitle: Classification by Purpose
 slug: classification-of-computers-purpose
 description: Learn about the classification of computers by purpose, including general-purpose and special-purpose systems, with examples and their specific roles.
 weight: 20

@@ -1,6 +1,6 @@
 ---
 title: Types of Computers Classified by Size and Their Characteristics
-linktitle: Types of Computers by Size
+linktitle: Classification by Size
 slug: types-of-computers-by-size
 description: Learn about different types of computers classified by size, including supercomputers, mainframes, minicomputers, microcomputers, and more, along with their characteristics and examples.
 weight: 30
