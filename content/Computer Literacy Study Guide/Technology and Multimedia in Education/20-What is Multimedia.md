@@ -1,5 +1,5 @@
 ---
-title: Understanding Multimedia: Definition, Etymology, and Components  
+title: Understanding Multimedia - Definition, Etymology, and Components  
 linktitle: Introduction to Multimedia  
 slug: understanding-multimedia  
 description: Explore the concept of multimedia, its origins, and the essential components that make it a dynamic tool for communication and learning.  

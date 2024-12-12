@@ -2,8 +2,7 @@
 title: What is WWW? Understanding the World Wide Web
 linktitle: What is WWW?
 slug: what-is-www
-description: Learn about the World Wide Web (WWW), its history, how it works, and its importance in 
-accessing information online.
+description: Learn about the World Wide Web (WWW), its history, how it works, and its importance in accessing information online.
 weight: 10
 ---
 
