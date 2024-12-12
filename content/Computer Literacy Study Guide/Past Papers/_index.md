@@ -17,4 +17,4 @@ Solving past papers is a proven strategy to enhance exam readiness and achieve h
 ## Solved Past Papers
 The following solved past papers are available to help with exam preparation:
 
-1. [Karachi University BEd Computer Literacy Paper (2022, 2023)]({{< relref "20-2022-KU.md" >}})
+1. [Karachi University BEd Computer Literacy Paper (2022 & 2023)]({{< relref "20-2022-KU.md" >}})
