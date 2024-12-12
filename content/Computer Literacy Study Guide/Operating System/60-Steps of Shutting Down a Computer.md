@@ -3,6 +3,7 @@ title: Proper Steps for Safely Shutting Down a Computer
 linktitle: Steps to Shut Down a Computer
 slug: safe-computer-shutdown-steps
 description: Learn the proper steps to safely shut down a computer system to avoid data loss and ensure system stability.
+weight: 60
 ---
 
 Shutting down a computer correctly is essential to prevent data loss, hardware damage, or file corruption. Follow these steps to ensure a safe shutdown process for any computer system:

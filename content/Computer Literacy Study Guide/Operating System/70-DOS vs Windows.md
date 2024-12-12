@@ -3,6 +3,7 @@ title: Key Differences Between DOS and Windows Operating Systems
 linktitle: DOS vs. Windows
 slug: dos-vs-windows
 description: Learn the key differences between DOS and Windows, including their interfaces, capabilities, and suitability for modern computing needs.
+weight: 70
 ---
 
 DOS (Disk Operating System) and Windows represent two distinct generations of operating systems. DOS, popular in the 1980s and early 1990s, operated through a command-line interface and lacked graphical capabilities. In contrast, Windows, developed by Microsoft, is a modern graphical operating system designed for seamless user interaction and advanced functionality.

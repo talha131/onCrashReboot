@@ -3,6 +3,7 @@ title: Fundamental Components of the Microsoft Windows Operating System
 linktitle: Components of Microsoft Windows
 slug: microsoft-windows-components
 description: Explore the key components of Microsoft Windows, including the desktop, taskbar, Start menu, and system tools, for efficient navigation and management.
+weight: 30
 ---
 
 Microsoft Windows, one of the most widely used operating systems, features a user-friendly interface designed to simplify interaction with hardware and software. Its essential components create an organized environment for managing tasks efficiently.

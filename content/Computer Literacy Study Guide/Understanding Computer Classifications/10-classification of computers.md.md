@@ -36,7 +36,7 @@ These classifications ensure that users can clearly identify the right type of c
 Explore detailed breakdowns of each classification in the following posts:
 
 1. **Classification by Purpose**  
-   Understand how general-purpose and special-purpose computers differ in their design and application in [Classification of Computers by Purpose](slug:classification-of-computers-purpose).
+   Understand how general-purpose and special-purpose computers differ in their design and application in [Classification of Computers by Purpose]({{<relref "10-classification of computers.md" >}}).
 
 2. **Classification by Size**  
    Discover how size and power define computers, from supercomputers to embedded systems in [Classification of Computers by Size](slug:types-of-computers-by-size).

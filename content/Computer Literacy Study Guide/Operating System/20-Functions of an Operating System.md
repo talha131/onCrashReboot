@@ -3,6 +3,7 @@ title: Functions of an Operating System
 linktitle: Functions of an Operating System
 slug: characteristics-functions-operating-system
 description: Learn about the key characteristics and functions of an operating system and its role in managing computer resources and ensuring efficient operation.
+weight: 20
 ---
 
 An operating system (OS) is essential software that acts as an intermediary between computer hardware and users. It manages hardware resources, provides services for application programs, and governs overall system functionality. Below are the key characteristics and functions of an operating system:

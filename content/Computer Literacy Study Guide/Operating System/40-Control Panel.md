@@ -3,6 +3,7 @@ title: Features Available in the Control Panel of a Computer System
 linktitle: Features of the Control Panel
 slug: control-panel-features
 description: Discover the essential features of the Control Panel in a computer system, including system management, personalization, and user account control.
+weight: 40
 ---
 
 The Control Panel is an essential component of a computer system that allows users to manage settings, configure hardware and software, and maintain system performance. Below is an overview of the key features available within the Control Panel:

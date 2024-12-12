@@ -3,6 +3,7 @@ title: What is a Default Printer and How to Set One?
 linktitle: Setting a Default Printer
 slug: setting-default-printer
 description: Learn what a default printer is and follow simple steps to set a printer as the default on a computer system for efficient printing.
+weight: 50
 ---
 
 ### Definition of a Default Printer
