@@ -8,6 +8,7 @@ description: Learn about the evolution of computers from their origins to the mo
 Computers have transformed from massive, room-sized machines to compact, versatile systems that power nearly every aspect of modern life. This section provides a comprehensive overview of their journey, from the origins of computing to the advanced features of today’s modern computers.
 
 ### Topics Covered
+
 1. **What is a Computer?**
    Understand the basic definition of a computer, its essential components, and how it functions as a universal tool for processing data and solving problems.
 

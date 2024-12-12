@@ -3,6 +3,7 @@ title: Why Computer Literacy is Essential for Teachers?
 linktitle: Importance of Computer Literacy for Teachers
 slug: importance-computer-literacy-teachers
 description: Explore why computer literacy is vital for teachers and how it enhances teaching methods, communication, and professional growth.
+weight: 10
 ---
 
 In modern education, computer literacy is crucial for teachers. It empowers educators to improve teaching practices, foster better communication, and gain access to essential resources.

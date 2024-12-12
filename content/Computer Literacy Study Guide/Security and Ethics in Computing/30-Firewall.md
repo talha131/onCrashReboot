@@ -3,6 +3,7 @@ title: What is a Firewall and How Does it Protect Computer Networks?
 linktitle: Firewall and Its Function
 slug: what-is-firewall
 description: Learn what a firewall is, why it is named so, and how it functions to safeguard computer networks from unauthorized access and cyber threats.
+weight: 30
 ---
 
 A firewall is a vital security tool in computer networking that acts as a barrier between a trusted internal network and untrusted external networks, such as the internet. Its primary purpose is to monitor, control, and filter incoming and outgoing traffic based on predefined security rules. By doing so, firewalls prevent unauthorized access and protect against cyber threats.

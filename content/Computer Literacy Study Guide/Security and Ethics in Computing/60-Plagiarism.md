@@ -3,6 +3,7 @@ title: Understanding Plagiarism and Strategies to Combat It Using Computer Liter
 linktitle: Combating Plagiarism with Technology
 slug: combating-plagiarism-computer-literacy
 description: Learn what plagiarism is and discover how computer literacy can help teachers detect and prevent it through tools, education, and thoughtful strategies.
+weight: 60
 ---
 
 ## What is Plagiarism?

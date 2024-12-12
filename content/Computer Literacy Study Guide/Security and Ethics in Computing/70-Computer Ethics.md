@@ -3,6 +3,7 @@ title: What Are Computer Ethics and Their Key Principles?
 linktitle: Principles of Computer Ethics
 slug: computer-ethics-key-principles
 description: Learn about computer ethics and the key principles that guide ethical behavior and responsible use of computers and technology.
+weight: 70
 ---
 
 Computer ethics refers to a set of moral principles that govern the responsible and ethical use of computers, technology, and information systems. It emphasizes professional and social conduct, ensuring that technology is used in ways that are fair, safe, and beneficial.

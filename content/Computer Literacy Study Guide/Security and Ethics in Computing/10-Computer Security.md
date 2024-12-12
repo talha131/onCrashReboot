@@ -3,6 +3,7 @@ title: What is Computer Security and How to Protect a Computer System?
 linktitle: Computer Security Basics
 slug: computer-security-basics
 description: Understand the definition of computer security and learn effective methods for safeguarding computer systems against cyber threats.
+weight: 10
 ---
 
 Computer security refers to the protection of computer systems and networks against theft, damage, and unauthorized access. It involves safeguarding hardware, software, and the data they process to prevent cyber threats like data breaches, malware attacks, and identity theft. Ensuring robust security measures is critical to maintaining privacy, data integrity, and system functionality.
