@@ -30,7 +30,7 @@ Large files can slow down the sharing process, especially when using email or on
 Reducing file size ensures compliance with email attachment limits, enhancing communication fluidity between educators and students.
 {{< /callout >}}
 
-## Enhanced Productivity
+## Enhanced Productivity and Data Management
 
 Simplified file management leads to increased productivity. Smaller files are easy to organize, access, and transfer, allowing educators to focus more on teaching and less on administrative tasks. This streamlined approach bolsters productivity, letting educators devote more energy to enhancing learning experiences.
 

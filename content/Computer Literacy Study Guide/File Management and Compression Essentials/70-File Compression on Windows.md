@@ -8,6 +8,10 @@ weight: 70
 
 File compression on Windows is straightforward and serves as an effective way to optimize storage and improve file sharing. Windows provides built-in support for file compression, making it easy to manage and compress various files.
 
+{{< callout type="info" >}}
+Zipping and unzipping files and folders can be done easily through the right-click menu in most operating systems.
+{{< /callout >}}
+
 ## Using Native ZIP Compression
 
 Windows natively supports the ZIP format, allowing users to compress files without additional software. Here is how to create a ZIP file:
