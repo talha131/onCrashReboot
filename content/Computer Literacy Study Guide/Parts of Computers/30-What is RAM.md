@@ -28,13 +28,13 @@ The term "Random Access" refers to the ability to read or write any piece of dat
 
 While both RAM and HDDs store data, they serve different purposes:
 
-| Aspect | RAM | HDD |
-|--------|-----|-----|
-| Speed | Very fast | Slower |
-| Capacity | Smaller (typically 4-32 GB) | Larger (typically 500 GB - several TB) |
-| Volatility | Volatile (loses data when powered off) | Non-volatile (retains data when powered off) |
-| Purpose | Temporary storage for active tasks | Long-term storage of files and programs |
-| Cost per GB | Higher | Lower |
+| Aspect      | RAM                                    | HDD                                          |
+| ----------- | -------------------------------------- | -------------------------------------------- |
+| Speed       | Very fast                              | Slower                                       |
+| Capacity    | Smaller (typically 4-32 GB)            | Larger (typically 500 GB - several TB)       |
+| Volatility  | Volatile (loses data when powered off) | Non-volatile (retains data when powered off) |
+| Purpose     | Temporary storage for active tasks     | Long-term storage of files and programs      |
+| Cost per GB | Higher                                 | Lower                                        |
 
 ## The Role of RAM in System Performance
 

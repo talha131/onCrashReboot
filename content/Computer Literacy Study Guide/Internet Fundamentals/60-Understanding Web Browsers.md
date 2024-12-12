@@ -55,6 +55,5 @@ Web browsers serve as the **gateway to exploring the internet**, performing a va
 
 8. **Sync Across Devices**  
    With user accounts, browsers can sync bookmarks, history, and settings across devices, providing a seamless browsing experience no matter the platform.
-   
 9. **Versatile Tools**
-   Web browsers are versatile tools that do more than just display web pages. Modern browsers can also use various protocols to offer advanced functionalities like video streaming, voice calls, and screen sharing. This additional functionality enhances user experience by supporting multimedia communication. 
+   Web browsers are versatile tools that do more than just display web pages. Modern browsers can also use various protocols to offer advanced functionalities like video streaming, voice calls, and screen sharing. This additional functionality enhances user experience by supporting multimedia communication.

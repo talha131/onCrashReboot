@@ -29,6 +29,6 @@ JavaScript adds **interactivity** to web pages. It’s like the animation featur
 
 ## Putting It All Together
 
-Using a simple analogy, if CSS is like styling a Word document with colors and fonts, then JavaScript is like a PowerPoint presentation that’s interactive and engaging. 
+Using a simple analogy, if CSS is like styling a Word document with colors and fonts, then JavaScript is like a PowerPoint presentation that’s interactive and engaging.
 
-While CSS changes *how things look*, JavaScript makes them *do things*. Thus, when you see a page that’s colorful and well-structured, thank CSS. If that page interacts with you—like asking you to log in or calculating numbers—thank JavaScript.
+While CSS changes _how things look_, JavaScript makes them _do things_. Thus, when you see a page that’s colorful and well-structured, thank CSS. If that page interacts with you—like asking you to log in or calculating numbers—thank JavaScript.

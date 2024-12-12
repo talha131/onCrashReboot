@@ -23,6 +23,7 @@ These components store data:
 1. **Random Access Memory (RAM)**: Temporary storage for active tasks.
 2. **Hard Drive (HDD) or Solid State Drive (SSD)**: Long-term storage for files and programs.
 3. **Removable Storage**: Portable devices for data transfer and backup:
+
    - USB flash drives
    - External hard drives
    - Memory cards

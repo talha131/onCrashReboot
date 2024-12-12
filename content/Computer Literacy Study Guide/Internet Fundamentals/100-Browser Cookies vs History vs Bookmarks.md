@@ -9,26 +9,26 @@ We will use the analogy of visiting a bustling market to understand the differen
 
 ## Browser History: The List of Visited Shops
 
-Imagine a marketplace like Karachi's Saddar area. As you wander through, every shop you enter is noted in a diary. This diary is your **browser history**. 
+Imagine a marketplace like Karachi's Saddar area. As you wander through, every shop you enter is noted in a diary. This diary is your **browser history**.
 
 It keeps track of every website you visit, just like keeping a record of all the shops you've browsed. This way, you can easily recall and revisit the same places later if you need to.
 
 ## Web Cookies: Your Purchases at Each Shop
 
-Now, when you buy something at a shop, that transaction gets recorded, not on your diary, but on a receipt that the shopkeeper hands you. This receipt contains information about what you bought, your preferences, and who you are to some extent. These are your **web cookies**. 
+Now, when you buy something at a shop, that transaction gets recorded, not on your diary, but on a receipt that the shopkeeper hands you. This receipt contains information about what you bought, your preferences, and who you are to some extent. These are your **web cookies**.
 
 They help the shopkeepers remember you and customize your shopping experience for future visits, offering personalized service based on your previous purchases.
 
 ## Bookmarks: Collecting Shop Cards
 
-While exploring the market, you might find a shop you really like and decide to save its business card in your wallet for easy access later. This is akin to bookmarking a webpage. 
+While exploring the market, you might find a shop you really like and decide to save its business card in your wallet for easy access later. This is akin to bookmarking a webpage.
 
 **Bookmarks** store direct links to websites you enjoy or find useful, allowing for quick and easy future access.
 
 ## Why These Three Matter Together
 
 {{< callout type="info" >}}
-These three tools—web cookies, browser history, and bookmarks—cater to enhancing your internet experience, just as records, receipts, and business cards do in the physical world. 
+These three tools—web cookies, browser history, and bookmarks—cater to enhancing your internet experience, just as records, receipts, and business cards do in the physical world.
 
 By managing them wisely, you can ensure a safer and more organized browsing experience.
 {{< /callout >}}

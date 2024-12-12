@@ -23,6 +23,7 @@ ROM is like a cookbook that comes with your kitchen appliance – it contains im
 BIOS (Basic Input/Output System) is a specific program stored in ROM. It's the first software that runs when a computer is turned on.
 
 ### Functions of BIOS:
+
 - Checks if all hardware components are working correctly.
 - Starts the operating system.
 - Manages data flow between the operating system and devices like the keyboard or hard drive.

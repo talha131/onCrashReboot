@@ -28,13 +28,13 @@ Cache memory acts as a buffer between the CPU and main memory, storing copies of
 
 While both cache and RAM are types of volatile memory, they differ in several aspects:
 
-| Aspect | Cache | RAM |
-|--------|-------|-----|
-| Speed | Extremely fast | Very fast, but slower than cache |
-| Size | Small (KB to MB) | Larger (GB) |
-| Cost | More expensive per byte | Less expensive per byte |
-| Proximity to CPU | Closer (often on the CPU chip) | Further from CPU |
-| Management | Managed by CPU | Managed by operating system |
+| Aspect           | Cache                          | RAM                              |
+| ---------------- | ------------------------------ | -------------------------------- |
+| Speed            | Extremely fast                 | Very fast, but slower than cache |
+| Size             | Small (KB to MB)               | Larger (GB)                      |
+| Cost             | More expensive per byte        | Less expensive per byte          |
+| Proximity to CPU | Closer (often on the CPU chip) | Further from CPU                 |
+| Management       | Managed by CPU                 | Managed by operating system      |
 
 ## Why Computers Need Cache
 

@@ -4,7 +4,7 @@ weight: 3
 next: /Computer Literacy Study Guide/Internet Fundamentals/20-List of Essential Internet Protocols
 ---
 
-The internet is a powerful network that connects millions of devices around the globe, fundamentally transforming how we communicate, access information, and conduct business. 
+The internet is a powerful network that connects millions of devices around the globe, fundamentally transforming how we communicate, access information, and conduct business.
 
 <div style="width:50%;margin: auto">
 

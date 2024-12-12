@@ -46,7 +46,8 @@ Touchscreens are prevalent in smartphones, tablets, and many modern laptops.
 
 Mobile devices often incorporate additional specialized I/O components:
 
-1. **Vibrating Motor**: 
+1. **Vibrating Motor**:
+
    - Provides haptic feedback through vibrations.
    - Used for notifications, alerts, and touch response.
 
