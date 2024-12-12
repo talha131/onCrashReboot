@@ -6,7 +6,6 @@ enableGitInfo: true
 enableEmoji: true
 hasCJKLanguage: true
 
-
 services:
   googleAnalytics:
     ID: G-S5VG2RLTSE
@@ -53,8 +52,8 @@ menu:
         icon: github
 
 params:
-  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
-  
+  description: ComputerLitGuide offers comprehensive computer literacy and ICT study resources for BEd students. Access beginner-friendly guides, tutorials, and educational technology tips designed specifically for future educators.
+
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: wide
@@ -79,7 +78,7 @@ params:
     displayCopyright: true
     displayPoweredBy: true
     width: wide
-    
+
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
@@ -94,8 +93,7 @@ params:
     copy:
       enable: true
       display: always
-  
+
   comments:
     enable: false
     type: giscus
-
