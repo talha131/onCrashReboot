@@ -1,12 +1,14 @@
-Title: Michael Crichton -- Jurassic Park
-Tags:
-Category: Book Review
-Date: 2019-11-24 06:57
-Slug: michael-crichton--jurassic-park
-comment_id: 349tlwpkum6v-michael-crichton--jurassic-park
-Subtitle: A review
-Summary:
-Keywords:
+---
+slug: jurassic-park-book-review-michael-crichton
+authors:
+  - name: Talha
+    image: https://github.com/talha131.png
+date: 2024-12-14
+title: Michael Crichton – Jurassic Park
+tags: [book review]
+descriptin: Michael Crichton's Jurassic Park isn't just a dinosaur story—it's a cautionary tale about human arrogance and the limits of technology. In this reflective review, I explore its complex themes, science, and flaws, and compare its lasting impact to Spielberg's famous adaptation.
+keywords: [Michael Crichton Jurassic Park review, Jurassic Park novel themes, cautionary science fiction, humanity and technology in Jurassic Park, book vs movie Jurassic Park, sci-fi literary analysis, Michael Crichton writing, Jurassic Park plot critique]
+---
 
 About a decade ago, I was browsing for novels at a used bookstore. The shopkeeper pushed Jurassic Park into my hands. "You will like this book. It's a best seller."
 
