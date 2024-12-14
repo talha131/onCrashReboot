@@ -3,7 +3,7 @@ slug: jurassic-park-book-review-michael-crichton
 authors:
   - name: Talha
     image: https://github.com/talha131.png
-date: 2024-12-14
+date: 2024-11-14
 title: Michael Crichton – Jurassic Park
 tags: [book review]
 descriptin: Michael Crichton's Jurassic Park isn't just a dinosaur story—it's a cautionary tale about human arrogance and the limits of technology. In this reflective review, I explore its complex themes, science, and flaws, and compare its lasting impact to Spielberg's famous adaptation.
