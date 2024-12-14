@@ -1,6 +1,9 @@
 ---
 slug: correct-way-to-remove-array-elements
-authors: [talha]
+authors:
+  - name: Talha
+    image: https://github.com/talha131.png
+date: 2024-04-11
 title: Removing Elements from Arrays the Right Way
 tags: [data structure, algorithm,functional programming, Cpp, Csharp, Python, JavaScript, Golang]
 description: Learn the correct methods for removing elements from arrays in JavaScript, including best practices and common pitfalls to avoid.
