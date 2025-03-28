@@ -39,7 +39,7 @@ style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla
 {{< hextra/feature-card
 title="Information and Communication Technology (ICT) in Education"
 subtitle="Comprehensive notes, study guides, assignments, and past papers for mastering ICT concepts."
-link="/ict-study-resources"
+link="/ict-study-guide"
 class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
 image="images/facebook-advertisement-tutorial.svg"
 imageClass="hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
