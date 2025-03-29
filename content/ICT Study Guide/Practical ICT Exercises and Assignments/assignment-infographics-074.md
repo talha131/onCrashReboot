@@ -6,6 +6,11 @@ description: Create an infographic explaining solar and lunar eclipses, their fo
 weight: 74
 ---
 
+{{< callout type="info" >}}
+These instructions serve as general guidelines. Adapt them as needed to suit the specific requirements of the task or creative vision. Avoid following them rigidly without considering the context.
+{{< /callout >}}
+
+
 This assignment involves designing a visually engaging infographic to explain **solar and lunar eclipses**, their formation, and key differences. The infographic should use diagrams, charts, and labels to simplify these celestial phenomena.
 
 
@@ -15,10 +20,6 @@ Create an infographic that helps viewers understand:
 1. **What are solar and lunar eclipses?**  
 2. **How are they formed?**  
 3. **Key comparisons between the two phenomena.**  
-
-{{< callout type="info" >}}  
-This assignment strengthens creative skills while enhancing the understanding of celestial events through infographic design.  
-{{< /callout >}}  
 
 ## Assignment Details  
 
