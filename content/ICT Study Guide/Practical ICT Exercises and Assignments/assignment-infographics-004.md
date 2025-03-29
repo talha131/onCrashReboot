@@ -20,7 +20,7 @@ Transform the provided data into a visually engaging and informative infographic
 
 1. **Review the Data:** Carefully analyze the information given below. Understand its structure and how the various elements relate to each other.
 2. **Select a Tool:** Choose a digital tool that suits your design needs. Popular options include [Draw.io](https://app.diagrams.net/) and [Canva](https://www.canva.com/), but feel free to use any platform you are comfortable with.
-3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **tree diagram**. This means you should organize the information in a hierarchical structure, with branches representing different categories or levels of information.
+3. **Design Your Infographics:** Based on the data, your infographic should take the form of a **[tree diagram](https://miro.com/diagramming/what-is-a-tree-diagram/)**. This means you should organize the information in a hierarchical structure, with branches representing different categories or levels of information.
 
 ### Root Node
 
