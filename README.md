@@ -1,11 +1,16 @@
-## onCrash = "Reboot();"
+## onCrash = "Reboot();
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f8b6454d-b64f-45ff-a0c6-de28791568d4/deploy-status)](https://app.netlify.com/sites/oncrashreboot/deploys)[![Build Status](https://travis-ci.org/talha131/onCrashReboot.svg?branch=master)](https://travis-ci.org/talha131/onCrashReboot)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f8b6454d-b64f-45ff-a0c6-de28791568d4/deploy-status)](https://app.netlify.com/sites/oncrashreboot/deploys)
 
-This is the configuration files and articles of my blog [`onCrash="Reboot();"`](http://oncrashreboot.com/).
+This repository serves the redirect site for [onCrashReboot.com](https://www.oncrashreboot.com/).
 
-It is build and published with [Pelican](http://docs.getpelican.com/), and hosted on [Netlify](https://www.netlify.com/).
+The site has permanently moved to [talhamansoor.com](https://talhamansoor.com/). All URLs redirect automatically to their equivalent pages on the new domain.
+
+## How it works
+
+- `static/index.html` — "We've moved" landing page shown at the root URL
+- `static/_redirects` — Netlify redirect rules; all paths are 301-redirected to `talhamansoor.com`
 
 ## License
 
-Code in this repository is released under the [Creative Commons Attribution 4.0 International][cc-by-4.0] license.
+Code in this repository is released under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
