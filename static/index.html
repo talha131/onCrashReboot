@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>onCrashReboot has moved → talhamansoor.com</title>
+
+  <!-- SEO: canonical URL tells crawlers where the real content lives -->
+  <link rel="canonical" href="https://talhamansoor.com/">
+
+  <!-- Fallback redirect for crawlers and no-JS browsers -->
+  <meta http-equiv="refresh" content="12;url=https://talhamansoor.com/">
+
+  <meta name="description" content="onCrashReboot.com has permanently moved to talhamansoor.com — Talha Mansoor's new home on the web.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://talhamansoor.com/">
+  <meta property="og:title" content="onCrashReboot has permanently moved to talhamansoor.com">
+  <meta property="og:description" content="onCrashReboot.com has permanently moved to talhamansoor.com">
+
+  <style>
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --bg:          #0d1117;
+      --terminal-bg: #161b22;
+      --header-bg:   #21262d;
+      --border:      #30363d;
+      --text:        #c9d1d9;
+      --dim:         #8b949e;
+      --green:       #3fb950;
+      --green-light: #56d364;
+      --yellow:      #e3b341;
+      --blue:        #58a6ff;
+      --white:       #f0f6fc;
+      --prompt:      #58a6ff;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'SF Mono', 'Fira Code', 'Cascadia Code', Consolas, 'Courier New', monospace;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+    }
+
+    /* ── Terminal window ─────────────────────────────────── */
+    .terminal {
+      width: 100%;
+      max-width: 680px;
+      background: var(--terminal-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow:
+        0 0 0 1px var(--border),
+        0 8px 24px rgba(0,0,0,0.4),
+        0 24px 64px rgba(0,0,0,0.3);
+    }
+
+    .terminal-header {
+      background: var(--header-bg);
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      user-select: none;
+    }
+
+    .dots {
+      display: flex;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+
+    .dot-red    { background: #ff5f56; }
+    .dot-yellow { background: #ffbd2e; }
+    .dot-green  { background: #27c93f; }
+
+    .terminal-title {
+      flex: 1;
+      text-align: center;
+      font-size: 12px;
+      color: var(--dim);
+      letter-spacing: 0.02em;
+      margin-right: 36px; /* visually center against dots */
+    }
+
+    .terminal-body {
+      padding: 28px 28px 24px;
+      font-size: 14px;
+      line-height: 1.9;
+    }
+
+    /* ── Animated lines ──────────────────────────────────── */
+    .line {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 0.35s ease, transform 0.35s ease;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+
+    .line.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* ── Token colours ───────────────────────────────────── */
+    .t-prompt  { color: var(--prompt);  flex-shrink: 0; }
+    .t-cmd     { color: var(--white); }
+    .t-comment { color: var(--dim); }
+    .t-ok      { color: var(--green); }
+    .t-warn    { color: var(--yellow); }
+    .t-info    { color: var(--blue); }
+    .t-url     { color: var(--green); font-weight: 700; text-decoration: none; }
+    .t-url:hover { text-decoration: underline; }
+
+    /* ── Blinking cursor ─────────────────────────────────── */
+    .cursor {
+      display: inline-block;
+      width: 9px;
+      height: 1.05em;
+      background: var(--green);
+      vertical-align: text-bottom;
+      border-radius: 1px;
+      animation: blink 1.1s step-end infinite;
+      margin-left: 2px;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+
+    /* ── Countdown row ───────────────────────────────────── */
+    .countdown-row {
+      margin-top: 4px;
+    }
+
+    .cd-num {
+      color: var(--yellow);
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+      min-width: 2ch;
+      display: inline-block;
+    }
+
+    /* ── Action buttons ──────────────────────────────────── */
+    .actions {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 20px;
+    }
+
+    .btn {
+      font-family: inherit;
+      font-size: 13px;
+      padding: 9px 20px;
+      border-radius: 6px;
+      border: 1px solid transparent;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+    }
+
+    .btn-go {
+      background: var(--green);
+      color: #0d1117;
+      border-color: var(--green);
+      font-weight: 700;
+    }
+
+    .btn-go:hover {
+      background: var(--green-light);
+      border-color: var(--green-light);
+    }
+
+    .btn-cancel {
+      background: transparent;
+      color: var(--text);
+      border-color: var(--border);
+    }
+
+    .btn-cancel:hover {
+      background: var(--header-bg);
+      border-color: var(--dim);
+    }
+
+    /* ── Footer ──────────────────────────────────────────── */
+    .footer {
+      margin-top: 20px;
+      font-size: 11px;
+      color: var(--dim);
+      text-align: center;
+      letter-spacing: 0.02em;
+    }
+
+    /* ── Responsive ──────────────────────────────────────── */
+    @media (max-width: 480px) {
+      .terminal-body { padding: 18px 16px; font-size: 12px; }
+      .actions       { flex-direction: column; }
+      .btn           { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="terminal" role="main">
+  <div class="terminal-header" aria-hidden="true">
+    <div class="dots">
+      <div class="dot dot-red"></div>
+      <div class="dot dot-yellow"></div>
+      <div class="dot dot-green"></div>
+    </div>
+    <div class="terminal-title">bash — onCrashReboot.com</div>
+  </div>
+
+  <div class="terminal-body" id="output" aria-live="polite">
+    <!-- lines injected by JS below -->
+  </div>
+</div>
+
+<p class="footer">
+  All links and bookmarks continue to work — they redirect automatically.
+</p>
+
+<script>
+(function () {
+  'use strict';
+
+  var NEW_DOMAIN  = 'https://talhamansoor.com/';
+  var COUNTDOWN   = 12;
+
+  var output      = document.getElementById('output');
+  var cancelled   = false;
+  var cdInterval  = null;
+
+  /* ── Script lines ──────────────────────────────────────── */
+  var script = [
+    { ms:    0, cls: 't-cmd',     prompt: true,  text: './reboot.sh --migrate' },
+    { ms:  700, cls: 't-comment', prompt: false, text: '# Checking migration status...' },
+    { ms: 1300, cls: 't-warn',    prompt: false, text: '[WARN]  onCrashReboot.com  →  scheduled for decommission' },
+    { ms: 1900, cls: 't-ok',      prompt: false, text: '[OK]    Articles and guides  →  migrated' },
+    { ms: 2400, cls: 't-ok',      prompt: false, text: '[OK]    SEO signals          →  transferred' },
+    { ms: 2900, cls: 't-ok',      prompt: false, text: '[OK]    Links and bookmarks  →  redirected' },
+    { ms: 3500, cls: 't-info',    prompt: false, text: '[INFO]  New address          →  __URL__' },
+    { ms: 4300, cls: 't-comment', prompt: false, text: '# Starting redirect sequence...' },
+  ];
+
+  /* ── DOM helpers ───────────────────────────────────────── */
+  function esc(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  function makeLine(html) {
+    var div = document.createElement('div');
+    div.className = 'line';
+    div.innerHTML = html;
+    output.appendChild(div);
+    // double rAF ensures the transition fires after insertion
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () { div.classList.add('show'); });
+    });
+    return div;
+  }
+
+  function renderScript() {
+    var lastMs = 0;
+
+    script.forEach(function (item) {
+      lastMs = Math.max(lastMs, item.ms);
+
+      setTimeout(function () {
+        var body;
+
+        if (item.text.indexOf('__URL__') !== -1) {
+          body = '<span class="' + item.cls + '">'
+               + esc(item.text.replace('__URL__', ''))
+               + '<a href="' + NEW_DOMAIN + '" class="t-url">' + esc(NEW_DOMAIN.replace(/\/$/, '')) + '</a>'
+               + '</span>';
+        } else {
+          body = '<span class="' + item.cls + '">' + esc(item.text) + '</span>';
+        }
+
+        var html = item.prompt
+          ? '<span class="t-prompt">~$</span> ' + body
+          : body;
+
+        makeLine(html);
+      }, item.ms);
+    });
+
+    setTimeout(renderCountdown, lastMs + 600);
+  }
+
+  /* ── Countdown + actions ───────────────────────────────── */
+  function renderCountdown() {
+    // countdown row
+    var cdRow = makeLine(
+      '<span class="t-warn">[WAIT]</span>'
+      + '&nbsp;<span>Redirecting in </span>'
+      + '<span class="cd-num" id="cd">' + COUNTDOWN + '</span>'
+      + '<span>&nbsp;seconds</span>'
+      + '<span class="cursor"></span>'
+    );
+    cdRow.classList.add('countdown-row');
+
+    // action buttons
+    var actDiv = document.createElement('div');
+    actDiv.className = 'actions line';
+    actDiv.innerHTML =
+      '<a href="' + NEW_DOMAIN + '" class="btn btn-go">&#8594;&nbsp;Go to talhamansoor.com</a>'
+      + '<button class="btn btn-cancel" onclick="cancelRedirect()">&#10005;&nbsp;Stay here</button>';
+    output.appendChild(actDiv);
+    requestAnimationFrame(function () {
+      requestAnimationFrame(function () { actDiv.classList.add('show'); });
+    });
+
+    // tick
+    var remaining = COUNTDOWN;
+    cdInterval = setInterval(function () {
+      if (cancelled) { clearInterval(cdInterval); return; }
+      remaining -= 1;
+      var el = document.getElementById('cd');
+      if (el) el.textContent = remaining;
+      if (remaining <= 0) {
+        clearInterval(cdInterval);
+        window.location.href = NEW_DOMAIN;
+      }
+    }, 1000);
+  }
+
+  /* ── Cancel (exposed globally for inline onclick) ─────── */
+  window.cancelRedirect = function () {
+    cancelled = true;
+    clearInterval(cdInterval);
+
+    var cdRow = document.querySelector('.countdown-row');
+    if (cdRow) {
+      cdRow.innerHTML = '<span class="t-comment"># Redirect cancelled. Click the button above whenever you\'re ready.</span>';
+    }
+
+    var cancelBtn = document.querySelector('.btn-cancel');
+    if (cancelBtn) cancelBtn.remove();
+  };
+
+  /* ── Boot ──────────────────────────────────────────────── */
+  renderScript();
+}());
+</script>
+
+</body>
+</html>
